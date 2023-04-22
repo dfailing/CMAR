@@ -1,0 +1,25 @@
+Event,Gender,Rank,First,Last,Age,Time,Year
+100 Mile,M,1,James,Solomon,32,21:39:53,2022
+100 Mile,M,2,James,Solomon,31,23:12:28,2021
+100 Mile,M,3,Andy,Newman,47,26:49:30,2022
+100 Mile,F,1,Susan,Donnelly,54,27:16:55,2017
+100 Mile,F,2,Grace,Hawkins,27,30:25:16,2019
+100 Mile,F,3,Rachel,Burke,37,32:15:33,2022
+100K,M,1,Joey,Miller,30,12:03:30,2018
+100K,M,2,Tommy,Doias,46,12:30:39,2018
+100K,M,3,Tommy,Doias,45,13:00:40,2017
+100K,F,1,Sarka,Petrickova,32,15:42:09,2018
+100K,F,2,Alison,Ball,31,15:52:56,2022
+100K,F,3,Jordan,Garris,30,16:41:32,2018
+50K,M,1,Justin,Stewart,33,05:16:13,2021
+50K,M,2,Joey,Miller,31,05:41:03,2019
+50K,M,3,Matthew,Hajny,39,06:20:42,2016
+50K,F,1,Elissa,Ballas,36,07:17:28,2016
+50K,F,2,Brandi,Payne,36,07:30:17,2021
+50K,F,3,Becky,Leahy,44,07:30:41,2018
+Half Marathon,M,1,Justin,Stewart,29,01:33:33,2015
+Half Marathon,M,2,Justin,Stewart,29,01:44:58,2017
+Half Marathon,M,3,Matthew,Hajny,38,01:46:30,2015
+Half Marathon,F,1,Angela,Funk,44,02:24:19,2015
+Half Marathon,F,2,Maria,Stedwill,14,02:25:00,2017
+Half Marathon,F,3,Brittany,Fritch,29,02:32:00,2015
