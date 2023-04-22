@@ -1,2 +1,12 @@
-# CMAR
-Shiny app displaying results and course records for the Cry Me A River! Trail Runs
+# CMAR Race Results - Shiny App
+I developed an application using R Shiny that displays results and course records for the Cry Me A River! Trail Runs. You can use the app [here]({{ site.url }}).
+
+The code and dataset needed to deploy the application are all in this repository. I update the raw results data every year after the race, generate the formatted CSV files to send to [UltraSignup](https://ultrasignup.com/), and submit those results.
+
+If you believe there is an error in the data, feel free to send me an email at david.failing@gmail.com, or open an [Issue](../../issues) on this repository.
+
+# Freelancer Shiny App
+
+I developed an application using R Shiny that matches data science freelancers to jobs based on their preferences, skills, and profile text. You can use the app [here](https://robinsones.shinyapps.io/Job_Shiny_App/). 
+
+The code and dataset needed to deploy the application are all in this repository. If you're interested in viewing the Python code of how I gathered, cleaned, and explored the data, please see [my other repository](https://github.com/robinsones/Data-Science-Freelancers).

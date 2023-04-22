@@ -37,5 +37,7 @@ rsconnect/
 
 # Ignore scratch files and directories
 # NOTE: Can append / to any of these to include files, exclude subfolders
-/**/zzzz-*/*
+# Ignore subfolders with this pattern, and all files they contain
 /**/zzz-*/*
+# Ignore all files with this pattern, in the root directory
+zzz-* 
