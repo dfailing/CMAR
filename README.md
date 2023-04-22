@@ -1,5 +1,5 @@
 # CMAR Race Results - Shiny App
-I developed an application using R Shiny that displays results and course records for the Cry Me A River! Trail Runs. You can use the app [here]({{ site.repository_url }}).
+I developed an application using R Shiny that displays results and course records for the Cry Me A River! Trail Runs. You can use the app [here]({{site.repository_url}}).
 
 The code and dataset needed to deploy the application are all in this repository. I update the raw results data every year after the race, generate the formatted CSV files to send to [UltraSignup](https://ultrasignup.com/), and submit those results.
 
