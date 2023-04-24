@@ -86,33 +86,13 @@ ui <- dashboardPage(
       ),
       
       tabItem(tabName = "course_records",
-              {course_records <- read_csv(here("data", "course_records.csv")) %>%
-                mutate(Record = paste0(Rank, ". ", paste(First, Last), " (", Age, "), ", Time, ", ", Year)) %>% 
-                select(Event, Gender, Record)
-              
-              lapply(unique(course_records$Event), function(event) {
-                fluidRow(lapply(unique(course_records$Gender), function(gender) {
-                  sub_table_name <- paste0(event, " - ", gender)
-                  column(
-                    width = 6,
-                    course_records %>%
-                      filter(Event == event, Gender == gender) %>%
-                      select(Record) %>%
-                      rename(!!sub_table_name := Record) %>%
-                      datatable(
-                        options = list(
-                          dom = 't',
-                          pageLength = 10,
-                          searching = FALSE,
-                          columnDefs = list(
-                            list(targets = 0, visible = FALSE),
-                            list(targets = "_all", orderable = FALSE)
-                          )
-                        )
-                      )
-                  )
-                }))
-              })}),
+              fluidRow(
+                box(
+                  width = 12,
+                  uiOutput("course_records_ui")
+                )
+              )
+      ),
       tabItem(
         tabName = "mileage_totals",
         fluidRow(
@@ -137,6 +117,43 @@ ui <- dashboardPage(
 
 # Define server logic
 server <- function(input, output, session) {
+  course_records_data <- reactive({
+    read_csv(here("data", "course_records.csv")) %>%
+      mutate(Rank = paste0(Rank, ".")) %>%
+      unite(Ranked_Name, Rank, First, Last, sep = " ") %>% 
+      mutate(Record = paste0(Ranked_Name, " (", Age, "), ", Time, ", ", Year)) %>%
+      select(Event, Gender, Record)
+  })
+  
+  output$course_records_ui <- renderUI({
+    course_records <- course_records_data()
+    events <- unique(course_records$Event)
+    genders <- unique(course_records$Gender)
+    
+    lapply(events, function(event) {
+      fluidRow(lapply(genders, function(gender) {
+        sub_table_name <- paste0(event, " - ", gender)
+        column(
+          width = 6,
+          course_records %>%
+            filter(Event == event, Gender == gender) %>%
+            select(Record) %>%
+            rename(!!sub_table_name := Record) %>%
+            datatable(
+              options = list(
+                dom = 't',
+                pageLength = 10,
+                searching = FALSE,
+                columnDefs = list(
+                  list(targets = 0, visible = FALSE),
+                  list(targets = "_all", orderable = FALSE)
+                )
+              )
+            )
+        )
+      }))
+    })
+  })
   
   mileage_data <- reactive({
     read_csv(here("data", "mileage_totals.csv")) %>%
