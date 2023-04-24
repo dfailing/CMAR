@@ -1,0 +1,688 @@
+Year,Event,Place,First,Last,City,State,Age,Gender,GP,Time
+2022,100 Mile,1,James,Solomon,Villa Park,IL,32,M,1,21:39:53
+2022,100 Mile,2,Andy,Newman,Wheaton,IL,47,M,2,26:49:30
+2022,100 Mile,3,Matt,Condron,Chicago,IL,55,M,3,31:21:20
+2022,100 Mile,4,Rachel,Burke,Chicago,IL,37,F,1,32:15:33
+2022,100 Mile,5,Scott,Slightom,El Paso,IL,48,M,4,32:15:34
+2022,100 Mile,6,Daniel,Williams,Kankakee,IL,23,M,5,33:01:07
+2022,100 Mile,7,Morgan,Mader,Villa Park,IL,37,F,2,35:05:07
+2022,100 Mile,8,Diedra,Nass,Minneapolis,MN,37,F,3,35:13:09
+2022,100 Mile,9,Debra,Norman,Napoleon,MO,62,F,4,35:55:53
+2022,100 Mile,10,Erin,Montgomery,Clinton,IA,42,F,5,36:01:06
+2022,100K,1,Justin,Stewart,Springfield,IL,34,M,1,13:27:50
+2022,100K,2,Jason,Midlock,Joliet,IL,38,M,2,14:39:34
+2022,100K,3,Andrew,Hocking,Springfield,IL,41,M,3,15:14:03
+2022,100K,4,Alison,Ball,Champaign,IL,31,F,1,15:52:56
+2022,100K,5,Jeffrey,Lenard,Johnsburg,IL,56,M,4,16:23:52
+2022,100K,6,Rachel,Reyes,Joliet,IL,34,F,2,16:49:35
+2022,100K,7,Nathan,Pritzker,Morton,IL,32,M,5,17:44:09
+2022,100K,8,Greg,Sturdy,Roscoe,IL,40,M,6,20:23:12
+2022,100K,9,Michael,Glennon,Schaumburg,IL,49,M,7,21:22:54
+2022,100K,10,Mark,Kirkland,Urbana,IL,48,M,8,23:24:10
+2022,50K,1,Bren,Raschke,Moline,IL,32,M,1,06:43:01
+2022,50K,2,Clark,Purnell,Moline,IL,41,M,2,07:04:23
+2022,50K,3,David,Failing,Flagstaff,AZ,36,M,3,07:40:17
+2022,50K,4,Matt,Davis,Galesburg,IL,45,M,4,07:46:05
+2022,50K,5,Aron,McDonald,Peoria,IL,49,M,5,07:52:45
+2022,50K,6,Candace,Tresnak,Roanoke,IL,43,F,1,10:06:08
+2022,50K,7,Todd,Baker,East Peoria,IL,48,M,6,10:11:39
+2022,50K,8,Rob,Judd,Bloomington,IL,46,M,7,10:27:02
+2022,50K,9,Arizona,Lagousakos,Chicago,IL,52,F,2,10:35:27
+2022,50K,10,Larry,Hall,Chicago,IL,68,M,8,10:40:48
+2022,50K,11,Naomi,Copeland,Naperville,IL,42,F,3,13:32:30
+2022,50K,12,Carleen,Coulter,Frankfort,IL,54,F,4,13:32:30
+2022,50K,13,Caroline,Tonozzi,Savoy,IL,45,F,5,13:42:57
+2022,Half Marathon,1,Joey,Miller,Springfield,IL,34,M,1,02:03:31
+2022,Half Marathon,2,Ryan,Stadnik,Normal,IL,15,M,2,02:35:16
+2022,Half Marathon,3,Bryan,Himmel,Morton,IL,22,M,3,02:46:21
+2022,Half Marathon,4,Brook,Stanbary,Putnam,IL,48,M,4,02:46:28
+2022,Half Marathon,5,Ben,Evans,Peoria,IL,47,M,5,02:51:17
+2022,Half Marathon,6,Scott,Thompson,Washington,IL,48,M,6,03:04:06
+2022,Half Marathon,7,Peter,Ahart,Lincoln,IL,42,M,7,03:09:14
+2022,Half Marathon,8,Marlin,Weekley,Metamora,IL,70,M,8,03:11:24
+2022,Half Marathon,9,Tim,Van Hoof,Downs,IL,55,M,9,03:11:25
+2022,Half Marathon,10,Valerie,Moore,Springfield,IL,33,F,1,03:17:53
+2022,Half Marathon,11,Mary,Stanbary,Putnam,IL,45,F,2,03:21:38
+2022,Half Marathon,12,Jared,Grzanich,Canton,IL,43,M,10,03:23:38
+2022,Half Marathon,13,Michael,Grady,Ann Arbor,MI,23,M,11,03:24:32
+2022,Half Marathon,14,Mike,Kelsey,Washington,IL,44,M,12,03:25:11
+2022,Half Marathon,15,Jerry,Stadnik,Normal,IL,47,M,13,03:30:30
+2022,Half Marathon,16,Julia,Carrell,East Peoria,IL,41,F,3,03:42:46
+2022,Half Marathon,17,Lupe,Martinez,West Peoria,IL,53,M,14,03:42:49
+2022,Half Marathon,18,Jennifer,Heller,Dixon,IL,46,F,4,03:44:39
+2022,Half Marathon,19,Keith,Aurand,Dixon,IL,57,M,15,03:44:40
+2022,Half Marathon,20,Smitha,Rhodes,Chatham,IL,39,F,5,03:47:31
+2022,Half Marathon,21,Liz,Engstrom,Sterling,IL,39,F,6,04:34:04
+2022,Half Marathon,22,Norman,Heiser,Princeville,IL,73,M,16,04:37:02
+2022,Half Marathon,23,Troy,Pequette,Washington,IL,51,M,17,04:42:58
+2022,Half Marathon,24,Jason,Pequette,Tinley Park,IL,49,M,18,04:43:08
+2022,Half Marathon,25,Tiffany,Anderson,Coal Valley,IL,41,F,7,05:17:18
+2022,Half Marathon,26,Robin,Sampliner,Deerfield,IL,59,F,8,05:17:24
+2021,100 Mile,1,James,Solomon,Villa Park,IL,31,M,1,23:12:28
+2021,100 Mile,2,Scott,Slightom,El Paso,IL,47,M,2,31:38:06
+2021,100 Mile,3,Dirk,Jaegle,Peoria,IL,32,M,3,32:59:50
+2021,100 Mile,4,Angela,Freedman,McFarland,WI,46,F,1,33:01:56
+2021,100 Mile,5,David,Failing,Flagstaff,AZ,35,M,4,33:47:52
+2021,100 Mile,6,Jimmy,Jones,Chicago,IL,43,M,5,33:56:58
+2021,100 Mile,7,Kyle,Nordquist,Brookfield,IL,38,M,6,33:56:58
+2021,100 Mile,8,Jeffrey,Lenard,Johnsburg,IL,55,M,7,34:07:15
+2021,100 Mile,9,Marta,Borkowska,Chicago,IL,44,F,2,34:12:46
+2021,100 Mile,10,Kathy,Errthum,La Crosse,WI,45,F,3,34:20:27
+2021,100 Mile,11,Jeff,Goodmanson,Village of Lakewood,IL,58,M,8,34:36:27
+2021,100 Mile,12,Michelle,Burton,Carrollton,TX,42,F,4,34:36:46
+2021,100 Mile,13,Rob,Judd,Bloomington,IL,45,M,9,35:02:23
+2021,100 Mile,14,Richard,Plezia,Morton Grove,IL,63,M,10,35:11:23
+2021,100 Mile,15,Anjanette,Arnold,Pine River,MN,44,F,5,35:23:48
+2021,100K,1,Jeffrey,Fleitz,Chicago,IL,50,M,1,13:59:24
+2021,100K,2,Matthew,Hajny,Washington,IL,44,M,2,14:34:45
+2021,100K,3,Pearce,Durst,Naperville,IL,37,M,3,15:53:52
+2021,100K,4,Evan,McCrea,Tremont,IL,32,M,4,17:31:43
+2021,100K,5,Wladyslaw,Maciej,Franklin Park,IL,61,M,5,18:11:55
+2021,100K,6,Michael,Drazer,Porter,IN,35,M,6,19:07:57
+2021,100K,7,Nathan,Pritzker,Morton,IL,31,M,7,19:22:21
+2021,100K,8,Jim,Arnold,La Grange,IL,56,M,8,20:09:57
+2021,100K,9,Thomas,Lieber,Huntley,IL,50,M,9,20:28:32
+2021,100K,10,Adrianne,Lieber,Huntley,IL,38,F,1,20:28:36
+2021,100K,11,Jim,Stanley,Chillicothe,IL,49,M,10,21:11:18
+2021,100K,12,Morgan,Mader,Villa Park,IL,36,F,2,23:15:52
+2021,100K,13,Mary,Leonard,Manhattan,IL,39,F,3,23:54:50
+2021,100K,14,Latoya,Swartz,Evergreen Park,IL,43,F,4,24:14:05
+2021,50K,1,Justin,Stewart,Springfield,IL,33,M,1,05:16:13
+2021,50K,2,Neil,Nicholson,Aurora,IL,41,M,2,06:28:14
+2021,50K,3,Vincent,Moore,Springfield,IL,34,M,3,06:30:01
+2021,50K,4,David,Secord,Chicago,IL,35,M,4,06:45:18
+2021,50K,5,Lyle,Block,East Peoria,IL,40,M,5,07:09:39
+2021,50K,6,Brandi,Payne,Peoria,IL,36,F,1,07:30:17
+2021,50K,7,Josh,Hedrick,Heyworth,IL,38,M,6,08:09:29
+2021,50K,8,Garris,Radloff,Morton,IL,22,M,7,08:20:35
+2021,50K,9,Ian,Gorley,Loveland,OH,21,M,8,08:20:35
+2021,50K,10,Sophie,Russell,Peoria,IL,34,F,2,08:23:24
+2021,50K,11,Bobby,Duby,Millstadt,IL,44,M,9,08:29:26
+2021,50K,12,Ted,Golden,Pekin,IL,38,M,10,08:41:04
+2021,50K,13,Kevin,Mathewson,Peoria,IL,47,M,11,08:46:29
+2021,50K,14,Steve,Traman,Cleveland,IL,35,M,12,08:55:45
+2021,50K,15,Christian,Kilby,Mackinaw,IL,30,M,13,08:56:10
+2021,50K,16,Cody,Comstock,Pekin,IL,33,M,14,08:59:17
+2021,50K,17,Travis,Graves,Peoria,IL,37,M,15,09:05:49
+2021,50K,18,Rich,Fela,Bloomington,IL,48,M,16,09:07:56
+2021,50K,19,Jeramy,Duffee,Moline,IL,44,M,17,09:10:28
+2021,50K,20,Riley,Green,Lock Haven,PA,23,M,18,09:55:05
+2021,50K,21,Jake,Grossbauer,Dittmer,MO,35,M,19,10:00:56
+2021,50K,22,Jeff,Reynolds,Tremont,IL,43,M,20,10:05:10
+2021,50K,23,Chad,Barnes,Peoria,IL,49,M,21,10:08:40
+2021,50K,24,Rob,Brown,Brookfield,IL,45,M,22,10:37:08
+2021,50K,25,Meghan,Garvin,Cary,IL,42,F,3,10:50:07
+2021,50K,26,Lee,Hosbrough,Washington,IL,49,M,23,10:50:21
+2021,50K,27,Brian,Doerfler,Brimfield,IL,54,M,24,11:00:08
+2021,50K,28,Neal,Murphy,Normal,IL,45,M,25,11:03:36
+2021,50K,29,Emily,Floess,Raleigh,NC,33,F,4,11:04:01
+2021,50K,30,Tiffany,Dore,Oswego,IL,42,F,5,11:27:18
+2021,50K,31,Oscar,Molina,Chicago,IL,40,M,26,11:40:07
+2021,50K,32,Angel,Heaver,Woodstock,IL,50,F,6,11:41:32
+2021,50K,33,Joe,Gow,Huntley,IL,58,M,27,11:45:00
+2021,50K,34,Frank,Hardy,Marquette Heights,IL,43,M,28,12:01:36
+2021,50K,35,Roberto,Enriquez,Chicago,IL,46,M,29,12:03:49
+2021,50K,36,Mary,Hosbrough,Washington,IL,49,F,7,13:27:34
+2021,50K,37,Caroline,Tonozzi,Savoy,IL,24,F,8,13:31:48
+2021,50K,38,Robert,McCrory,Dixon,IL,50,M,30,13:58:00
+2021,50K,39,Tara,Mayner,Normal,IL,50,F,9,14:13:19
+2021,50K,40,Racine,Lambert-Cwerenz,Glendale Heights,IL,60,F,10,14:13:20
+2021,50K,41,Dennis,Cantrell,Coatesville,IN,61,M,31,14:33:33
+2021,50K,42,Ronnie,Katz,Indianapolis,IN,63,M,32,14:33:35
+2021,50K,43,Karen,Johnson,Crystal Lake,IL,56,F,11,14:36:41
+2021,50K,44,Tracy,Chaney,Peoria,IL,49,F,12,15:13:07
+2021,Half Marathon,1,Ryan,Stadnik,Normal,IL,14,M,1,02:33:28
+2021,Half Marathon,2,Daniela,Harrison,Princeville,IL,39,F,1,02:37:37
+2021,Half Marathon,3,Kevin,Brucker,East Peoria,IL,42,M,2,02:44:54
+2021,Half Marathon,4,Cole,Stoner,Pekin,IL,33,M,3,02:45:53
+2021,Half Marathon,5,Scott,Thompson,Washington,IL,47,M,4,02:53:17
+2021,Half Marathon,6,Ben,Evans,Peoria,IL,46,M,5,03:01:37
+2021,Half Marathon,7,Andrea,Copeland,Peoria,IL,21,F,2,03:06:34
+2021,Half Marathon,8,Karianne,Kusner,Winnebago,IL,49,F,3,03:09:14
+2021,Half Marathon,9,Hannah,Johnson,Morton,IL,21,F,4,03:10:58
+2021,Half Marathon,10,Jerry,Stadnik,Normal,IL,46,M,6,03:20:27
+2021,Half Marathon,11,Stephanie,Parks,Chesterfield,MI,41,F,5,03:38:26
+2021,Half Marathon,12,Elaine,Lagoda,East peoria,IL,62,F,6,03:47:07
+2021,Half Marathon,13,Christy,Dillard,Morton,IL,60,F,7,03:54:22
+2021,Half Marathon,14,Kate,Socha,Edwards,IL,54,F,8,03:56:34
+2021,Half Marathon,14,Lisa,Roskamp,Dunlap,IL,51,F,9,03:56:34
+2021,Half Marathon,16,Roland,Savoie,Peoria,IL,54,M,7,03:59:11
+2021,Half Marathon,17,Eric,Michaelis,St. Charles,IL,39,M,8,04:01:33
+2021,Half Marathon,18,John,Radloff,Morton,IL,53,M,9,04:03:08
+2021,Half Marathon,19,William,Hoffman,Springfield,IL,57,M,10,04:20:21
+2021,Half Marathon,20,Tammy,Colver,Garden Prairie,IL,49,F,10,04:29:44
+2021,Half Marathon,21,Brian,Drendel,Genoa,IL,54,M,11,04:29:44
+2021,Half Marathon,22,Jesse,Mendoza,Round Lake Beach,IL,51,M,12,04:36:17
+2021,Half Marathon,23,Erich,Smith,Peoria,IL,52,M,13,04:37:11
+2021,Half Marathon,24,Norman,Heiser,Princeville,IL,72,M,14,04:37:12
+2021,Half Marathon,25,Christopher,Reed,Streator,IL,43,M,15,04:50:53
+2021,Half Marathon,26,Sara,Reed,Streator,IL,17,F,11,05:07:41
+2021,Half Marathon,27,Katy,Reed,Streator,IL,38,F,12,05:08:41
+2021,Half Marathon,28,Cheryl,Lindberg,Caledonia,IL,61,F,13,05:23:32
+2021,Half Marathon,29,Robin,Sampliner,Deerfield,IL,58,F,14,05:23:56
+2021,Half Marathon,30,Liam,Clague,Naperville,IL,14,M,16,05:38:43
+2021,Half Marathon,31,Alyssa,Durst,Naperville,IL,34,F,15,05:38:43
+2021,Half Marathon,32,Therese,Brink,Peoria,IL,63,F,16,08:13:38
+2019,100 Mile,1,Lee,Dalgety,NA,IL,48,M,1,27:55:12
+2019,100 Mile,2,Cameron,Balser,Elwood,IN,28,M,2,29:30:58
+2019,100 Mile,3,Grace,Hawkins,Pekin,IL,27,F,1,30:25:16
+2019,100 Mile,4,Adam,Kissinger,Grayslake,IL,NA,M,3,31:28:45
+2019,100 Mile,5,Rob,Ulm,Charleston,IL,43,M,4,32:10:49
+2019,100 Mile,6,Jeffrey,Lenard,Johnsburg,IL,53,M,5,32:27:00
+2019,100 Mile,7,Kathy,Errthum,La Crosse,WI,43,F,2,33:33:54
+2019,100 Mile,8,Scott,Slightom,El Paso,IL,45,M,6,33:33:58
+2019,100K,1,David,Hanna,Marquette Heights,IL,NA,M,1,18:52:33
+2019,100K,2,Dirk,Jaegle,NA,IL,NA,M,2,19:55:42
+2019,100K,3,Terry,Koser,Edelstein,IL,NA,M,3,24:37:07
+2019,50K,1,Joey,Miller,Springfield,IL,31,M,1,05:41:03
+2019,50K,2,Matthew,Hajny,Washington,IL,NA,M,2,06:44:23
+2019,50K,3,Tommy,Doias,Eureka,MO,NA,M,3,06:50:25
+2019,50K,4,Ryan,Kelly,St. Charles,MO,NA,M,4,07:54:54
+2019,50K,5,Jennifer,Doias,Eureka,MO,48,F,1,08:44:12
+2019,50K,6,Trish,Borboa,Springfield,IL,NA,F,2,08:48:29
+2019,50K,7,Garris,Radloff,NA,IL,NA,M,5,08:58:26
+2019,50K,8,Kevin,Kerian,Edmonton,AB,NA,M,6,09:09:55
+2019,50K,9,Christa,Hanna,NA,IL,NA,F,3,09:09:58
+2019,50K,10,Tanya,Giannotti,Normal,IL,NA,F,4,09:34:07
+2019,50K,11,Ausra,Butkeviciute,Mundelein,IL,NA,F,5,09:47:11
+2019,50K,12,Meredith,Goode,NA,IL,NA,F,6,09:57:23
+2019,50K,13,Taryne,McCrea,Tremont,IL,NA,F,7,10:43:41
+2019,50K,14,Brian,Drendel,Genoa,IL,NA,M,7,11:13:12
+2019,50K,15,Keith,Aurand,Dixon,IL,NA,M,8,11:27:48
+2019,50K,16,Angella,Moorehouse,WARSAW,IL,NA,F,8,11:41:53
+2019,50K,17,Rodney,Worden,Lake Villa,IL,NA,M,9,12:34:35
+2019,50K,18,SarahJeanne,Olson,Canton,IL,NA,F,9,12:47:12
+2019,50K,19,Racine,Lambert-Cwerenz,NA,IL,NA,F,10,13:18:33
+2019,50K,20,Tara,Mayner,Normal,IL,NA,F,11,13:18:33
+2019,50K,21,Frank,Ingalls,Wichita Falls,TX,NA,M,10,13:32:46
+2019,50K,22,Oscar,Delgado,Monee,IL,NA,M,11,13:37:22
+2019,50K,23,Caroline,Tonozzi,Savoy,IL,NA,F,12,13:43:49
+2019,50K,24,Mark,Mitchell,Chicago,IL,NA,M,12,13:43:51
+2019,50K,25,Steve,Hammann,NA,IL,NA,M,13,15:05:50
+2019,50K,26,Therese,Brink,NA,IL,NA,F,13,21:03:00
+2019,Half Marathon,1,Bryan,Himmel,Morton,IL,19,M,1,02:20:54
+2019,Half Marathon,2,Maria,Stedwill,Dunlap,IL,14,F,1,02:32:58
+2019,Half Marathon,3,Ben,Cantrell,San Diego,CA,33,M,2,02:59:06
+2019,Half Marathon,4,Rob,Hilsabeck,NA,IL,NA,M,3,03:00:50
+2019,Half Marathon,5,Scott,Thompson,Washington,IL,45,M,4,03:01:30
+2019,Half Marathon,6,Vincent,Moore,NA,IL,NA,M,5,03:04:40
+2019,Half Marathon,7,Kevin,Mathewson,NA,IL,NA,M,6,03:13:31
+2019,Half Marathon,8,Juliann,Stedwill,Dunlap,IL,51,F,2,03:15:20
+2019,Half Marathon,9,Mitchell,Hurst,NA,IL,NA,M,7,03:15:50
+2019,Half Marathon,10,Amanda,Turner,NA,IL,NA,F,3,03:20:01
+2019,Half Marathon,11,Amy,Lee,NA,IL,NA,F,4,03:22:44
+2019,Half Marathon,12,Pete,Cleary,NA,IL,NA,M,8,03:27:30
+2019,Half Marathon,13,Tana,Utley,Washington,IL,56,F,5,03:27:47
+2019,Half Marathon,14,Nick,Peeler,NA,IL,NA,M,9,03:34:13
+2019,Half Marathon,15,Nick,Bergerhouse,NA,IL,NA,M,10,03:34:25
+2019,Half Marathon,16,Jessica,Lomax,Woodridge,IL,39,F,6,03:35:00
+2019,Half Marathon,17,Nana,Rodriguez,Chicago,IL,40,F,7,03:36:30
+2019,Half Marathon,18,Lupe,Martinez,Peoria,IL,50,M,11,03:40:09
+2019,Half Marathon,19,Tony,Colvin,NA,IL,NA,M,12,03:49:53
+2019,Half Marathon,20,Jaime,Delgado,Chicago,IL,42,M,13,03:52:35
+2019,Half Marathon,21,Tina,Bajic,Pekin,IL,44,F,8,03:52:37
+2019,Half Marathon,22,Roland,Savoie,Peoria,IL,52,M,14,03:57:17
+2019,Half Marathon,23,Roberto,Enriquez,Chicago,IL,44,M,15,04:09:21
+2019,Half Marathon,24,Rigoberto,Hernandez,Roselle,IL,43,M,16,04:09:37
+2019,Half Marathon,25,Sherry,Cammack,Joliet,IL,46,F,9,04:12:02
+2019,Half Marathon,26,Tammy,Colver,Garden Prairie,IL,47,F,10,04:17:12
+2019,Half Marathon,27,Marysue,Baker,NA,IL,NA,F,11,04:23:38
+2019,Half Marathon,28,Valerie,Moore,NA,IL,NA,F,12,04:23:58
+2019,Half Marathon,29,Nancy,Sivertsen,Champaign,IL,62,F,13,04:29:51
+2019,Half Marathon,30,Scott,Sokolowski,NA,IL,NA,M,17,04:32:14
+2019,Half Marathon,31,Maurice,Wantiez,NA,IL,NA,M,18,04:38:56
+2019,Half Marathon,32,Eva,Magnusen,NA,IL,NA,F,14,04:48:24
+2019,Half Marathon,33,Connie,Canterbury,East Peoria,IL,55,F,15,04:48:55
+2019,Half Marathon,34,Laura,Turner,NA,IL,NA,F,16,04:49:38
+2019,Half Marathon,35,Mark,Francis,Crystal Lake,IL,55,M,19,04:59:27
+2019,Half Marathon,36,Sue,Francis,Crystal Lake,IL,55,F,17,04:59:28
+2019,Half Marathon,37,Kelly,Stark,Peoria,IL,40,F,18,05:29:14
+2019,Half Marathon,38,Julie,Bane,Woodstock,IL,55,F,19,05:55:55
+2018,100 Mile,1,Jeffrey,Lenard,McHenry,IL,52,M,1,29:31:20
+2018,100 Mile,2,David,Failing,Westmont,IL,32,M,2,32:04:40
+2018,100 Mile,3,David,Hanna,Marquette Heights,IL,31,M,3,32:53:58
+2018,100 Mile,4,Karen,Erba,Winona Lake,IN,48,F,1,33:24:35
+2018,100 Mile,5,William,Smith,Urbana,IL,24,M,4,33:29:47
+2018,100 Mile,6,Richard,Plezia,Morton Grove,IL,60,M,5,33:29:49
+2018,100K,1,Joey,Miller,Springfield,IL,30,M,1,12:03:30
+2018,100K,2,Tommy,Doias,Eureka,MO,46,M,2,12:30:39
+2018,100K,3,Sarka,Petrickova,Urbana,IL,32,F,1,15:42:09
+2018,100K,4,Jordan,Garris,Cincinnati,OH,30,F,2,16:41:32
+2018,100K,5,James,Wright,Machesney Park,IL,34,M,3,17:37:53
+2018,100K,6,Magdalena,Casper-Shipp,Urbana,IL,32,F,3,18:28:58
+2018,100K,7,Jennifer,Doias,Eureka,MO,47,F,4,18:47:52
+2018,100K,8,Paul,Wilkerson,Metamora,IL,42,M,4,18:51:36
+2018,100K,9,Shalini,Kovach,Ballwin,MO,42,F,5,20:15:54
+2018,100K,10,Amanda,Smith,Chicago,IL,36,F,6,20:15:55
+2018,100K,11,Holly,Lindroth,Chicago,IL,32,F,7,20:42:47
+2018,100K,11,Michelle,Burton,Lombard,IL,39,F,8,20:42:47
+2018,100K,13,Kent,Karloski,Carpentersville,IL,44,M,5,20:42:48
+2018,100K,14,Rodney,Worden,Lake Villa,IL,54,M,6,26:17:52
+2018,100K,15,Heather,Vree,Chicago,IL,38,F,9,28:13:35
+2018,50K,1,Timothy,Leichtenberg,Pekin,IL,45,M,1,07:03:46
+2018,50K,2,Steve,Fredrickson,Genoa,IL,39,M,2,07:29:36
+2018,50K,3,Becky,Leahy,Janesville,WI,44,F,1,07:30:41
+2018,50K,4,Jake,Taylor,Bettendorf,IA,33,M,3,07:38:26
+2018,50K,5,BJ,Wiedman,Morton,IL,46,M,4,07:43:20
+2018,50K,6,Apolonio,Esquivel,Plainfield,IL,48,M,5,07:48:55
+2018,50K,7,Anthony,Hardin,Polo,IL,31,M,6,07:57:47
+2018,50K,8,Tanya,Giannotti,Normal,IL,37,F,2,07:58:44
+2018,50K,9,Jeramy,Duffee,Moline,IL,41,M,7,08:02:00
+2018,50K,10,Randy,Knight,Fulton,IL,54,M,8,08:02:01
+2018,50K,11,Brock,Stuessi,Chicago,IL,21,M,9,08:11:25
+2018,50K,12,Lisa,Wenderoth,Chicago,IL,54,F,3,08:13:19
+2018,50K,13,Ausra,Butkeviciute,Mundelein,IL,41,F,4,08:14:52
+2018,50K,14,Jimmy,Jones,Chicago,IL,40,M,10,08:14:53
+2018,50K,15,Kevin,Gann,Bloomington,IL,43,M,11,08:17:08
+2018,50K,16,Nathan,Pritzker,Morton,IL,28,M,12,08:31:21
+2018,50K,17,Andrae,Marak,Homewood,IL,49,M,13,08:33:30
+2018,50K,18,Michael,Farrington,Lindenhurst,IL,35,M,14,08:43:34
+2018,50K,19,Kurt,Wysock,Chicago,IL,52,M,15,08:43:54
+2018,50K,20,Jessica,Maveus,Rockford,IL,37,F,5,08:56:57
+2018,50K,21,Paul,Garcia,Evanston,IL,44,M,16,08:58:32
+2018,50K,22,Brian,Drendel,Genoa,IL,51,M,17,09:01:44
+2018,50K,23,Chuck,Meyer,Delavan,IL,66,M,18,09:17:29
+2018,50K,24,Carleen,Coulter,Frankfort,IL,51,F,6,09:25:29
+2018,50K,25,Nick,Marienthal,Roscoe,IL,38,M,19,09:29:39
+2018,50K,26,Nicole,Correnti,Rockford,IL,36,F,7,09:33:17
+2018,50K,27,Keith,Aurand,Dixon,IL,53,M,20,09:33:18
+2018,50K,28,Karen,Johnson,Crystal Lake,IL,53,F,8,09:42:26
+2018,50K,29,Dewaynne,Tackett,Milroy,IN,55,M,21,09:48:10
+2018,50K,30,Gregory,Thompson,St Charles,IL,46,M,22,09:48:32
+2018,50K,31,Vince,Roberts,Evanston,IL,47,M,23,09:50:04
+2018,50K,32,Steve,Hammann,Muscatine,IA,62,M,24,10:09:29
+2018,50K,33,Linda,Lopez,Chicago,IL,51,F,9,10:11:48
+2018,50K,34,Jesse,Mendoza,Round Lake Beach,IL,48,M,25,10:24:32
+2018,50K,35,Richard,Albanese,Antioch,IL,45,M,26,10:24:50
+2018,50K,36,Kelli,Gorski,Belvidere,IL,38,F,10,10:25:24
+2018,50K,37,Brad,Gorski,Belvidere,IL,38,M,27,10:25:26
+2018,50K,38,Jean,Lenard,McHenry,IL,52,F,11,10:36:13
+2018,50K,39,Jim,Briscoe,DeKalb,IL,58,M,28,10:56:18
+2018,50K,40,Mary,Hosbrough,Washington,IL,46,F,12,11:07:00
+2018,50K,41,Lee,Hosbrough,Washington,IL,46,M,29,11:07:01
+2018,50K,42,Martha,Walker,Algonquin,IL,49,F,13,11:15:37
+2018,50K,43,Mark,Francis,Crystal Lake,IL,54,M,30,11:15:38
+2018,50K,44,Von,Fagan,Chicago,IL,50,M,31,11:30:03
+2018,50K,45,Gary,Skowronek,Palos Park,IL,55,M,32,11:42:05
+2018,50K,46,Julia,Carrell,East Peoria,IL,37,F,14,11:57:22
+2018,50K,47,Adrian,Snyder,Noblesville,IN,44,M,33,12:09:08
+2018,50K,47,Brian,Snyder,Morton,IL,42,M,34,12:09:08
+2018,50K,49,Arizona,Lagousakos,Chicago,IL,48,F,15,12:37:06
+2018,50K,50,Julie,Bane,Woodstock,IL,54,F,16,13:21:28
+2018,50K,51,Kate,Lipovsky,St. Louis,MO,27,F,17,13:31:10
+2018,50K,52,Emily,Coltrin,Peoria,IL,26,F,18,13:31:11
+2018,50K,53,Mike,Siltman,Middletown,IL,49,M,35,13:57:33
+2018,50K,54,Rachel,Dressler,Roscoe,IL,34,F,19,15:51:38
+2018,50K,55,Pat,Graves,Roscoe,IL,62,F,20,15:51:40
+2018,50K,56,Jennifer,Jacobsen-Wood,Princeville,IL,46,F,21,16:07:56
+2018,Half Marathon,1,Matthew,Hajny,Washington,IL,41,M,1,02:00:02
+2018,Half Marathon,2,Bryan,Himmel,Morton,IL,18,M,2,02:17:22
+2018,Half Marathon,2,Garris,Radloff,Morton,IL,19,M,3,02:17:22
+2018,Half Marathon,4,Justin,Gore,Mapleton,IL,36,M,4,02:20:53
+2018,Half Marathon,5,Hannah,Johnson,Morton,IL,18,F,1,02:33:45
+2018,Half Marathon,6,Mitchell,Hurst,Delavan,IL,38,M,5,02:39:16
+2018,Half Marathon,7,Richard,Tapping,Peoria,IL,54,M,6,02:40:08
+2018,Half Marathon,8,Christa,Hanna,Morton,IL,35,F,2,02:44:44
+2018,Half Marathon,9,Adam,Bernardi,Chillicothe,IL,28,M,7,02:46:30
+2018,Half Marathon,10,Brian,Doerfler,Brimfield,IL,51,M,8,02:50:47
+2018,Half Marathon,11,Tim,Swanson,Peoria,IL,36,M,9,02:51:05
+2018,Half Marathon,12,Greg,DeKeyser,Eureka,IL,37,M,10,02:55:52
+2018,Half Marathon,13,John,North,Saint Joseph,IL,64,M,11,02:56:41
+2018,Half Marathon,14,Ted,Golden,Pekin,IL,35,M,12,02:57:59
+2018,Half Marathon,15,Lisa,Stisser,Galva,IL,41,F,3,03:00:40
+2018,Half Marathon,16,Mark,Bowman,Joliet,IL,63,M,13,03:05:05
+2018,Half Marathon,17,Tana,Utley,NA,IL,NA,F,4,03:09:13
+2018,Half Marathon,18,Donald,Sweet,Washington,IL,37,M,14,03:10:12
+2018,Half Marathon,19,Robyn,Konen,Dunlap,IL,33,F,5,03:12:57
+2018,Half Marathon,20,Tina,Bajic,Pekin,IL,43,F,6,03:14:18
+2018,Half Marathon,21,Stephen,Wrought,Chicago,IL,46,M,15,03:15:59
+2018,Half Marathon,22,Roland,Savoie,Peoria,IL,51,M,16,03:17:25
+2018,Half Marathon,23,Bobbie,Sweet,Washington,IL,36,F,7,03:17:47
+2018,Half Marathon,24,Lupe,Martinez,Peoria,IL,49,M,17,03:17:48
+2018,Half Marathon,25,Christy,Habel,Pekin,IL,48,F,8,03:18:16
+2018,Half Marathon,26,Brad,Johnson,Morton,IL,48,M,18,03:30:12
+2018,Half Marathon,27,Maurice,Wantiez,East Peoria,IL,47,M,19,03:39:18
+2018,Half Marathon,28,Tara,Mayner,Hudson,IL,47,F,9,03:41:15
+2018,Half Marathon,29,Jerry,Stadnik,Normal,IL,43,M,20,03:45:11
+2018,Half Marathon,30,Scott,Sokolowski,Washington,IL,48,M,21,03:54:35
+2018,Half Marathon,31,Lindsay,Oriold,Normal,IL,28,F,10,03:58:18
+2018,Half Marathon,32,Tony,Cesario,New Lenox,IL,54,M,22,04:02:08
+2018,Half Marathon,33,Christy,Dillard,Morton,IL,57,F,11,04:05:35
+2018,Half Marathon,34,Vicki,Brassil,Homer Glen,IL,54,F,12,04:09:50
+2018,Half Marathon,35,Tim,Teel,Elmwood,IL,48,M,23,04:26:16
+2018,Half Marathon,36,Clarice,Chick,NA,IL,42,F,13,04:26:24
+2018,Half Marathon,37,James,Thompson,East Peoria,IL,54,M,24,04:54:23
+2018,Half Marathon,38,Mallory,Lindstrom,Lacon,IL,32,F,14,04:55:28
+2018,Half Marathon,39,Sue,Francis,Crystal Lake,IL,55,F,15,05:03:08
+2018,Half Marathon,40,Debi,Fanning,East Peoria,IL,57,F,16,05:05:31
+2018,Half Marathon,40,Kelly,Stark,Peoria,IL,39,F,17,05:05:31
+2018,Half Marathon,42,Connie,Canterbury,East Peoria,IL,54,F,18,05:12:02
+2018,Half Marathon,43,Therese,Brink,Peoria,IL,60,F,19,05:14:39
+2018,Half Marathon,44,Katy,Reed,Streator,IL,35,F,20,05:18:23
+2018,Half Marathon,45,Jake,Miller,NA,IL,NA,M,25,05:23:35
+2018,Half Marathon,45,Amber,Francis,NA,IL,NA,F,21,05:23:35
+2018,Half Marathon,47,Diane,Stambaugh,Sciota,NA,44,F,22,06:26:55
+2018,Half Marathon,48,Connie,Crowl,Galesburg,IL,46,F,23,06:26:57
+2018,Half Marathon,49,Vivian,Briscoe,DeKalb,IL,57,F,24,07:04:57
+2017,100 Mile,1,Susan,Donnelly,Oak Ridge,TN,54,F,1,27:16:55
+2017,100 Mile,2,Shawn,Brandon,Morton,IL,44,M,1,29:39:22
+2017,100 Mile,3,Paul,Wilkerson,Metamora,IL,41,M,2,33:06:24
+2017,100 Mile,4,Brandon,Winkelmann,Edwardsville,IL,27,M,3,33:15:56
+2017,100 Mile,5,John,Tiwet,Waukegan,IL,50,M,4,33:40:37
+2017,100K,1,Tommy,Doias,St. Louis,MO,45,M,1,13:00:40
+2017,100K,2,Jeffrey,Lenard,McHenry,IL,NA,M,2,14:42:13
+2017,100K,3,Jennifer,Doias,St. Louis,MO,46,F,1,17:31:09
+2017,100K,4,Madalyn,O'Shaugnessy,Pekin,IL,NA,F,2,18:32:09
+2017,100K,5,Mike,Kelsey,Washington,IL,NA,M,3,19:01:43
+2017,100K,6,Renee,Guynn,Champaign,IL,43,F,3,22:42:06
+2017,100K,7,Racine,Lambert-Cwerenz,Glendale Heights,IL,58,F,4,22:42:07
+2017,100K,8,Douglas,Beattie,Darien,IL,NA,M,4,22:42:09
+2017,100K,9,Rhonda,Hampton,Wake Forest,NC,NA,F,5,24:17:27
+2017,100K,10,Shannon,Brandl,Montgomery,IL,NA,F,6,26:40:47
+2017,100K,11,Sean,Ryan,Sterling,IL,NA,M,5,29:16:27
+2017,50K,1,Matthew,Hajny,Washington,IL,NA,M,1,06:21:38
+2017,50K,2,Timothy,Leichtenberg,Pekin,IL,NA,M,2,07:03:08
+2017,50K,3,Alex,Kuhn,Urbana,IL,NA,M,3,07:05:07
+2017,50K,4,Evan,McCrea,NA,NA,NA,M,4,07:58:25
+2017,50K,5,Gonzalo,Gomez,Belvidere,IL,NA,M,5,08:14:53
+2017,50K,6,Randy,Knight,NA,US,NA,M,6,08:18:32
+2017,50K,7,Tanya,Giannotti,Normal,IL,NA,F,1,08:25:03
+2017,50K,8,Jordan,Kiefer,NA,NA,NA,M,7,08:46:42
+2017,50K,9,Jim,Arnold,La Grange,IL,NA,M,8,09:00:27
+2017,50K,10,Mary,Leonard,Manhattan,IL,NA,F,2,09:00:27
+2017,50K,11,Paul,Shimondle,South Beloit,IL,NA,M,9,09:00:37
+2017,50K,12,Todd,McMillion,Dixon,IL,NA,M,10,09:07:41
+2017,50K,13,David,Failing,Westmont,IL,NA,M,11,09:12:21
+2017,50K,14,Andrae,Marak,Flossmoor,IL,NA,M,12,09:26:07
+2017,50K,15,Brad,Gorski,Belvidere,IL,NA,M,13,09:39:23
+2017,50K,16,Chris,Silva,NA,NA,NA,M,14,09:39:23
+2017,50K,17,Kate,Heid,Peoria,IL,NA,F,3,10:06:59
+2017,50K,18,Rob,Judd,NA,NA,NA,M,15,10:16:26
+2017,50K,19,Yvonne,Oldaker,Homewood,IL,NA,F,4,10:17:28
+2017,50K,20,Chuck,Meyer,Delavan,IL,NA,M,16,10:27:56
+2017,50K,21,John,Buzansky,Jamison,PA,NA,M,17,10:34:56
+2017,50K,22,Jean,Lenard,McHenry,IL,NA,F,5,10:38:54
+2017,50K,23,Karen,Johnson,Crystal Lake,IL,NA,F,6,10:43:07
+2017,50K,24,Steve,Hammann,NA,NA,NA,M,18,10:54:34
+2017,50K,25,Tonie,Hockenbury,Jamison,PA,NA,F,7,11:00:19
+2017,50K,26,Vicki,Brassil,Homer Glen,IL,NA,F,8,11:06:13
+2017,50K,27,Brian,Smock,Round Lake Beach,IL,NA,M,19,11:39:12
+2017,50K,28,Andrea,Simeone,Athens,IL,NA,F,9,12:27:36
+2017,50K,29,Todd,Simeone,Normal,IL,NA,M,20,12:27:37
+2017,50K,30,Allison,Kallo,Chicago,IL,NA,F,10,12:28:25
+2017,50K,31,Joseph,Kallo,Chicago,IL,NA,M,21,12:28:25
+2017,50K,32,Mary,Hosbrough,NA,NA,NA,F,11,13:00:57
+2017,50K,33,Galinda,Miller,NA,NA,NA,F,12,14:17:53
+2017,50K,34,Susan,Smock,Round Lake Beach,IL,NA,F,13,15:29:02
+2017,50K,35,Maggie,Smock,NA,NA,NA,F,14,15:29:03
+2017,50K,36,Shawn,Peterson,Fort Wayne,IN,NA,F,15,18:04:48
+2017,50K,37,Jennifer,Jacobsen-Wood,Princeville,IL,NA,F,16,18:04:49
+2017,Half Marathon,1,Justin,Stewart,Springfield,IL,29,M,1,01:44:58
+2017,Half Marathon,2,John Paul,Stedwill,Illinois,IL,NA,M,2,02:06:14
+2017,Half Marathon,3,Bryan,Himmel,Morton,IL,17,M,3,02:17:54
+2017,Half Marathon,4,Maria,Stedwill,Dunlap,IL,14,F,1,02:25:00
+2017,Half Marathon,5,Mitchell,Hurst,Delavan,IL,37,M,4,02:35:09
+2017,Half Marathon,6,Dan,Blascyk,NA,NA,NA,M,5,02:35:29
+2017,Half Marathon,7,Evan,Zdunek,NA,NA,NA,M,6,02:35:30
+2017,Half Marathon,8,Aaron,Smith,NA,NA,NA,M,7,02:36:57
+2017,Half Marathon,9,John,Pray,NA,NA,NA,M,8,02:40:17
+2017,Half Marathon,10,Marcus,Lockhart,NA,NA,NA,M,9,02:46:26
+2017,Half Marathon,11,Kevin,Brucker,East Peoria,IL,NA,M,10,02:46:35
+2017,Half Marathon,12,Brian,Rosh,Dunlap,IL,NA,M,11,02:48:25
+2017,Half Marathon,13,Seth,Van Heukelom,Washington,IL,NA,M,12,02:52:28
+2017,Half Marathon,14,Garris,Radloff,NA,NA,20,M,13,02:53:24
+2017,Half Marathon,15,Tana,Utley,Washington,IL,NA,F,2,02:53:32
+2017,Half Marathon,16,Bret,Fahnstrom,Chicago,IL,NA,M,14,02:53:58
+2017,Half Marathon,17,Karey,Blascyk,NA,NA,NA,F,3,02:54:16
+2017,Half Marathon,18,Mike,McGraw,Washington,IL,NA,M,15,02:59:08
+2017,Half Marathon,19,Max,Chapman,East Peoria,IL,NA,M,16,02:59:23
+2017,Half Marathon,20,Matt,Gaw,Peoria Heights,IL,NA,M,17,03:05:23
+2017,Half Marathon,21,Josh,Lidawer,Peoria,IL,NA,M,18,03:09:59
+2017,Half Marathon,22,Allyson,Parks,Edelstein,IL,NA,F,4,03:10:09
+2017,Half Marathon,23,Rebecca,Frianks,NA,NA,NA,F,5,03:10:28
+2017,Half Marathon,24,Ted,Golden,NA,NA,NA,M,19,03:12:18
+2017,Half Marathon,25,Maurice,Wantiez,East Peoria,IL,NA,M,20,03:13:44
+2017,Half Marathon,26,Grant,Garner,Dunlap,IL,NA,M,21,03:17:37
+2017,Half Marathon,27,Lisa,Meyer-McMillion,NA,NA,NA,F,6,03:19:58
+2017,Half Marathon,28,Brent,Hewitt,NA,NA,NA,M,22,03:21:05
+2017,Half Marathon,29,Amy,Knight,NA,NA,NA,F,7,03:21:46
+2017,Half Marathon,30,Robyn,Konen,Dunlap,IL,NA,F,8,03:22:05
+2017,Half Marathon,31,Lupe,Martinez,Peoria,IL,NA,M,23,03:22:59
+2017,Half Marathon,32,Roland,Savoie,NA,NA,NA,M,24,03:23:11
+2017,Half Marathon,33,Christy,Dillard,Morton,IL,NA,F,9,03:23:13
+2017,Half Marathon,34,Marc,Maxwell,NA,NA,NA,M,25,03:29:33
+2017,Half Marathon,35,Daniel,Lidawer,Highland Park,IL,NA,M,26,03:33:31
+2017,Half Marathon,36,Keith,Aurand,NA,NA,NA,M,27,03:34:57
+2017,Half Marathon,37,Amy,Iversen,Chicago,IL,NA,F,10,03:37:21
+2017,Half Marathon,38,Stephen,Wrought,Chicago,IL,NA,M,28,03:37:21
+2017,Half Marathon,39,Jerry,Stadnik,NA,NA,NA,M,29,03:40:30
+2017,Half Marathon,40,Lindsay,Oriold,Normal,IL,NA,F,11,03:43:32
+2017,Half Marathon,41,Barb,Knight,NA,NA,NA,F,12,03:44:41
+2017,Half Marathon,42,June,Haeme,Kempton,IL,NA,F,13,03:50:12
+2017,Half Marathon,43,Nancy,Sivertsen,Champaign,IL,NA,F,14,03:52:27
+2017,Half Marathon,44,Israel,Siltman,Middletown,IL,NA,M,30,03:53:08
+2017,Half Marathon,45,James,Booth,NA,NA,NA,M,31,03:53:09
+2017,Half Marathon,46,Ryan,Johnson,NA,NA,NA,M,32,03:55:38
+2017,Half Marathon,47,Kurt,McAdams,Lockport,IL,NA,M,33,03:56:00
+2017,Half Marathon,48,Tina,Bajic,NA,NA,NA,F,15,04:12:28
+2017,Half Marathon,49,Jenny,Grow,Morton,IL,NA,F,16,04:14:54
+2017,Half Marathon,50,Kimberly,Taylor,Nashville,IL,NA,F,17,04:18:24
+2017,Half Marathon,51,Colleen,Kahl,East Peoria,IL,NA,F,18,04:27:14
+2017,Half Marathon,52,Christina,Kienitz,Washington,IL,NA,F,19,04:27:14
+2017,Half Marathon,53,Sue,Francis,Crystal Lake,IL,NA,F,20,05:07:44
+2017,Half Marathon,54,Mark,Francis,Crystal Lake,IL,NA,M,34,05:07:48
+2017,Half Marathon,55,Kelly,Stark,Peoria,IL,NA,F,21,05:09:00
+2017,Half Marathon,56,Theresa,Schultz,East Peoria,IL,NA,F,22,05:13:48
+2017,Half Marathon,57,James,Thompson,East Peoria,IL,NA,M,35,05:13:54
+2017,Half Marathon,58,Therese,Brink,Peoria,IL,NA,F,23,05:31:59
+2017,Half Marathon,59,Mike,Siltman,Middletown,IL,NA,M,36,05:33:24
+2017,Half Marathon,60,Tonya,Siltman,Middletown,IL,NA,F,24,05:33:24
+2017,Half Marathon,61,Laura,Gioannini,Dunlap,IL,NA,F,25,05:44:16
+2017,Half Marathon,62,Debi,Fanning,East Peoria,IL,NA,F,26,05:46:28
+2017,Half Marathon,63,Amber,Little,Hanna City,IL,NA,F,27,05:49:36
+2017,Half Marathon,64,Jaime,McBride,Ankeny,IA,NA,F,28,05:55:00
+2017,Half Marathon,65,Paul,Kelley,Chillicothe,IL,NA,M,37,06:15:04
+2017,Half Marathon,66,Vivian,Briscoe,NA,NA,NA,F,29,07:01:34
+2017,Half Marathon,67,Ila,Allen,NA,NA,NA,F,30,08:13:10
+2016,100 Mile,1,Eric,Bloomquist,NA,NA,NA,M,1,28:20:51
+2016,100 Mile,2,Chad,Hazelwood,NA,NA,NA,M,2,29:58:17
+2016,100 Mile,3,Jeffrey,Lenard,NA,NA,NA,M,3,30:40:04
+2016,100 Mile,4,Mike,Smith,NA,NA,NA,M,4,31:46:20
+2016,100 Mile,5,Lee,Dogery,NA,NA,NA,M,5,32:34:24
+2016,100 Mile,6,Tiffany,Dore,NA,NA,NA,F,1,32:34:24
+2016,100 Mile,7,Jeffrey,Foes,NA,NA,NA,M,6,32:40:43
+2016,100 Mile,8,William,McFeeters,NA,NA,NA,M,7,32:55:33
+2016,50K,1,Matthew,Hajny,Washington,IL,39,M,1,06:20:42
+2016,50K,2,Michael,Reece,Bloomington,IL,37,M,2,07:05:03
+2016,50K,3,Elissa,Ballas,Downers Grove,IL,36,F,1,07:17:28
+2016,50K,4,Von,Fagan,NA,NA,NA,M,3,07:39:33
+2016,50K,5,Siamak,Mostoufi,Evanston,IL,42,M,4,07:46:41
+2016,50K,6,Anthony,Avellino,Peoria,IL,49,M,5,07:51:53
+2016,50K,7,Todd,Brown,Skokie,IL,47,M,6,08:24:49
+2016,50K,8,TracyJo,Pasieka,Saint Louis,MO,40,F,2,08:28:31
+2016,50K,9,Christian,Pukala,NA,NA,NA,M,7,08:46:51
+2016,50K,10,Trina,McCarty,Bloomington,IL,40,F,3,08:52:41
+2016,50K,11,Jim,Street,Blackstone,IL,54,M,8,08:53:24
+2016,50K,12,SarahJeanne,Olson,Canton,IL,48,F,4,09:25:21
+2016,50K,13,Patrick,Morris,Grayslake,IL,48,M,9,09:37:48
+2016,50K,14,Chuck,Meyer,Delavan,IL,64,M,10,09:48:19
+2016,50K,15,Rachel,Head,El Paso,IL,24,F,5,09:52:02
+2016,50K,16,Michael,Crane,Ankeny,IA,33,M,11,09:58:38
+2016,50K,17,Jenny,Thorsen,NA,NA,NA,F,6,10:15:59
+2016,50K,18,Jennifer,DeSalvo,Chicago,IL,34,F,7,10:16:54
+2016,50K,19,Kirsten,Pieper,Blackstone,IL,46,F,8,10:16:51
+2016,50K,20,Darren,Sorgenfrei,Portage,MI,49,M,12,10:22:07
+2016,50K,21,Chris,Dierker,Peoria,IL,62,M,13,10:36:57
+2016,50K,22,Jerry,Stadnik,Normal,IL,41,M,14,10:42:30
+2016,50K,23,Christine,Borgerding,McHenry,IL,38,F,9,11:02:21
+2016,50K,24,Mark,Francis,Crystal Lake,IL,52,M,15,11:02:56
+2016,50K,25,Michael,Johnson,Elburn,IL,51,M,16,11:03:09
+2016,50K,26,Jenny,Grow,Morton,IL,45,F,10,11:08:59
+2016,50K,27,Becky,Gillen,NA,NA,42,F,11,11:22:34
+2016,50K,28,Shad,Edwards,NA,NA,49,M,17,11:22:35
+2016,50K,29,Andrew,Schafer,NA,NA,41,M,18,11:24:43
+2016,50K,30,Mary,Hosbrough,Washington,IL,44,F,12,11:37:45
+2016,50K,31,Amy,Szumny,Elburn,IL,45,F,13,12:09:56
+2016,50K,32,Thomas,Rademacher,Kankakee,IL,49,M,19,13:06:13
+2016,50K,33,Sean,Ryan,Sterling,IL,42,M,20,13:29:19
+2016,50K,34,Bill,Fairfield,NA,NA,NA,M,21,13:52:38
+2016,50K,35,Susan,Smock,Round Lake Beach,IL,39,F,14,14:47:20
+2016,50K,36,Jill,Bell,Salem,WI,37,F,15,19:14:11
+2016,50K,37,Therese,Brink,Peoria,IL,58,F,16,20:04:04
+2016,50K,38,Jennifer,Jacobsen-Wood,Princeville,IL,44,F,17,20:04:16
+2016,50K,39,Shawn,Peterson,Fort Wayne,IN,44,F,18,20:04:16
+2016,6 Mile,1,Mitchell,Hurst,Delavan,IL,36,M,1,00:59:06
+2016,6 Mile,2,Linda,Mourning,NA,NA,47,F,1,01:16:38
+2016,6 Mile,3,Clarice,Chick,Pekin,IL,40,F,2,01:19:21
+2016,6 Mile,4,Christy,Habel,NA,NA,NA,F,3,01:19:31
+2016,6 Mile,5,Jenny,Jackson,North Pekin,IL,NA,F,4,01:25:30
+2016,6 Mile,6,Jessica,Seidel,NA,NA,35,F,5,01:25:31
+2016,6 Mile,7,Robyn,Konen,Dunlap,IL,31,F,6,01:28:42
+2016,6 Mile,8,Julia,Carrell,NA,NA,NA,F,7,01:32:51
+2016,6 Mile,9,Amber,Francis,Crystal Lake,IL,21,F,8,01:41:41
+2016,6 Mile,10,Jaime,McBride,Ankeny,IA,28,F,9,02:10:18
+2016,Half Marathon,1,Jason,Hurst,Peoria,IL,NA,M,1,02:26:30
+2016,Half Marathon,2,Garris,Radloff,Morton,IL,17,M,2,02:27:58
+2016,Half Marathon,3,Jeremey,Helmer,Bloomington,IL,33,M,3,02:31:37
+2016,Half Marathon,4,Bryan,Himmel,Morton,IL,16,M,4,02:39:50
+2016,Half Marathon,5,Mike,Kelsey,Washington,IL,40,M,5,02:46:45
+2016,Half Marathon,6,Seth,Van Heukelom,NA,NA,31,M,6,02:51:25
+2016,Half Marathon,7,Juliann,Stedwill,Dunlap,IL,48,F,1,02:51:58
+2016,Half Marathon,8,Paul,Haas,Bloomington,IL,52,M,7,02:58:20
+2016,Half Marathon,9,Tana,Utley,NA,NA,NA,F,2,02:59:38
+2016,Half Marathon,10,Maria,Stedwell,NA,NA,11,F,3,03:02:53
+2016,Half Marathon,11,Max,Chapman,East Peoria,IL,71,M,8,03:07:35
+2016,Half Marathon,12,Brent,Hewitt,NA,NA,58,M,9,03:09:19
+2016,Half Marathon,13,Teresa,Smith,NA,NA,NA,F,4,03:10:03
+2016,Half Marathon,14,Mike,McGraw,Washington,IL,63,M,10,03:11:47
+2016,Half Marathon,15,Lupe,Martinez,Peoria,IL,47,M,11,03:16:18
+2016,Half Marathon,16,Karen,Flaherty,Peoria,IL,47,F,5,03:29:09
+2016,Half Marathon,17,Stephen,Wrought,Chicago,IL,44,M,12,03:34:17
+2016,Half Marathon,18,Hondo,Vasquez,NA,NA,59,M,13,03:35:30
+2016,Half Marathon,19,Suzanne,Rogers,Bloomington,IL,54,F,6,03:42:42
+2016,Half Marathon,20,Tracy,Swartz,NA,NA,33,F,7,03:46:26
+2016,Half Marathon,21,Laura,Schoenbeck,Washington,IL,50,F,8,03:53:10
+2016,Half Marathon,22,Mary,Bergren,Kewanee,IL,60,F,9,03:56:04
+2016,Half Marathon,23,Christy,Dillard,Washington,IL,55,F,10,03:56:44
+2016,Half Marathon,24,Leeann,Leaks,decatur,IL,39,F,11,03:57:22
+2016,Half Marathon,25,Nancy,Sivertsen,Champaign,IL,59,F,12,04:15:08
+2016,Half Marathon,26,Christine,Gustafson,Kewanee,IL,48,F,13,04:37:54
+2016,Half Marathon,27,Wayne,Bryan,Kewanee,IL,64,M,14,04:37:57
+2016,Half Marathon,28,Toby,Peplow,East Peoria,IL,42,F,14,04:38:55
+2016,Half Marathon,29,Katy,Reed,Streator,IL,33,F,15,04:45:16
+2015,5 Mile,1,Cathy,Zwink,Dunlap,IL,35,F,1,00:53:42
+2015,5 Mile,2,Eileen,Zopel,Dunlap,IL,10,F,2,00:56:11
+2015,5 Mile,3,Simon,Svirnovskiy,Chicago,IL,25,M,1,00:56:44
+2015,5 Mile,4,Adam,Sterusky,Peoria,IL,30,M,2,00:57:41
+2015,5 Mile,5,John,LaPayne,Edelstein,IL,59,M,3,00:58:39
+2015,5 Mile,6,Erika,Sterusky,Chicago,IL,25,F,3,00:59:26
+2015,5 Mile,7,James,Kline,Bloomington,IL,23,M,4,00:59:45
+2015,5 Mile,8,Mike,Tomlin,Sparland,IL,60,M,5,01:00:17
+2015,5 Mile,9,Jason,Broe,East Peoria,IL,36,M,6,01:00:55
+2015,5 Mile,10,Brittany,Piepenbrink,Bloomington,IL,26,F,4,01:01:05
+2015,5 Mile,11,Justin,Bahaj,Kansas City,MO,29,M,7,01:03:16
+2015,5 Mile,12,Lindsey,Bahaj,Kansas City,MO,24,F,5,01:03:52
+2015,5 Mile,13,Chelsea,Piepenbrink,Normal,IL,28,F,6,01:05:02
+2015,5 Mile,14,Marcus,Rubley,Davenport,IA,29,M,8,01:06:04
+2015,5 Mile,15,Zoe,Claiborne,Downers Grove,IL,9,F,7,01:09:32
+2015,5 Mile,16,Katerina,Claiborne,Downers Grove,IL,42,F,8,01:09:32
+2015,5 Mile,17,Isaiah,Olateru,Champaign,IL,34,M,9,01:11:40
+2015,5 Mile,18,Jayne,Lourash,Peoria,IL,49,F,9,01:11:52
+2015,5 Mile,19,Lori,Vietti,Chillicothe,IL,40,F,10,01:11:53
+2015,5 Mile,20,Sarah,Wales,Bloomington,IL,23,F,11,01:12:11
+2015,5 Mile,21,Sabrina,Weislak,Bloomington,IL,22,F,12,01:12:11
+2015,5 Mile,22,Tyler,Catour,Bettendorf,IA,27,M,10,01:14:59
+2015,5 Mile,23,Katey,Berg,Evanston,IL,37,F,13,01:16:11
+2015,5 Mile,24,Amy,Durbin,Peoria,IL,34,F,14,01:20:46
+2015,5 Mile,25,Ashlee,McCarthy,Peoria,IL,28,F,15,01:21:17
+2015,5 Mile,26,Amber,Little,Hanna City,IL,48,F,16,01:21:28
+2015,5 Mile,27,Julie,Wood,Bloomington,IL,23,F,17,01:25:05
+2015,5 Mile,28,Samantha,Pacha,Davenport,IA,28,F,18,01:26:26
+2015,5 Mile,29,Michelle,Charvat,Moline,IL,26,F,19,01:26:26
+2015,5 Mile,30,Katie,Thompson,East Peoria,IL,30,F,20,01:26:53
+2015,5 Mile,31,Phyllis,Cali-Boyd,NA,NA,NA,F,21,02:00:00
+2015,5 Mile,32,Amanda,Smallberger,NA,NA,NA,F,22,02:00:01
+2015,50 Mile,1,Eric,Skocaj,Pekin,IL,29,M,1,09:44:20
+2015,50 Mile,2,Tom,Wilson,Williamsfield,IL,48,M,2,09:48:27
+2015,50 Mile,3,Meghan,Kennihan,La Grange,IL,33,F,1,10:01:32
+2015,50 Mile,4,William,McFeeters,Pekin,IL,33,M,3,10:38:26
+2015,50 Mile,5,Siamak,Mostoufi,NA,NA,NA,M,4,11:20:53
+2015,50 Mile,6,Bill,Thom,Chicago,IL,54,M,5,11:31:02
+2015,50 Mile,7,Sabina,Hlinenska,Peoria,IL,30,F,2,11:39:34
+2015,50 Mile,8,Trevor,Hallam,Milan,NA,25,M,6,11:52:51
+2015,50 Mile,9,Heath,Brandon,Normal,IL,32,M,7,11:57:59
+2015,50 Mile,10,Douglas,Beattie,Darien,IL,46,M,8,12:07:38
+2015,50 Mile,11,Jason,Willits,Bettendorf,IA,31,M,9,12:10:58
+2015,50 Mile,12,Michael,Crane,Ankeny,IA,32,M,10,12:10:58
+2015,50 Mile,13,Tony,Cesario,Frankfort,IL,51,M,11,12:25:35
+2015,50 Mile,14,Juli,Aistars,Lake Zurich,IL,56,F,3,12:27:33
+2015,50 Mile,15,Vince,Roberts,Evanston,IL,44,M,12,12:28:15
+2015,50 Mile,16,Amy,Briggs,Chicago,IL,48,F,4,13:04:02
+2015,50 Mile,17,Eddie,Lloyd,NA,NA,NA,M,13,13:06:36
+2015,50 Mile,18,Steve,Traman,Cleveland,IL,29,M,14,13:13:06
+2015,50 Mile,19,Daniel,Dillon,Colona,IL,30,M,15,13:13:04
+2015,50 Mile,20,Joshua,Sun,Davenport,IA,29,M,16,13:13:05
+2015,50 Mile,21,James,Faford,Bradley,IL,51,M,17,13:24:49
+2015,50 Mile,22,Thomas,Rademacher,Kankakee,IL,48,M,18,13:25:21
+2015,50 Mile,23,Paul,Wilkerson,Metamora,IL,39,M,19,13:35:11
+2015,50 Mile,24,Becky,Gillen,Decatur,IL,41,F,5,13:39:19
+2015,50 Mile,25,Jerry,Stadnik,NA,NA,NA,M,20,13:42:03
+2015,50 Mile,26,Jonathon,Crowley,Bloomington,IL,35,M,21,13:56:04
+2015,50 Mile,27,David,Butler,Bettendorf,IA,30,M,22,14:02:46
+2015,50 Mile,28,Michael,Glennon,Roselle,IL,42,M,23,14:17:38
+2015,50 Mile,29,Andrew,Schafer,Mackinaw,IL,40,M,24,14:46:57
+2015,50 Mile,30,Nicole,Swanson,Chicago,IL,35,F,6,15:03:04
+2015,50 Mile,31,Keith,Aurand,Polo,IL,50,M,25,15:18:32
+2015,50 Mile,32,Dawny,Mace,Sterling,IL,30,F,7,15:18:40
+2015,50 Mile,33,Brian,Smock,Round Lake Beach,IL,48,M,26,15:23:34
+2015,50 Mile,34,Leeann,Leaks,Decatur,IL,38,F,8,15:38:53
+2015,Half Marathon,1,Justin,Stewart,Champaign,IL,29,M,1,01:33:33
+2015,Half Marathon,2,Matthew,Hajny,Washington,IL,38,M,2,01:46:30
+2015,Half Marathon,3,Matthew,Zopel,Dunlap,IL,38,M,3,01:57:13
+2015,Half Marathon,4,Troy,Walcott,Peoria,IL,44,M,4,02:06:30
+2015,Half Marathon,5,Matthew,Robinson,Peoria,IL,38,M,5,02:07:39
+2015,Half Marathon,6,Adam,Roll,Davenport,IA,35,M,6,02:13:17
+2015,Half Marathon,7,Brook,Stanbary,Putnam,IL,41,M,7,02:13:32
+2015,Half Marathon,8,Evan,Zdunek,Peoria,IL,34,M,8,02:17:44
+2015,Half Marathon,9,Jim,Jackson,Pekin,IL,44,M,9,02:23:12
+2015,Half Marathon,10,Angela,Funk,Armington,IL,44,F,1,02:24:19
+2015,Half Marathon,11,Sebastien,Coquoz,Dunlap,IL,35,M,10,02:29:29
+2015,Half Marathon,12,Brittany,Fritch,Orion,IL,29,F,2,02:32:00
+2015,Half Marathon,13,Benjamin,Page,Washington,IL,29,M,11,02:38:09
+2015,Half Marathon,14,Erich,Smith,Peoria,IL,46,M,12,02:42:30
+2015,Half Marathon,15,Max,Chapman,East Peoria,IL,70,M,13,02:43:07
+2015,Half Marathon,16,Kenneth,Zdunek,Schaumburg,IL,64,M,14,02:49:07
+2015,Half Marathon,17,Suzanne,Rogers,Bloomington,IL,53,F,3,02:56:44
+2015,Half Marathon,18,Jamie,Rich,Davenport,IA,34,F,4,02:58:52
+2015,Half Marathon,19,Tanya,Giannotti,Normal,IL,34,F,5,02:59:35
+2015,Half Marathon,20,Brent,Hewitt,Peoria,IL,57,M,15,02:59:56
+2015,Half Marathon,21,Hondo,Vasquez,Normal,IL,58,M,16,03:01:48
+2015,Half Marathon,22,Lupe,Martinez,Peoria,IL,46,M,17,03:02:37
+2015,Half Marathon,23,Danny,Sweborg,Milan,IL,42,M,18,03:06:32
+2015,Half Marathon,24,Rich,Beal,Bloomington,IL,66,M,19,03:06:30
+2015,Half Marathon,25,Jane,Chapman,East Peoria,IL,55,F,6,03:11:44
+2015,Half Marathon,26,Troy,Pequette,Washington,IL,44,M,20,03:12:23
+2015,Half Marathon,27,John,Stodgel,Washington,IL,35,M,21,03:12:25
+2015,Half Marathon,28,Alicia,Erickson,Lombard,IL,36,F,7,03:15:34
+2015,Half Marathon,29,Heather,Benjamin,Westmont,IL,34,F,8,03:15:34
+2015,Half Marathon,30,Rachael,Pracht,Davenport,IA,28,F,9,03:19:44
+2015,Half Marathon,31,Valerie,Olson,Bettendorf,IA,32,F,10,03:19:43
+2015,Half Marathon,32,Lawrence,Dolan,Morton,IL,34,M,22,03:31:09
+2015,Half Marathon,33,Daria,Hodor,Crown Point,IN,47,F,11,03:34:10
+2015,Half Marathon,34,Nathan,Hodor,Crown Point,IN,13,M,23,03:34:10
+2015,Half Marathon,35,Laura,Schoenbeck,Washington,IL,49,F,12,03:35:27
+2015,Half Marathon,36,Kandice,Tjebkes,Muscatine,IA,42,F,13,03:39:39
+2015,Half Marathon,37,Galinda,Miller,Sterling,IL,40,F,14,03:44:32
+2015,Half Marathon,38,Laymond,Leaks,Decatur,IL,38,M,24,03:44:53
+2015,Half Marathon,39,Yvette,McKenzie,Peoria,IL,47,F,15,03:54:19
+2015,Half Marathon,40,Susan,Smock,Round Lake Beach,IL,38,F,16,03:58:18
+2015,Half Marathon,41,Tim,Teel,Elmwood,IL,45,M,25,03:59:34
+2015,Half Marathon,42,Rich,Breaux,Dahinda,IL,59,M,26,03:59:36
+2015,Half Marathon,43,Katy,Reed,Streator,IL,32,F,17,04:14:56
+2015,Half Marathon,44,Jaime,McBride,Ankeny,IA,27,F,18,04:27:04
+2015,Half Marathon,45,Russ,Reynolds,Carlinville,IL,64,M,27,04:39:31
+2015,Half Marathon,46,Therese,Brink,Peoria,IL,57,F,19,04:58:47
+2015,Half Marathon,47,Igor,Francis-Buller,Peoria Heights,IL,37,M,28,04:41:21
+2015,Half Marathon,48,Alex,McKenzie,Peoria,IL,19,M,29,02:59:27
+2015,Half Marathon,49,Troy,Hanger,Lincoln,IL,54,M,30,05:16:34
+2015,Half Marathon,50,Travis,Pierce-Ryan,Chicago,IL,34,M,31,05:25:20

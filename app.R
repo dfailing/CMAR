@@ -5,21 +5,33 @@ library(here)
 library(readr)
 library(shiny)
 library(shinydashboard)
+library(tidyr)
 
 # Define UI for the app
 ui <- dashboardPage(
   title = "Cry Me A River! Trail Runs",
-  dashboardHeader(title = tags$a("Cry Me A River!", titleWidth = "auto", href = "https://crymearivertrailruns.com/", style = "color: white;")),
+  dashboardHeader(
+    title = tags$a("Cry Me A River!", titleWidth = "auto", href = "https://crymearivertrailruns.com/", style = "color: white;")
+  ),
   dashboardSidebar(
     sidebarMenu(
-      menuItem("Start", tabName = "instructions", icon = icon("list")),
+      menuItem("Start Here", tabName = "start", icon = icon("list")),
       menuItem("Course Records", tabName = "course_records", icon = icon("trophy")),
       menuItem("Mileage Totals", tabName = "mileage_totals", icon = icon("table")),
+      menuItem("All Results", tabName = "all_results", icon = icon("table")),
       menuItem("Register @ RunRace", href = "https://www.runrace.net/findarace.php?id=23188IL", icon = icon("clipboard"))
     )
   ),
   dashboardBody(
     tags$head(
+      tags$style(HTML('
+        .skin-blue .main-header .logo {
+          background-color: #3c8dbc;
+        }
+        .skin-blue .main-header .logo:hover {
+          background-color: #3c8dbc;
+        }
+      ')),
       tags$script(
         '
       $(document).ready(function() {
@@ -38,37 +50,16 @@ ui <- dashboardPage(
     ),
     tabItems(
       tabItem(
-        tabName = "course_records",
-        sidebarLayout(
-          mainPanel(
-            DTOutput("course_records_table")
-          ),
-          sidebarPanel(
-            selectInput("event", "Event:", choices = NULL, selected = NULL),
-            checkboxGroupInput("gender", "Gender:", choices = NULL, selected = NULL),
-            width = 4 # Adjust the width of the sidebarPanel (default is 4, lower values will make it narrower)
-          )
-        )
-      ),
-      tabItem(
-        tabName = "mileage_totals",
-        fluidRow(
-          box(
-            width = 12,
-            DTOutput("mileage_table")
-          )
-        )
-      ),
-      tabItem(
-        tabName = "instructions",
+        tabName = "start",
         fluidRow(
           box(
             width = 12,
             title = NULL,
             p(HTML("<b>Getting Started:</b><br>
               <ul>
-                <li><b>Course Records</b> lists fastest times for each gender and event. It can be filtered by the event and gender you choose, or show all records at once. (The 5 mile, 6 mile, and 50 mile races were only run once, so course records are not displayed.)</li>
-                <li><b>Mileage Totals</b> for all finishers are given, along with their completed distance each year, and are sorted by total mileage by default. This page is searchable, so you can quickly locate a runner without knowing their total.</li>
+                <li><b>Course Records</b> lists the fastest finishing times at each race distance. The 5 mile, 6 mile, and 50 mile races were only run once, so course records are not displayed.</li>
+                <li><b>Mileage Totals</b> for all finishers are given, along with their completed distance each year, and are sorted by total mileage by default.  Type a runner's name into the search box to see their lifetime results. By default, the table is sorted by total mileage.</li>
+                <li><b>All Results</b> is a merged table of all events for all years. Type a runner's name into the search box to see their lifetime results. You can also search by any combination of other fields. Try '2015 50 mile' to pull up results for that year and event. By default, the table is sorted by year and event.</li>
                 <li><b>Register</b> for this year's race so that you don't miss out on the fun!
                 <li><b>Course Maps</b> below allow you to view Strava routes or download GPX files to navigate using your watch, phone, or other GPS device.
               </ul><br>
@@ -92,6 +83,53 @@ ui <- dashboardPage(
               </ul>"))
           )
         )
+      ),
+      
+      tabItem(tabName = "course_records",
+              {course_records <- read_csv(here("data", "course_records.csv")) %>%
+                mutate(Record = paste0(Rank, ". ", paste(First, Last), " (", Age, "), ", Time, ", ", Year)) %>% 
+                select(Event, Gender, Record)
+              
+              lapply(unique(course_records$Event), function(event) {
+                fluidRow(lapply(unique(course_records$Gender), function(gender) {
+                  sub_table_name <- paste0(event, " - ", gender)
+                  column(
+                    width = 6,
+                    course_records %>%
+                      filter(Event == event, Gender == gender) %>%
+                      select(Record) %>%
+                      rename(!!sub_table_name := Record) %>%
+                      datatable(
+                        options = list(
+                          dom = 't',
+                          pageLength = 10,
+                          searching = FALSE,
+                          columnDefs = list(
+                            list(targets = 0, visible = FALSE),
+                            list(targets = "_all", orderable = FALSE)
+                          )
+                        )
+                      )
+                  )
+                }))
+              })}),
+      tabItem(
+        tabName = "mileage_totals",
+        fluidRow(
+          box(
+            width = 12,
+            DTOutput("mileage_table")
+          )
+        )
+      ),
+      tabItem(
+        tabName = "all_results",
+        fluidRow(
+          box(
+            width = 12,
+            DTOutput("all_results_table")
+          )
+        )
       )
     )
   )
@@ -99,14 +137,14 @@ ui <- dashboardPage(
 
 # Define server logic
 server <- function(input, output, session) {
+  
   mileage_data <- reactive({
     read_csv(here("data", "mileage_totals.csv")) %>%
       datatable(options = list(
         pageLength = 10,
         scrollX = TRUE,
         scrollY = TRUE,
-        columnDefs = list(list(targets = 0, visible = FALSE)),
-        stripe = TRUE
+        columnDefs = list(list(targets = 0, visible = FALSE))
       ))
   })
   
@@ -114,41 +152,18 @@ server <- function(input, output, session) {
     mileage_data()
   })
   
-  raw_course_records_data <- reactive({
-    read_csv(here("data", "course_records.csv"))
-  })
-  
-  observe({
-    updateSelectInput(session, "event", choices = c("All" = "All", unique(raw_course_records_data()$Event)))
-    updateCheckboxGroupInput(session, "gender", choices = unique(raw_course_records_data()$Gender), selected = unique(raw_course_records_data()$Gender))
-  })
-  
-course_records_data <- reactive({
-    filtered_data <- raw_course_records_data()
-    if (!is.null(input$event) & input$event != "All") {
-      filtered_data <- filtered_data %>% filter(Event == input$event)
-    }
-    if (!is.null(input$event) & input$event == "All") {
-      
-    }
-    if (!is.null(input$gender)) {
-      filtered_data <- filtered_data %>% filter(Gender %in% input$gender)
-    }
-    filtered_data %>% datatable(
-      options = list(
+  all_results_data <- reactive({
+    read_csv(here("data", "all_results.csv")) %>%
+      datatable(options = list(
         pageLength = 25,
-        lengthChange = FALSE, # disable length change dropdown
         scrollX = TRUE,
         scrollY = TRUE,
-        columnDefs = list(list(targets = 0, visible = FALSE)),
-        searching = FALSE,  # disable search box
-        stripe = TRUE
-      )
-    )
+        columnDefs = list(list(targets = 0, visible = FALSE))
+      ))
   })
   
-  output$course_records_table <- renderDT({
-    course_records_data()
+  output$all_results_table <- renderDT({
+    all_results_data()
   })
 }
 

@@ -1,0 +1,33 @@
+place,time,first,last,age,gender,city,state
+1,00:53:42,Cathy,Zwink,35,Female,Dunlap,IL
+2,00:56:11,Eileen,Zopel,10,Female,Dunlap,IL
+3,00:56:44,Simon,Svirnovskiy,25,Male,Chicago,IL
+4,00:57:41,Adam,Sterusky,30,Male,Peoria,IL
+5,00:58:39,John,LaPayne,59,Male,Edelstein,IL
+6,00:59:26,Erika,Sterusky,25,Female,Chicago,IL
+7,00:59:45,James,Kline,23,Male,Bloomington,IL
+8,01:00:17,Mike,Tomlin,60,Male,Sparland,IL
+9,01:00:55,Jason,Broe,36,Male,East Peoria,IL
+10,01:01:05,Brittany,Piepenbrink,26,Female,Bloomington,IL
+11,01:03:16,Justin,Bahaj,29,Male,Kansas City,MO
+12,01:03:52,Lindsey,Bahaj,24,Female,Kansas City,MO
+13,01:05:02,Chelsea,Piepenbrink,28,Female,Normal,IL
+14,01:06:04,Marcus,Rubley,29,Male,Davenport,IA
+15,01:09:32,Zoe,Claiborne,9,Female,Downers Grove,IL
+16,01:09:32,Katerina,Claiborne,42,Female,Downers Grove,IL
+17,01:11:40,Isaiah,Olateru,34,Male,Champaign,IL
+18,01:11:52,Jayne,Lourash,49,Female,Peoria,IL
+19,01:11:53,Lori,Vietti,40,Female,Chillicothe,IL
+20,01:12:11,Sarah,Wales,23,Female,Bloomington,IL
+21,01:12:11,Sabrina,Weislak,22,Female,Bloomington,IL
+22,01:14:59,Tyler,Catour,27,Male,Bettendorf,IA
+23,01:16:11,Katey,Berg,37,Female,Evanston,IL
+24,01:20:46,Amy,Durbin,34,Female,Peoria,IL
+25,01:21:17,Ashlee,McCarthy,28,Female,Peoria,IL
+26,01:21:28,Amber,Little,48,Female,Hanna City,IL
+27,01:25:05,Julie,Wood,23,Female,Bloomington,IL
+28,01:26:26,Samantha,Pacha,28,Female,Davenport,IA
+29,01:26:26,Michelle,Charvat,26,Female,Moline,IL
+30,01:26:53,Katie,Thompson,30,Female,East Peoria,IL
+31,02:00:00,Phyllis,Cali-Boyd,NA,Female,NA,NA
+32,02:00:01,Amanda,Smallberger,NA,Female,NA,NA
