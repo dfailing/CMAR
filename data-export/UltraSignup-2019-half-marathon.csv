@@ -5,9 +5,9 @@ place,time,first,last,age,gender,city,state
 4,03:00:50,Rob,Hilsabeck,NA,Male,NA,IL
 5,03:01:30,Scott,Thompson,45,Male,Washington,IL
 6,03:04:40,Vincent,Moore,NA,Male,NA,IL
-7,03:13:31,Kevin,Mathewson,NA,Male,NA,IL
+7,03:13:31,Kevin,Mathewson,45,Male,NA,IL
 8,03:15:20,Juliann,Stedwill,51,Female,Dunlap,IL
-9,03:15:50,Mitchell,Hurst,NA,Male,NA,IL
+9,03:15:50,Mitchell,Hurst,39,Male,NA,IL
 10,03:20:01,Amanda,Turner,NA,Female,NA,IL
 11,03:22:44,Amy,Lee,NA,Female,NA,IL
 12,03:27:30,Pete,Cleary,NA,Male,NA,IL

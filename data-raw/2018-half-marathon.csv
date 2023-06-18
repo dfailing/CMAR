@@ -1,5 +1,5 @@
 Year,Event,Distance,Overall Place,First,Last,Finish Time,Age,Gender,State,City,UltraSignup,Note
-2018,Half Marathon,13,1,Matthew,Hajny,2:00:02,41,M,IL,Washington,,
+2018,Half Marathon,13,1,Matt,Hajny,2:00:02,41,M,IL,Washington,,Fixed first name (Matthew) to match Chillbilly and his Strava
 2018,Half Marathon,13,2,Bryan,Himmel,2:17:22,18,M,IL,Morton,,
 2018,Half Marathon,13,2,Garris,Radloff,2:17:22,19,M,IL,Morton,,
 2018,Half Marathon,13,4,Justin,Gore,2:20:53,36,M,IL,Mapleton,,
@@ -15,7 +15,7 @@ Year,Event,Distance,Overall Place,First,Last,Finish Time,Age,Gender,State,City,U
 2018,Half Marathon,13,14,Ted,Golden,2:57:59,35,M,IL,Pekin,,
 2018,Half Marathon,13,15,Lisa,Stisser,3:00:40,41,F,IL,Galva,,
 2018,Half Marathon,13,16,Mark,Bowman,3:05:05,63,M,IL,Joliet,,
-2018,Half Marathon,13,17,Tana,Utley,3:09:13,,F,IL,,,
+2018,Half Marathon,13,17,Tana,Utley,3:09:13,,F,IL,,https://ultrasignup.com/results_participant.aspx?fname=Tana&lname=Utley,
 2018,Half Marathon,13,18,Donald,Sweet,3:10:12,37,M,IL,Washington,,
 2018,Half Marathon,13,19,Robyn,Konen,3:12:57,33,F,IL,Dunlap,,
 2018,Half Marathon,13,20,Tina,Bajic,3:14:18,43,F,IL,Pekin,,
@@ -34,7 +34,7 @@ Year,Event,Distance,Overall Place,First,Last,Finish Time,Age,Gender,State,City,U
 2018,Half Marathon,13,33,Christy,Dillard,4:05:35,57,F,IL,Morton,,
 2018,Half Marathon,13,34,Vicki,Brassil,4:09:50,54,F,IL,Homer Glen,,
 2018,Half Marathon,13,35,Tim,Teel,4:26:16,48,M,IL,Elmwood,,
-2018,Half Marathon,13,36,Clarice,Chick,4:26:24,42,F,IL,,,
+2018,Half Marathon,13,36,Clarice,Chick,4:26:24,42,F,IL,Pekin,https://ultrasignup.com/results_participant.aspx?fname=Clarice&lname=Chick,City from USU
 2018,Half Marathon,13,37,James,Thompson,4:54:23,54,M,IL,East Peoria,,
 2018,Half Marathon,13,38,Mallory,Lindstrom,4:55:28,32,F,IL,Lacon,,
 2018,Half Marathon,13,39,Sue,Francis,5:03:08,55,F,IL,Crystal Lake,,
@@ -43,8 +43,8 @@ Year,Event,Distance,Overall Place,First,Last,Finish Time,Age,Gender,State,City,U
 2018,Half Marathon,13,42,Connie,Canterbury,5:12:02,54,F,IL,East Peoria,,
 2018,Half Marathon,13,43,Therese,Brink,5:14:39,60,F,IL,Peoria,,
 2018,Half Marathon,13,44,Katy,Reed,5:18:23,35,F,IL,Streator,,
-2018,Half Marathon,13,45,Jake,Miller,5:23:35,,M,IL,,,
-2018,Half Marathon,13,45,Amber,Francis,5:23:35,,F,IL,,,
-2018,Half Marathon,13,47,Diane,Stambaugh,6:26:55,44,F,,Sciota,,
+2018,Half Marathon,13,45,Jake,Miller,5:23:35,,M,IL,,https://ultrasignup.com/results_participant.aspx?fname=Jake&lname=Miller,
+2018,Half Marathon,13,45,Amber,Francis,5:23:35,,F,IL,Crystal Lake,https://ultrasignup.com/results_participant.aspx?fname=Amber&lname=Francis,City from USU
+2018,Half Marathon,13,47,Diane,Stambaugh,6:26:55,44,F,,Sciota,https://ultrasignup.com/results_participant.aspx?fname=Diane&lname=Stambaugh,
 2018,Half Marathon,13,48,Connie,Crowl,6:26:57,46,F,IL,Galesburg,,
-2018,Half Marathon,13,49,Vivian,Briscoe,7:04:57,57,F,IL,DeKalb,,"Gender was M, should be F - probably she ran on Jim's bib"
+2018,Half Marathon,13,49,Vivian,Briscoe,7:04:57,57,F,IL,DeKalb,https://ultrasignup.com/results_participant.aspx?fname=Vivian&lname=Briscoe,"Gender was M, should be F - probably she ran on Jim's bib"

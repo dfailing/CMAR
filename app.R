@@ -58,11 +58,12 @@ ui <- dashboardPage(
             p(HTML("<b>Getting Started:</b><br>
               <ul>
                 <li><b>Course Records</b> lists the fastest finishing times at each race distance. The 5 mile, 6 mile, and 50 mile races were only run once, so course records are not displayed.</li>
-                <li><b>Mileage Totals</b> for all finishers are given, along with their completed distance each year, and are sorted by total mileage by default.  Type a runner's name into the search box to see their lifetime results. By default, the table is sorted by total mileage.</li>
+                <li><b>Mileage Totals</b> for all finishers are given, along with their completed distance each year.  Type a runner's name into the search box to see their lifetime results. By default, the table is sorted by total mileage.</li>
                 <li><b>All Results</b> is a merged table of all events for all years. Type a runner's name into the search box to see their lifetime results. You can also search by any combination of other fields. Try '2015 50 mile' to pull up results for that year and event. By default, the table is sorted by year and event.</li>
                 <li><b>Register</b> for this year's race so that you don't miss out on the fun!
                 <li><b>Course Maps</b> below allow you to view Strava routes or download GPX files to navigate using your watch, phone, or other GPS device.
               </ul><br>
+              If you notice any errors, discrepancies, or have suggestions for improvements, please contact <a href='mailto:david.failing@gmail.com'>David Failing</a>.<br><br>
               <b>Course Maps:</b><br>
               <ul>
                 <li>Full Loop - <a href='https://www.strava.com/routes/3084308043342515312' target='_blank'>Strava</a> | <a href='GPX/CMAR-Full-Loop.gpx' download>GPX</a></li>

@@ -3,10 +3,10 @@ place,time,first,last,age,gender,city,state
 2,09:48:27,Tom,Wilson,48,Male,Williamsfield,IL
 3,10:01:32,Meghan,Kennihan,33,Female,La Grange,IL
 4,10:38:26,William,McFeeters,33,Male,Pekin,IL
-5,11:20:53,Siamak,Mostoufi,NA,Male,NA,NA
+5,11:20:53,Siamak,Mostoufi,41,Male,Evanston,IL
 6,11:31:02,Bill,Thom,54,Male,Chicago,IL
 7,11:39:34,Sabina,Hlinenska,30,Female,Peoria,IL
-8,11:52:51,Trevor,Hallam,25,Male,Milan,NA
+8,11:52:51,Trevor,Hallam,25,Male,Milan,IL
 9,11:57:59,Heath,Brandon,32,Male,Normal,IL
 10,12:07:38,Douglas,Beattie,46,Male,Darien,IL
 11,12:10:58,Jason,Willits,31,Male,Bettendorf,IA
@@ -15,7 +15,7 @@ place,time,first,last,age,gender,city,state
 14,12:27:33,Juli,Aistars,56,Female,Lake Zurich,IL
 15,12:28:15,Vince,Roberts,44,Male,Evanston,IL
 16,13:04:02,Amy,Briggs,48,Female,Chicago,IL
-17,13:06:36,Eddie,Lloyd,NA,Male,NA,NA
+17,13:06:36,Eddie,Lloyd,52,Male,Bloomington,IL
 18,13:13:06,Steve,Traman,29,Male,Cleveland,IL
 19,13:13:04,Daniel,Dillon,30,Male,Colona,IL
 20,13:13:05,Joshua,Sun,29,Male,Davenport,IA
@@ -23,7 +23,7 @@ place,time,first,last,age,gender,city,state
 22,13:25:21,Thomas,Rademacher,48,Male,Kankakee,IL
 23,13:35:11,Paul,Wilkerson,39,Male,Metamora,IL
 24,13:39:19,Becky,Gillen,41,Female,Decatur,IL
-25,13:42:03,Jerry,Stadnik,NA,Male,NA,NA
+25,13:42:03,Jerry,Stadnik,40,Male,Normal,IL
 26,13:56:04,Jonathon,Crowley,35,Male,Bloomington,IL
 27,14:02:46,David,Butler,30,Male,Bettendorf,IA
 28,14:17:38,Michael,Glennon,42,Male,Roselle,IL

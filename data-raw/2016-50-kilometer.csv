@@ -1,9 +1,9 @@
 Year,Event,Distance,Overall Place,First,Last,Finish Time,Age,Gender,State,City,UltraSignup,Note
-2016,50K,31,1,Matthew,Hajny,6:20:42,39,M,IL,Washington,,
+2016,50K,31,1,Matt,Hajny,6:20:42,39,M,IL,Washington,,Fixed first name (Matthew) to match Chillbilly and his Strava
 2016,50K,31,2,Michael,Reece,7:05:03,37,M,IL,Bloomington,,
 2016,50K,31,3,Elissa,Ballas,7:17:28,36,F,IL,Downers Grove,https://ultrasignup.com/results_participant.aspx?fname=Elissa&lname=Ballas,"Age, State, City from USU"
-2016,50K,31,4,Von,Fagan,7:39:33,,M,,,,
-2016,50K,31,5,Siamak,Mostoufi,7:46:41,42,M,IL,Evanston,,
+2016,50K,31,4,Von,Fagan,7:39:33,48,M,,,https://ultrasignup.com/results_participant.aspx?fname=Von&lname=Fagan,Age from USU
+2016,50K,31,5,Siamak,Mostoufi,7:46:41,42,M,IL,Evanston,https://ultrasignup.com/results_participant.aspx?fname=Siamak&lname=Mostoufi,
 2016,50K,31,6,Anthony,Avellino,7:51:53,49,M,IL,Peoria,,
 2016,50K,31,7,Todd,Brown,8:24:49,47,M,IL,Skokie,,
 2016,50K,31,8,TracyJo,Pasieka,8:28:31,40,F,MO,Saint Louis,,
@@ -15,24 +15,24 @@ Year,Event,Distance,Overall Place,First,Last,Finish Time,Age,Gender,State,City,U
 2016,50K,31,14,Chuck,Meyer,9:48:19,64,M,IL,Delavan,,
 2016,50K,31,15,Rachel,Head,9:52:02,24,F,IL,El Paso,,
 2016,50K,31,16,Michael,Crane,9:58:38,33,M,IA,Ankeny,,
-2016,50K,31,17,Jenny,Thorsen,10:15:59,,F,,,https://ultrasignup.com/m_results_participant.aspx?fname=Jenny&lname=Thorsen,Thorsen not Lo Thorson or Lo Thorsen
+2016,50K,31,17,Jenny,Thorsen,10:15:59,35,F,,,https://ultrasignup.com/m_results_participant.aspx?fname=Jenny&lname=Thorsen,Age from USU. Thorsen not Lo Thorson or Lo Thorsen
 2016,50K,31,18,Jennifer,DeSalvo,10:16:54,34,F,IL,Chicago,,
 2016,50K,31,19,Kirsten,Pieper,10:16:51,46,F,IL,Blackstone,,
 2016,50K,31,20,Darren,Sorgenfrei,10:22:07,49,M,MI,Portage,,
 2016,50K,31,21,Chris,Dierker,10:36:57,62,M,IL,Peoria,,
 2016,50K,31,22,Jerry,Stadnik,10:42:30,41,M,IL,Normal,,
 2016,50K,31,23,Christine,Borgerding,11:02:21,38,F,IL,McHenry,,
-2016,50K,31,24,Mark,Francis,11:02:56,52,M,IL,Crystal Lake,,
+2016,50K,31,24,Mark,Francis,11:02:56,52,M,IL,Crystal Lake,https://ultrasignup.com/results_participant.aspx?fname=Mark&lname=Francis,
 2016,50K,31,25,Michael,Johnson,11:03:09,51,M,IL,Elburn,https://ultrasignup.com/m_results_participant.aspx?fname=Michael&lname=Johnson,
-2016,50K,31,26,Jenny,Grow,11:08:59,45,F,IL,Morton,,
-2016,50K,31,27,Becky,Gillen,11:22:34,42,F,,,,
-2016,50K,31,28,Shad,Edwards,11:22:35,49,M,,,,
-2016,50K,31,29,Andrew,Schafer,11:24:43,41,M,,,,
+2016,50K,31,26,Jenny,Grow,11:08:59,45,F,IL,Morton,https://ultrasignup.com/results_participant.aspx?fname=Jenny&lname=Grow,
+2016,50K,31,27,Becky,Gillen,11:22:34,42,F,IL,Decatur,https://ultrasignup.com/results_participant.aspx?fname=Becky&lname=Gillen,"City, State from USU"
+2016,50K,31,28,Shad,Edwards,11:22:35,49,M,IL,Decatur,https://ultrasignup.com/results_participant.aspx?fname=Shad&lname=Edwards,"City, State from USU"
+2016,50K,31,29,Andrew,Schafer,11:24:43,41,M,IL,Mackinaw,https://ultrasignup.com/results_participant.aspx?fname=Andrew&lname=Schafer,"Age, State, City from USU"
 2016,50K,31,30,Mary,Hosbrough,11:37:45,44,F,IL,Washington,,
 2016,50K,31,31,Amy,Szumny,12:09:56,45,F,IL,Elburn,,
 2016,50K,31,32,Thomas,Rademacher,13:06:13,49,M,IL,Kankakee,,
 2016,50K,31,33,Sean,Ryan,13:29:19,42,M,IL,Sterling,,
-2016,50K,31,34,Bill,Fairfield,13:52:38,,M,,,,
+2016,50K,31,34,Bill,Fairfield,13:52:38,60,M,IL,Hawthorn Woods,https://ultrasignup.com/results_participant.aspx?fname=Bill&lname=Fairfield,"Age, State, City from USU"
 2016,50K,31,35,Susan,Smock,14:47:20,39,F,IL,Round Lake Beach,,
 2016,50K,31,36,Jill,Bell,19:14:11,37,F,WI,Salem,,
 2016,50K,31,37,Therese,Brink,20:04:04,58,F,IL,Peoria,,

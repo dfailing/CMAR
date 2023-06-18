@@ -1,38 +1,38 @@
 place,time,first,last,age,gender,city,state
-1,06:21:38,Matthew,Hajny,NA,Male,Washington,IL
-2,07:03:08,Timothy,Leichtenberg,NA,Male,Pekin,IL
-3,07:05:07,Alex,Kuhn,NA,Male,Urbana,IL
-4,07:58:25,Evan,McCrea,NA,Male,NA,NA
-5,08:14:53,Gonzalo,Gomez,NA,Male,Belvidere,IL
-6,08:18:32,Randy,Knight,NA,Male,NA,US
-7,08:25:03,Tanya,Giannotti,NA,Female,Normal,IL
+1,06:21:38,Matt,Hajny,40,Male,Washington,IL
+2,07:03:08,Timothy,Leichtenberg,43,Male,Pekin,IL
+3,07:05:07,Alex,Kuhn,31,Male,Urbana,IL
+4,07:58:25,Evan,McCrea,32,Male,NA,NA
+5,08:14:53,Gonzalo,Gomez,46,Male,Belvidere,IL
+6,08:18:32,Randy,Knight,53,Male,Fulton,IL
+7,08:25:03,Tanya,Giannotti,36,Female,Normal,IL
 8,08:46:42,Jordan,Kiefer,NA,Male,NA,NA
-9,09:00:27,Jim,Arnold,NA,Male,La Grange,IL
-10,09:00:27,Mary,Leonard,NA,Female,Manhattan,IL
-11,09:00:37,Paul,Shimondle,NA,Male,South Beloit,IL
-12,09:07:41,Todd,McMillion,NA,Male,Dixon,IL
-13,09:12:21,David,Failing,NA,Male,Westmont,IL
-14,09:26:07,Andrae,Marak,NA,Male,Flossmoor,IL
-15,09:39:23,Brad,Gorski,NA,Male,Belvidere,IL
-16,09:39:23,Chris,Silva,NA,Male,NA,NA
+9,09:00:27,Jim,Arnold,51,Male,La Grange,IL
+10,09:00:27,Mary,Leonard,40,Female,Manhattan,IL
+11,09:00:37,Paul,Shimondle,63,Male,South Beloit,IL
+12,09:07:41,Todd,McMillion,52,Male,Dixon,IL
+13,09:12:21,David,Failing,31,Male,Westmont,IL
+14,09:26:07,Andrae,Marak,49,Male,Flossmoor,IL
+15,09:39:23,Brad,Gorski,37,Male,Belvidere,IL
+16,09:39:23,Chris,Silva,24,Male,NA,NA
 17,10:06:59,Kate,Heid,NA,Female,Peoria,IL
-18,10:16:26,Rob,Judd,NA,Male,NA,NA
-19,10:17:28,Yvonne,Oldaker,NA,Female,Homewood,IL
-20,10:27:56,Chuck,Meyer,NA,Male,Delavan,IL
+18,10:16:26,Rob,Judd,41,Male,Bloomington,IL
+19,10:17:28,Yvonne,Oldaker,41,Female,Homewood,IL
+20,10:27:56,Chuck,Meyer,65,Male,Delavan,IL
 21,10:34:56,John,Buzansky,NA,Male,Jamison,PA
-22,10:38:54,Jean,Lenard,NA,Female,McHenry,IL
-23,10:43:07,Karen,Johnson,NA,Female,Crystal Lake,IL
-24,10:54:34,Steve,Hammann,NA,Male,NA,NA
-25,11:00:19,Tonie,Hockenbury,NA,Female,Jamison,PA
+22,10:38:54,Jean,Lenard,51,Female,McHenry,IL
+23,10:43:07,Karen,Johnson,52,Female,Crystal Lake,IL
+24,10:54:34,Steve,Hammann,62,Male,Muscatine,IA
+25,11:00:19,Tonie,Hockenbury,55,Female,Jamison,PA
 26,11:06:13,Vicki,Brassil,NA,Female,Homer Glen,IL
-27,11:39:12,Brian,Smock,NA,Male,Round Lake Beach,IL
+27,11:39:12,Brian,Smock,50,Male,Round Lake Beach,IL
 28,12:27:36,Andrea,Simeone,NA,Female,Athens,IL
 29,12:27:37,Todd,Simeone,NA,Male,Normal,IL
 30,12:28:25,Allison,Kallo,NA,Female,Chicago,IL
-31,12:28:25,Joseph,Kallo,NA,Male,Chicago,IL
-32,13:00:57,Mary,Hosbrough,NA,Female,NA,NA
-33,14:17:53,Galinda,Miller,NA,Female,NA,NA
-34,15:29:02,Susan,Smock,NA,Female,Round Lake Beach,IL
-35,15:29:03,Maggie,Smock,NA,Female,NA,NA
+31,12:28:25,Joseph,Kallo,42,Male,Chicago,IL
+32,13:00:57,Mary,Hosbrough,45,Female,Washington,IL
+33,14:17:53,Galinda,Miller,42,Female,Lyndon,IL
+34,15:29:02,Susan,Smock,40,Female,Round Lake Beach,IL
+35,15:29:03,Maggie,Smock,NA,Female,Round Lake Beach,IL
 36,18:04:48,Shawn,Peterson,NA,Female,Fort Wayne,IN
-37,18:04:49,Jennifer,Jacobsen-Wood,NA,Female,Princeville,IL
+37,18:04:49,Jennifer,Jacobsen-Wood,45,Female,Princeville,IL

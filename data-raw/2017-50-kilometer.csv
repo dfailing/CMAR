@@ -1,38 +1,38 @@
 Year,Event,Distance,Overall Place,First,Last,Finish Time,Age,Gender,State,City,UltraSignup,Note
-2017,50K,31,1,Matthew,Hajny,6:21:38,,M,IL,Washington,,
-2017,50K,31,2,Timothy,Leichtenberg,7:03:08,,M,IL,Pekin,,
-2017,50K,31,3,Alex,Kuhn,7:05:07,,M,IL,Urbana,,
-2017,50K,31,4,Evan,McCrea,7:58:25,,M,,,,
-2017,50K,31,5,Gonzalo,Gomez,8:14:53,,M,IL,Belvidere,,
-2017,50K,31,6,Randy,Knight,8:18:32,,M,US,,,
-2017,50K,31,7,Tanya,Giannotti,8:25:03,,F,IL,Normal,,
-2017,50K,31,8,Jordan,Kiefer,8:46:42,,M,,,,
-2017,50K,31,9,Jim,Arnold,9:00:27,,M,IL,La Grange,,
-2017,50K,31,10,Mary,Leonard,9:00:27,,F,IL,Manhattan,,
-2017,50K,31,11,Paul,Shimondle,9:00:37,,M,IL,South Beloit,,
-2017,50K,31,12,Todd,McMillion,9:07:41,,M,IL,Dixon,,
-2017,50K,31,13,David,Failing,9:12:21,,M,IL,Westmont,,
-2017,50K,31,14,Andrae,Marak,9:26:07,,M,IL,Flossmoor,,
-2017,50K,31,15,Brad,Gorski,9:39:23,,M,IL,Belvidere,,
-2017,50K,31,16,Chris,Silva,9:39:23,,M,,,,
-2017,50K,31,17,Kate,Heid,10:06:59,,F,IL,Peoria,,
-2017,50K,31,18,Rob,Judd,10:16:26,,M,,,,
-2017,50K,31,19,Yvonne,Oldaker,10:17:28,,F,IL,Homewood,,
-2017,50K,31,20,Chuck,Meyer,10:27:56,,M,IL,Delavan,,
+2017,50K,31,1,Matt,Hajny,6:21:38,40,M,IL,Washington,https://ultrasignup.com/results_participant.aspx?fname=Matthew&lname=Hajny,Age from USU. Fixed first name (Matthew) to match Chillbilly and his Strava
+2017,50K,31,2,Timothy,Leichtenberg,7:03:08,43,M,IL,Pekin,https://ultrasignup.com/results_participant.aspx?fname=Timothy&lname=Leichtenberg,Age from USU
+2017,50K,31,3,Alex,Kuhn,7:05:07,31,M,IL,Urbana,https://ultrasignup.com/results_participant.aspx?fname=Alex&lname=Kuhn,Age from USU
+2017,50K,31,4,Evan,McCrea,7:58:25,32,M,,,https://ultrasignup.com/results_participant.aspx?fname=Evan&lname=McCrea,
+2017,50K,31,5,Gonzalo,Gomez,8:14:53,46,M,IL,Belvidere,https://ultrasignup.com/results_participant.aspx?fname=Gonzalo&lname=Gomez,Age from USU
+2017,50K,31,6,Randy,Knight,8:18:32,53,M,IL,Fulton,https://ultrasignup.com/results_participant.aspx?fname=Randy&lname=Knight,City from USU. Age from USU
+2017,50K,31,7,Tanya,Giannotti,8:25:03,36,F,IL,Normal,https://ultrasignup.com/results_participant.aspx?fname=Tanya&lname=Giannotti,Age from USU
+2017,50K,31,8,Jordan,Kiefer,8:46:42,,M,,,https://ultrasignup.com/results_participant.aspx?fname=Jordan&lname=Kiefer,
+2017,50K,31,9,Jim,Arnold,9:00:27,51,M,IL,La Grange,https://ultrasignup.com/results_participant.aspx?fname=Jim&lname=Arnold,Age from USU
+2017,50K,31,10,Mary,Leonard,9:00:27,40,F,IL,Manhattan,https://ultrasignup.com/results_participant.aspx?fname=Mary&lname=Leonard,Age from USU
+2017,50K,31,11,Paul,Shimondle,9:00:37,63,M,IL,South Beloit,https://ultrasignup.com/results_participant.aspx?fname=Paul&lname=Shimondle,Age from USU
+2017,50K,31,12,Todd,McMillion,9:07:41,52,M,IL,Dixon,https://ultrasignup.com/results_participant.aspx?fname=Todd&lname=McMillion,Age from USU
+2017,50K,31,13,David,Failing,9:12:21,31,M,IL,Westmont,https://ultrasignup.com/results_participant.aspx?fname=David&lname=Failing,Age from USU
+2017,50K,31,14,Andrae,Marak,9:26:07,49,M,IL,Flossmoor,https://ultrasignup.com/results_participant.aspx?fname=Andrae&lname=Marak,Age from USU
+2017,50K,31,15,Brad,Gorski,9:39:23,37,M,IL,Belvidere,https://ultrasignup.com/results_participant.aspx?fname=Brad&lname=Gorski,Age from USU
+2017,50K,31,16,Chris,Silva,9:39:23,24,M,,,https://ultrasignup.com/results_participant.aspx?fname=Chris&lname=Silva,Age from USU
+2017,50K,31,17,Kate,Heid,10:06:59,,F,IL,Peoria,https://ultrasignup.com/results_participant.aspx?fname=Kate&lname=Heid,
+2017,50K,31,18,Rob,Judd,10:16:26,41,M,IL,Bloomington,https://ultrasignup.com/results_participant.aspx?fname=Rob&lname=Judd,City from USU. Age from USU
+2017,50K,31,19,Yvonne,Oldaker,10:17:28,41,F,IL,Homewood,https://ultrasignup.com/results_participant.aspx?fname=Yvonne&lname=Oldaker,Age from USU
+2017,50K,31,20,Chuck,Meyer,10:27:56,65,M,IL,Delavan,https://ultrasignup.com/results_participant.aspx?fname=Chuck&lname=Meyer,Age from USU
 2017,50K,31,21,John,Buzansky,10:34:56,,M,PA,Jamison,,
-2017,50K,31,22,Jean,Lenard,10:38:54,,F,IL,McHenry,,
-2017,50K,31,23,Karen,Johnson,10:43:07,,F,IL,Crystal Lake,,"Goes by Karen Johnson, not Wray or Shearer, now"
-2017,50K,31,24,Steve,Hammann,10:54:34,,M,,,,
-2017,50K,31,25,Tonie,Hockenbury,11:00:19,,F,PA,Jamison,,
-2017,50K,31,26,Vicki,Brassil,11:06:13,,F,IL,Homer Glen,,
-2017,50K,31,27,Brian,Smock,11:39:12,,M,IL,Round Lake Beach,,
-2017,50K,31,28,Andrea,Simeone,12:27:36,,F,IL,Athens,,
-2017,50K,31,29,Todd,Simeone,12:27:37,,M,IL,Normal,,
+2017,50K,31,22,Jean,Lenard,10:38:54,51,F,IL,McHenry,https://ultrasignup.com/results_participant.aspx?fname=Jean&lname=Lenard,Age from USU
+2017,50K,31,23,Karen,Johnson,10:43:07,52,F,IL,Crystal Lake,https://ultrasignup.com/results_participant.aspx?fname=Karen&lname=Wray,"Goes by Karen Johnson, not Wray or Shearer, now"
+2017,50K,31,24,Steve,Hammann,10:54:34,62,M,IA,Muscatine,https://ultrasignup.com/results_participant.aspx?fname=Steve&lname=Hammann,City from USU. Age from USU
+2017,50K,31,25,Tonie,Hockenbury,11:00:19,55,F,PA,Jamison,https://ultrasignup.com/results_participant.aspx?fname=Tonie&lname=Hockenbury,Age from USU
+2017,50K,31,26,Vicki,Brassil,11:06:13,,F,IL,Homer Glen,https://ultrasignup.com/results_participant.aspx?fname=Vicki&lname=Brassil,
+2017,50K,31,27,Brian,Smock,11:39:12,50,M,IL,Round Lake Beach,https://ultrasignup.com/results_participant.aspx?fname=Brian&lname=Smock,Age from USU
+2017,50K,31,28,Andrea,Simeone,12:27:36,,F,IL,Athens,https://ultrasignup.com/results_participant.aspx?fname=Andrea&lname=Simeone,
+2017,50K,31,29,Todd,Simeone,12:27:37,,M,IL,Normal,https://ultrasignup.com/results_participant.aspx?fname=Allison&lname=Kallo,
 2017,50K,31,30,Allison,Kallo,12:28:25,,F,IL,Chicago,,
-2017,50K,31,31,Joseph,Kallo,12:28:25,,M,IL,Chicago,,
-2017,50K,31,32,Mary,Hosbrough,13:00:57,,F,,,,
-2017,50K,31,33,Galinda,Miller,14:17:53,,F,,,,
-2017,50K,31,34,Susan,Smock,15:29:02,,F,IL,Round Lake Beach,,
-2017,50K,31,35,Maggie,Smock,15:29:03,,F,,,,
-2017,50K,31,36,Shawn,Peterson,18:04:48,,F,IN,Fort Wayne,,
-2017,50K,31,37,Jennifer,Jacobsen-Wood,18:04:49,,F,IL,Princeville,,
+2017,50K,31,31,Joseph,Kallo,12:28:25,42,M,IL,Chicago,https://ultrasignup.com/results_participant.aspx?fname=Joseph&lname=Kallo,Age from USU
+2017,50K,31,32,Mary,Hosbrough,13:00:57,45,F,IL,Washington,https://ultrasignup.com/results_participant.aspx?fname=Mary&lname=Hosbrough,City from USU. Age from USU
+2017,50K,31,33,Galinda,Miller,14:17:53,42,F,IL,Lyndon,https://ultrasignup.com/results_participant.aspx?fname=Galinda&lname=Miller,
+2017,50K,31,34,Susan,Smock,15:29:02,40,F,IL,Round Lake Beach,https://ultrasignup.com/results_participant.aspx?fname=Susan&lname=Smock,Age from USU
+2017,50K,31,35,Maggie,Smock,15:29:03,,F,IL,Round Lake Beach,https://ultrasignup.com/results_participant.aspx?fname=Maggie&lname=Smock,City from USU
+2017,50K,31,36,Shawn,Peterson,18:04:48,,F,IN,Fort Wayne,https://ultrasignup.com/results_participant.aspx?fname=Shawn&lname=Peterson,
+2017,50K,31,37,Jennifer,Jacobsen-Wood,18:04:49,45,F,IL,Princeville,https://ultrasignup.com/results_participant.aspx?fname=Jennifer&lname=Jacobsen-Wood,Age from USU

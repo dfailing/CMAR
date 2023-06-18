@@ -1,5 +1,5 @@
 place,time,first,last,age,gender,city,state
-1,02:00:02,Matthew,Hajny,41,Male,Washington,IL
+1,02:00:02,Matt,Hajny,41,Male,Washington,IL
 2,02:17:22,Bryan,Himmel,18,Male,Morton,IL
 2,02:17:22,Garris,Radloff,19,Male,Morton,IL
 4,02:20:53,Justin,Gore,36,Male,Mapleton,IL
@@ -34,7 +34,7 @@ place,time,first,last,age,gender,city,state
 33,04:05:35,Christy,Dillard,57,Female,Morton,IL
 34,04:09:50,Vicki,Brassil,54,Female,Homer Glen,IL
 35,04:26:16,Tim,Teel,48,Male,Elmwood,IL
-36,04:26:24,Clarice,Chick,42,Female,NA,IL
+36,04:26:24,Clarice,Chick,42,Female,Pekin,IL
 37,04:54:23,James,Thompson,54,Male,East Peoria,IL
 38,04:55:28,Mallory,Lindstrom,32,Female,Lacon,IL
 39,05:03:08,Sue,Francis,55,Female,Crystal Lake,IL
@@ -44,7 +44,7 @@ place,time,first,last,age,gender,city,state
 43,05:14:39,Therese,Brink,60,Female,Peoria,IL
 44,05:18:23,Katy,Reed,35,Female,Streator,IL
 45,05:23:35,Jake,Miller,NA,Male,NA,IL
-45,05:23:35,Amber,Francis,NA,Female,NA,IL
+45,05:23:35,Amber,Francis,NA,Female,Crystal Lake,IL
 47,06:26:55,Diane,Stambaugh,44,Female,Sciota,NA
 48,06:26:57,Connie,Crowl,46,Female,Galesburg,IL
 49,07:04:57,Vivian,Briscoe,57,Female,DeKalb,IL

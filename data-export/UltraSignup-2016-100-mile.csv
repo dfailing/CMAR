@@ -1,9 +1,9 @@
 place,time,first,last,age,gender,city,state
-1,28:20:51,Eric,Bloomquist,NA,Male,NA,NA
-2,29:58:17,Chad,Hazelwood,NA,Male,NA,NA
-3,30:40:04,Jeffrey,Lenard,NA,Male,NA,NA
-4,31:46:20,Mike,Smith,NA,Male,NA,NA
+1,28:20:51,Eric,Bloomquist,48,Male,NA,NA
+2,29:58:17,Chad,Hazelwood,44,Male,NA,NA
+3,30:40:04,Jeffrey,Lenard,50,Male,McHenry,IL
+4,31:46:20,Mike,Smith,58,Male,Santa,NM
 5,32:34:24,Lee,Dogery,NA,Male,NA,NA
-6,32:34:24,Tiffany,Dore,NA,Female,NA,NA
-7,32:40:43,Jeffrey,Foes,NA,Male,NA,NA
-8,32:55:33,William,McFeeters,NA,Male,NA,NA
+6,32:34:24,Tiffany,Dore,37,Female,Oswego,IL
+7,32:40:43,Jeffrey,Foes,50,Male,Alton,MO
+8,32:55:33,William,McFeeters,34,Male,Pekin,IL
