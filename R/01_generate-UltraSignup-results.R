@@ -30,19 +30,52 @@ columns_optional <- c("city", "state", "dob", "bib", "status")
 #                    5 = "Disqualified", 6 = "Less than 10 Finishers")
 
 for (filename in csv_filenames) {
-  filename_UltraSignup <- paste0("UltraSignup-", filename)
   
   data <- read_csv(here(dir_raw, filename))
   
-  data %>% 
-    rename(Place = "Overall Place") %>%
-    # TODO Comment `Time` out for fixed-time events
-    rename(Time = `Finish Time`) %>%
-    arrange(Place) %>%
-    mutate(Gender = case_when(str_starts(Gender, "M") ~ "Male",
-                              str_starts(Gender, "F") ~ "Female")) %>%
-    select(any_of(str_to_title(c(columns_required, columns_optional)))) %>%
-    rename_with(str_to_lower, everything()) %>%
-    write_csv(here("data-export", filename_UltraSignup))
+  # Check if there are multiple unique 'Event' values
+  unique_events <- unique(data$Event)
   
+  if(length(unique_events) > 1) {
+    # If there are multiple 'Event' values, split the data frame
+    data_list <- split(data, data$Event)
+    
+    year <- filename %>% 
+      str_extract("^\\d{4}")
+    
+    filenames_export <- unique_events %>%
+      str_to_lower %>%
+      str_replace_all(c(" " = "-", "\\b(\\d+)k\\b" = "\\1-kilometer")) %>%
+      paste0("UltraSignup-", year, "-", ., ".csv")
+    
+    for(i in seq_along(data_list)) {
+      event_data <- data_list[[i]]
+      
+      filename_UltraSignup <- filenames_export[i]
+      
+      event_data %>% 
+        rename(Place = "Overall Place") %>%
+        rename(Time = `Finish Time`) %>%
+        arrange(Place) %>%
+        mutate(Gender = case_when(str_starts(Gender, "M") ~ "Male",
+                                  str_starts(Gender, "F") ~ "Female")) %>%
+        select(any_of(str_to_title(c(columns_required, columns_optional)))) %>%
+        rename_with(str_to_lower, everything()) %>%
+        write_csv(here("data-export", filename_UltraSignup))
+    }
+  } else {
+    filename_UltraSignup <- paste0("UltraSignup-", filename)
+    
+    data %>% 
+      rename(Place = "Overall Place") %>%
+      # TODO Comment `Time` out for fixed-time events
+      rename(Time = `Finish Time`) %>%
+      arrange(Place) %>%
+      mutate(Gender = case_when(str_starts(Gender, "M") ~ "Male",
+                                str_starts(Gender, "F") ~ "Female")) %>%
+      select(any_of(str_to_title(c(columns_required, columns_optional)))) %>%
+      rename_with(str_to_lower, everything()) %>%
+      write_csv(here("data-export", filename_UltraSignup))
+  }
 }
+

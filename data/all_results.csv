@@ -1,4 +1,86 @@
 Year,Event,Place,First,Last,City,State,Age,Gender,DP,Time
+2023,100 Mile,1,Rachel,Burke,Chicagp,IL,38,F,1,26:22:31
+2023,100 Mile,2,Bradley,Wheeler,East Peoria,IL,42,M,1,27:48:43
+2023,100 Mile,3,Matt,Dryden,Dunlap,IL,29,M,2,28:27:27
+2023,100K,1,Alison,Ball,Champaign,IL,32,F,1,13:59:22
+2023,100K Drop Down,1,Travis,Swanson,Rock Island,IL,42,M,1,15:16:43
+2023,100K,2,Chad,Hazelwood,Pekin,IL,51,M,1,15:11:18
+2023,100K Drop Down,2,Eric,Bloomquist,Lake In The Hills,IL,55,M,2,15:43:47
+2023,100K,3,Lily,Medina,Oglesby,IL,41,F,2,15:44:28
+2023,100K Drop Down,3,John,Larson,Divernon,IL,42,M,3,19:09:20
+2023,100K,4,Cat,Delheimer,Cornell,IL,40,F,3,15:54:59
+2023,100K,5,Dayton,Rabe,Fairbury,IL,20,M,2,15:58:31
+2023,100K,6,Nathan,Pritzker,Morton,IL,33,M,3,16:25:42
+2023,100K,7,Jeff,Joos,Washington,IL,33,M,4,16:55:46
+2023,100K,8,Karyn,Weber,Glen Carbon,IL,57,F,4,17:39:16
+2023,100K,9,Richard,Mann,Urbana,IL,64,M,5,18:01:30
+2023,100K,10,Mike,Hoefer,Rock Falls,IL,59,M,6,18:55:42
+2023,100K,11,Brenda,Worrell,Warsaw,IN,63,F,5,19:31:33
+2023,100K,12,Tryg,Tow,Peoria,IL,54,M,7,20:17:37
+2023,100K,13,Matthew,Newton,Chicago,IL,41,M,8,20:39:50
+2023,50K,1,David,Secord,Chicago,IL,37,M,1,06:29:40
+2023,50K,2,Corby,Burkett,Sterling,IL,50,M,2,06:49:01
+2023,50K,3,Jake,Grossbauer,Dittmer,MO,37,M,3,06:49:37
+2023,50K,4,Siyan,Cao,Chesterfield,IL,38,M,4,07:01:22
+2023,50K,5,Ryan,Stadnik,Normal,IL,16,M,5,07:22:32
+2023,50K,6,Chris,Beveroth,Port Byron,IL,38,M,6,07:34:09
+2023,50K,7,Daniela,Harrison,Princeville,IL,41,F,1,07:54:09
+2023,50K,8,Terry,Koser,Edelstein,IL,48,M,7,09:03:16
+2023,50K,9,Marlin,Weekley,Metramora,IL,71,M,8,09:22:03
+2023,50K,10,Keith,Aurand,Dixon,IL,58,M,9,09:27:18
+2023,50K,11,Andrae,Marak,Chicago,IL,54,M,10,09:28:42
+2023,50K,12,Jerry,Stadnik,Normal,IL,48,M,11,09:46:45
+2023,50K,13,Julia,Carrell,East Peoria,IL,42,F,2,09:56:55
+2023,50K,14,Michael,Hammond,Canton,IL,43,M,12,10:16:18
+2023,50K,15,Cathy,Derry,Canton,IL,46,F,3,10:16:25
+2023,50K,16,Jim,Taylor,Glen Carbon,IL,62,M,13,12:11:54
+2023,50K,17,Frank,Hardy,Marquette Heights,IL,45,M,14,12:30:18
+2023,Half Marathon,1,John,Havenga,West Peoria,IL,40,M,1,02:09:18
+2023,Half Marathon,2,Jonathon,Brooks,Granite City,IL,38,M,2,02:14:08
+2023,Half Marathon,3,Jon,Valuck,Springfield,IL,36,M,3,02:24:12
+2023,Half Marathon,4,Cory,Shoopman,Metamora,IL,33,M,4,02:27:25
+2023,Half Marathon,5,Daniel,Meinhart,Downers Grove,IL,29,M,5,02:29:19
+2023,Half Marathon,6,Kevin,Brucker,East Peoria,IL,44,M,6,02:31:26
+2023,Half Marathon,7,Brook,Stanbary,Putnam,IL,49,M,7,02:40:15
+2023,Half Marathon,8,Cody,Renshaw,Washington,IL,44,M,8,02:45:22
+2023,Half Marathon,9,Cassey,Mckinny,Davenport,IA,31,F,1,02:48:47
+2023,Half Marathon,10,Brady,Grant,Denver,CO,42,M,9,02:55:47
+2023,Half Marathon,11,Briannah,Harrison,Washington,IL,27,F,2,03:15:26
+2023,Half Marathon,12,Randi,Kuhn,Springfield,IL,39,F,3,03:17:35
+2023,Half Marathon,13,Charity,Stanley,Chillicothe,IL,52,F,4,03:17:35
+2023,Half Marathon,14,Jim,Stanley,Chillicothe,IL,51,M,10,03:28:59
+2023,Half Marathon,15,Lupe,Martinez,Peoria,IL,54,M,11,03:37:43
+2023,Half Marathon,16,Jill,Perry,Chicago,IL,33,F,5,03:42:48
+2023,Half Marathon,17,Maggie,Grant,Denver,CO,14,F,6,03:43:04
+2023,Half Marathon,18,James,Booth,Peoria,IL,43,M,12,03:43:29
+2023,Half Marathon,19,Sarah,Grant,Denver,CO,41,F,7,03:50:33
+2023,Half Marathon,20,Cian,Reed,Streator,IL,15,M,13,03:53:15
+2023,Half Marathon,21,Giang,Lam,Champaign,IL,50,F,8,04:04:42
+2023,Half Marathon,22,Sandra,Marak,Chicago,IL,51,F,9,04:07:04
+2023,Half Marathon,23,Gerald,Stock,Morrison,IL,54,M,14,04:07:20
+2023,Half Marathon,24,Brian,Snyder,Morton,IL,47,M,15,04:18:30
+2023,Half Marathon,25,Tammy,Colver,Garden Prairie,IL,51,F,10,04:22:54
+2023,Half Marathon,26,Brian,Drendel,Genoa,IL,56,M,16,04:22:54
+2023,Half Marathon,27,Karianne,Kusner,Winnebago,IL,51,F,11,04:22:54
+2023,Half Marathon,28,Jessica,Maveus,Rockford,IL,42,F,12,04:22:55
+2023,Half Marathon,29,Krystal,Hardy,Rockford,IL,39,F,13,04:22:55
+2023,Half Marathon,30,Saige,Ruback,Dekalb,IL,15,F,14,04:22:56
+2023,Half Marathon,31,Katrina,Baltes,Yorkville,IL,44,F,15,04:22:56
+2023,Half Marathon,32,Patty,Ruback,Dekalb,IL,48,F,16,04:22:57
+2023,Half Marathon,33,Shannon,Bollinger,Davis Junction,IL,53,M,17,04:22:57
+2023,Half Marathon,34,Dan,Stumpenhorst,Franklin Grove,IL,66,M,18,04:44:10
+2023,Half Marathon,35,Caroline,Tonozzi,Savoy,IL,46,F,17,04:59:02
+2023,Half Marathon,36,Bob,McCrory,Dixon,IL,52,M,19,05:01:59
+2023,Half Marathon,37,Erich,Smith,Peoria,IL,54,M,20,05:11:20
+2023,Half Marathon,38,Norm,Heiser,Princeville,IL,74,M,21,05:11:21
+2023,Half Marathon,39,Tara,Mayner,Bloomington,IL,52,F,18,05:11:58
+2023,Half Marathon,40,Denise,Ismari,Decatur,IL,62,F,19,05:36:41
+2023,Half Marathon,41,Melody,Wilkinson,Argenta,IL,60,F,20,05:51:13
+2023,Half Marathon,42,Marianne,Robertson,Decatur,IL,60,F,21,05:51:13
+2023,Half Marathon,43,Nancy,Sivertsen,Champaign,IL,66,F,22,06:47:03
+2023,Half Marathon,44,Angie,Goode,Decatur,IL,54,F,23,06:48:31
+2023,Half Marathon,45,Gwen,Burrows,Decatur,IL,63,F,24,06:48:43
+2023,Half Marathon,46,Racine,Lambert-Cwerenz,Glendale Heights,IL,62,F,25,08:09:09
 2022,100 Mile,1,James,Solomon,Villa Park,IL,32,M,1,21:39:53
 2022,100 Mile,2,Andy,Newman,Wheaton,IL,47,M,2,26:49:30
 2022,100 Mile,3,Matt,Condron,Chicago,IL,55,M,3,31:21:20

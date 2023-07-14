@@ -35,8 +35,8 @@ for (filename in csv_filenames) {
   
   data %>%
     select(-any_of(c("Note", "UltraSignup"))) %>%
-    arrange(`Overall Place`, Last, First) %>%
-    group_by(Gender) %>%
+    arrange(`Event`, `Overall Place`, Last, First) %>%
+    group_by(Event, Gender) %>%
     mutate(`Division Place` = dense_rank(`Overall Place`), .after = `Overall Place`) %>%
     ungroup() %>%
     mutate(State = str_to_upper(State)) %>%
@@ -128,6 +128,9 @@ write_csv(uuid_registry, here("data", "uuid_registry.csv"))
 # Course Records
 course_records <- merged_data %>%
   filter(!Distance %in% c(5, 6, 50)) %>% 
+  # 100k and 100 mile in 2023 are ineligible for course records due to stoppage 
+  # TODO delete this for other races
+  filter(!(Year == 2023 & Distance %in% c(62, 100))) %>%
   mutate(Gender = case_when(Gender == "M" ~ "Male", 
                             Gender == "F" ~ "Female", 
                             TRUE ~ "")) %>%
@@ -142,14 +145,14 @@ course_records <- merged_data %>%
 # Mileage Totals
 mileage_totals <- merged_data %>%
   select(UUID, First, Last, Gender, City, State, Year, Distance) %>% 
+  arrange(Year, UUID) %>% 
   group_by(UUID) %>%
-  filter(any(is.na(City)) & !all(is.na(City)) & n() > 1) %>%
-  arrange(Year) %>%
   # Fill down first to assume no change until we are informed of a change
   fill(First, Last, Gender, City, State, .direction = "down") %>%
   # Fill up after to handle if first is NA (Unnecessary?)
   fill(First, Last, Gender, City, State, .direction = "up") %>%
   # Overwrite First, Last, Gender, City, State with values from most recent race result
+  arrange(-Year, UUID) %>% 
   mutate(across(c(First, Last, Gender, City, State), ~ .[which.max(Year)])) %>%
   mutate(`Finishes` = n(),
          `Total Miles` = sum(Distance), .after = State) %>%

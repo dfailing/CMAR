@@ -19,7 +19,7 @@ ui <- dashboardPage(
       menuItem("Course Records", tabName = "course_records", icon = icon("trophy")),
       menuItem("Mileage Totals", tabName = "mileage_totals", icon = icon("table")),
       menuItem("All Results", tabName = "all_results", icon = icon("table")),
-      menuItem("Register @ RunRace", href = "https://www.runrace.net/findarace.php?id=23188IL", icon = icon("clipboard"))
+      menuItem("Register @ RunRace", href = "https://www.runrace.net/cmar", icon = icon("clipboard"))
     )
   ),
   dashboardBody(
@@ -81,6 +81,7 @@ ui <- dashboardPage(
                 <li>2020 - Canceled due to COVID-19</li>
                 <li>2021 - <a href='https://www.runrace.net/findarace.php?id=21190IL&tab=a4'>RunRace</a></li>
                 <li>2022 - <a href='https://www.runrace.net/findarace.php?id=22189IL&tab=a4'>RunRace</a></li>
+                <li>2023 - <a href='https://www.runrace.net/findarace.php?id=23188IL&tab=a4'>RunRace</a></li>
               </ul>"))
           )
         )
