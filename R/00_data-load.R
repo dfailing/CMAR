@@ -166,9 +166,9 @@ mileage_totals <- merged_data %>%
 all_results <- merged_data %>%
   # TODO determine what I'm NOT selecting below and select it.
   ## OTHERWISE use rename() appropriately, or both select() and rename()
+  arrange(-Year, -Distance, Event, `Overall Place`) %>%
   select(Year, Distance, Event, Place = `Overall Place`, First, Last, City, State, 
          Age, Gender, DP = `Division Place`, Time = `Finish Time`) %>% 
-  arrange(-Year, -Distance, Place) %>%
   select(-Distance)
  
 # Export Data
