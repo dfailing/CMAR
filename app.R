@@ -19,7 +19,8 @@ ui <- dashboardPage(
       menuItem("Course Records", tabName = "course_records", icon = icon("trophy")),
       menuItem("Mileage Totals", tabName = "mileage_totals", icon = icon("table")),
       menuItem("All Results", tabName = "all_results", icon = icon("table")),
-      menuItem("Register @ RunRace", href = "https://www.runrace.net/cmar", icon = icon("clipboard"))
+      # menuItem("Register @ RunRace", href = "https://www.runrace.net/cmar", icon = icon("clipboard"))
+      menuItem("Register @ RunRace", href = "https://www.runrace.net/findarace.php?id=24194IL", icon = icon("clipboard"))
     )
   ),
   dashboardBody(
