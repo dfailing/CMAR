@@ -1,4 +1,57 @@
 Year,Event,Place,First,Last,City,State,Age,Gender,DP,Time
+2024,100 Mile,1,Andy,Newman,Wheaton,IL,49,M,1,27:35:18
+2024,100 Mile,2,Matt,Condron,Libertyville,IL,57,M,2,30:50:06
+2024,100 Mile,3,Andy,Bloom,Pekin,IL,38,M,3,34:12:13
+2024,100 Mile,4,Amy,Reau,Metamora,IL,47,F,1,34:15:51
+2024,100K,1,Jacob,Muth,Chicago,IL,33,M,1,18:07:24
+2024,100K,2,John,Alcantara,Chicago,IL,39,M,2,18:27:08
+2024,100K,3,Dave,Pettett,East Peoria,IL,44,M,3,19:04:57
+2024,100K,4,Naomi,Morimoto,Chicago,IL,31,F,1,20:29:00
+2024,100K,5,Jim,Stanley,Chillicothe,IL,52,M,4,22:16:34
+2024,100K,6,Tryg,Tow,Peoria,IL,55,M,5,22:54:01
+2024,100K,7,Brian,Parker,Sun Prairie,WI,57,M,6,23:52:30
+2024,100K,8,Rob,Judd,Bloomington,IL,48,M,7,24:08:56
+2024,50K,1,Matthias,Kemmeren,Dixon,IL,45,M,1,06:38:02
+2024,50K,2,John,Havenga,West Peoria,IL,41,M,2,07:25:31
+2024,50K,3,Zach,Dicken,Springfield,IL,36,M,3,07:51:05
+2024,50K,4,Travis,Swanson,Cambridge,IL,43,M,4,08:48:31
+2024,50K,5,Sophie,Russell,Morton,IL,37,F,1,09:09:51
+2024,50K,6,Charity,Stanley,Chillicothe,IL,53,F,2,09:23:04
+2024,50K,7,Maritza,Hernandez,Chicago,IL,41,F,3,10:39:54
+2024,50K,8,Ausra,Butkeviciute,Palatine,IL,47,F,4,10:40:02
+2024,50K,9,Karyn,Weber,Glen Carbon,IL,58,F,5,10:43:59
+2024,50K,10,Scott,Buchan,Northbrook,IL,53,M,5,10:46:02
+2024,50K,11,Brenda,Van Horn,Sterling,IL,56,F,6,10:48:53
+2024,50K,12,Ted,Golden,Pekin,IL,41,M,6,10:58:43
+2024,50K,13,Dawn,Shay,Pontiac,IL,47,F,7,11:01:27
+2024,50K,14,Erin,Montgomery,Clinton,IL,43,F,8,11:14:15
+2024,50K,15,Michael,Hammond,Canton,IL,44,M,7,11:27:39
+2024,50K,16,Steve,Hammann,Muscatine,IA,68,M,8,11:53:09
+2024,50K,17,Tara,Mayner,Bloomington,IL,53,F,9,14:20:50
+2024,Half Marathon,1,Dan,Meinhart,Downers Grove,IL,30,M,1,02:47:43
+2024,Half Marathon,2,Bradley,Slott,West Peoria,IL,51,M,2,02:50:21
+2024,Half Marathon,3,Allyn,Toth,Chillicothe,IL,41,F,1,02:53:46
+2024,Half Marathon,4,Ben,Cantrell,Chillicothe,IL,38,M,3,02:57:39
+2024,Half Marathon,5,Smitha,Rhodes,Chatham,IL,41,F,2,03:09:31
+2024,Half Marathon,6,Jon,Valuck,Springfield,IL,37,M,4,03:15:55
+2024,Half Marathon,7,Devin,Jefferson,Clinton,IL,27,M,5,03:20:39
+2024,Half Marathon,8,Mary,Leonard,Manhattan,IL,42,F,3,03:27:17
+2024,Half Marathon,9,Chad,Barnes,Bartonville,IL,52,M,6,03:27:18
+2024,Half Marathon,10,Michelle,Jachim,Downers Grove,IL,52,F,4,03:32:11
+2024,Half Marathon,11,Marlin,Weekley,Metamora,IL,72,M,7,03:37:08
+2024,Half Marathon,12,Ben,Evans,Peoria,IL,49,M,8,03:38:30
+2024,Half Marathon,13,Angela,Freeman,Minooka,IL,48,F,5,03:57:54
+2024,Half Marathon,14,Danny,Machak,Joliet,IL,61,M,9,03:57:54
+2024,Half Marathon,15,Chris,Braun,Madison,WI,27,M,10,03:58:48
+2024,Half Marathon,16,Keith,Aurand,Dixon,IL,59,M,11,03:59:35
+2024,Half Marathon,17,Terry,Koser,Edelstein,IL,49,M,12,04:07:34
+2024,Half Marathon,18,Brian,Tomkinson,Lincoln,IL,41,M,13,04:14:57
+2024,Half Marathon,19,Julia,Carrell,East Peoria,IL,43,F,6,04:41:08
+2024,Half Marathon,20,Lupe,Martinez,Peoria,IL,55,M,14,04:42:36
+2024,Half Marathon,21,Nancy,Sivertsen,Champaign,IL,67,F,7,05:10:47
+2024,Half Marathon,22,Troy,Pequette,Washington,IL,53,M,15,05:20:29
+2024,Half Marathon,23,Marc,Dean,Pekin,IL,56,M,16,05:20:36
+2024,Half Marathon,24,Racine,Lambert-Cwerenz,Glendale Heights,IL,63,F,8,06:14:31
 2023,100 Mile,1,Rachel,Burke,Chicago,IL,38,F,1,26:22:31
 2023,100 Mile,2,Bradley,Wheeler,East Peoria,IL,42,M,1,27:48:43
 2023,100 Mile,3,Matt,Dryden,Dunlap,IL,29,M,2,28:27:27

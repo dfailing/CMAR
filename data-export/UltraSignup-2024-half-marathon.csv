@@ -1,0 +1,25 @@
+place,time,first,last,age,gender,city,state
+1,02:47:43,Dan,Meinhart,30,Male,Downers Grove,IL
+2,02:50:21,Bradley,Slott,51,Male,West Peoria,IL
+3,02:53:46,Allyn,Toth,41,Female,Chillicothe,IL
+4,02:57:39,Ben,Cantrell,38,Male,Chillicothe,IL
+5,03:09:31,Smitha,Rhodes,41,Female,Chatham,IL
+6,03:15:55,Jon,Valuck,37,Male,Springfield,IL
+7,03:20:39,Devin,Jefferson,27,Male,Clinton,IL
+8,03:27:17,Mary,Leonard,42,Female,Manhattan,IL
+9,03:27:18,Chad,Barnes,52,Male,Bartonville,IL
+10,03:32:11,Michelle,Jachim,52,Female,Downers Grove,IL
+11,03:37:08,Marlin,Weekley,72,Male,Metamora,IL
+12,03:38:30,Ben,Evans,49,Male,Peoria,IL
+13,03:57:54,Angela,Freeman,48,Female,Minooka,IL
+14,03:57:54,Danny,Machak,61,Male,Joliet,IL
+15,03:58:48,Chris,Braun,27,Male,Madison,WI
+16,03:59:35,Keith,Aurand,59,Male,Dixon,IL
+17,04:07:34,Terry,Koser,49,Male,Edelstein,IL
+18,04:14:57,Brian,Tomkinson,41,Male,Lincoln,IL
+19,04:41:08,Julia,Carrell,43,Female,East Peoria,IL
+20,04:42:36,Lupe,Martinez,55,Male,Peoria,IL
+21,05:10:47,Nancy,Sivertsen,67,Female,Champaign,IL
+22,05:20:29,Troy,Pequette,53,Male,Washington,IL
+23,05:20:36,Marc,Dean,56,Male,Pekin,IL
+24,06:14:31,Racine,Lambert-Cwerenz,63,Female,Glendale Heights,IL
