@@ -1,0 +1,15 @@
+place,time,first,last,age,gender,city,state,status
+1,18:07:24,Jacob,Muth,33,Male,Chicago,IL,1
+2,18:27:08,John,Alcantara,39,Male,Chicago,IL,1
+3,19:04:57,Dave,Pettett,44,Male,East Peoria,IL,1
+4,20:29:00,Naomi,Morimoto,31,Female,Chicago,IL,1
+5,22:16:34,Jim,Stanley,52,Male,Chillicothe,IL,1
+6,22:54:01,Tryg,Tow,55,Male,Peoria,IL,1
+7,23:52:30,Brian,Parker,57,Male,Sun Prairie,WI,1
+8,24:08:56,Rob,Judd,48,Male,Bloomington,IL,1
+0,0,Rob,Brown,48,Male,Brookfield,IL,2
+0,0,Dennis,Cantrell,64,Male,Coatesville,IN,2
+0,0,Leonard,Ealey,56,Male,Tremont,IL,2
+0,0,David,Morales,34,Male,Chicago,IL,2
+0,0,Alexis,Sarabia,29,Male,Chicago,IL,2
+0,0,Will,Tatro,22,Male,Strawn,IL,2

@@ -1,0 +1,12 @@
+place,time,first,last,age,gender,city,state,status
+1,27:35:18,Andy,Newman,49,Male,Wheaton,IL,1
+2,30:50:06,Matt,Condron,57,Male,Libertyville,IL,1
+3,34:12:13,Andy,Bloom,38,Male,Pekin,IL,1
+4,34:15:51,Amy,Reau,47,Female,Metamora,IL,1
+0,0,Michael,Braun,29,Male,Hudson,IL,2
+0,0,Rachel,Burke,39,Female,Chicago,IL,2
+0,0,Benjamin,Kerezman,37,Male,Valparaiso,IN,2
+0,0,Richard,Plezia,66,Male,Morton Grove,IL,2
+0,0,Vincent,Swendsen,61,Male,Whispering Pines,NC,2
+0,0,Tim,Yuska,44,Male,Darien,IL,2
+0,0,Truman,Zumwalt,26,Male,Murfreesboro,TN,2
