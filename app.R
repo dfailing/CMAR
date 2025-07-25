@@ -84,6 +84,7 @@ ui <- dashboardPage(
                 <li>2022 - <a href='https://www.runrace.net/findarace.php?id=22189IL&tab=a4'>RunRace</a></li>
                 <li>2023 - <a href='https://www.runrace.net/findarace.php?id=23188IL&tab=a4'>RunRace</a></li>
                 <li>2024 - <a href='https://www.runrace.net/findarace.php?id=24194IL&tab=a4'>RunRace</a></li>
+                <li>2025 - <a href='https://www.runrace.net/findarace.php?id=25192IL&tab=a4'>RunRace</a></li>
               </ul>"))
           )
         )
