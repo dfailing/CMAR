@@ -1,4 +1,31 @@
 Year,Event,Place,First,Last,City,State,Age,Gender,DP,Time
+2026,50K,1,Zachery,Dicken,Springfield,IL,37,M,1,06:34:48
+2026,50K,2,Mallory,Donini,Metamora,IL,37,F,1,08:20:04
+2026,50K,3,Michael,Donini,Metamora,IL,37,M,2,08:20:05
+2026,50K,4,Austin,Rhodes,Canon,IL,31,M,3,08:35:14
+2026,50K,5,Alicia,Kellogg,Polo,IL,43,F,2,08:58:23
+2026,50K,6,Kathryn,Froehlich,Northbrook,IL,63,F,3,09:00:38
+2026,50K,7,Jerome,Maushard,Peoria,IL,61,M,4,09:04:41
+2026,50K,8,Madeline,Maushard,Peoria,IL,21,F,4,09:04:41
+2026,50K,9,Jess,Mellican,Washington,IL,36,F,5,09:07:26
+2026,50K,10,Siamak,Mostoufi,Evanston,IL,51,M,5,09:10:11
+2026,50K,11,Jeff,Goodmanson,Village of Lakewood,IL,62,M,6,09:53:12
+2026,50K,12,Jimmy,Jones,Chicago,IL,47,M,7,09:56:04
+2026,50K,13,John,Tudhope,St louis,MO,28,M,8,10:06:04
+2026,50K,14,Garris,Radloff,East Peoria,IL,26,M,9,10:06:58
+2026,50K,15,Bryan,Himmel,Chicago,IL,25,M,10,10:06:59
+2026,50K,16,Blake,Sieben,Morton,IL,22,M,11,10:25:53
+2026,50K,17,David,Ericson,Spaulding,IL,65,M,12,10:53:50
+2026,50K,18,Trisha,Kurtz,Chicago,IL,38,F,6,11:40:08
+2026,50K,19,Steve,Hammann,Muscatine,IA,69,M,13,11:49:21
+2026,50K,20,Michele,Perkins,Crestwood,IL,47,F,7,11:49:48
+2026,50K,21,Giang,Lam,Champaign,IL,52,F,8,12:28:38
+2026,50K,22,Dianne,Cherry,Arcola,IL,66,F,9,13:11:00
+2026,50K,23,Gladys,Spencer,Perrysville,IN,57,F,10,13:12:00
+2026,50K,24,Naomi,Copeland,Naperville,IL,45,F,11,13:24:42
+2026,50K,25,Carleen,Coulter,Frankfort,IL,58,F,12,13:24:47
+2026,50K,26,Jeff,Tavernor,Girard,IL,57,M,14,13:24:55
+2026,50K,27,Caroline,Tonozzi,Savoy,IL,48,F,13,14:19:59
 2025,100 Mile,1,Tim,Yuska,Darien,IL,45,M,1,23:13:53
 2025,100 Mile,2,Matt,Hajny,Washington,IL,48,M,2,27:09:04
 2025,100 Mile,3,Christopher,Hurd,Whitefish,MT,23,M,3,27:23:44
@@ -16,32 +43,6 @@ Year,Event,Place,First,Last,City,State,Age,Gender,DP,Time
 2025,100K,7,Nathan,Pritzker,Morton,IL,35,M,6,20:08:54
 2025,100K,8,Alan,Lopez,North Aurora,IL,19,M,7,21:52:31
 2025,100K,9,Jay,Randle,Crystal Lake,IL,52,M,8,21:52:57
-2025,50K,1,Zach,Dicken,Springfield,IL,37,M,1,06:34:48
-2025,50K,2,Mallory,Donini,Metamora,IL,37,F,1,08:20:04
-2025,50K,3,Michael,Donini,Metamora,IL,37,M,2,08:20:05
-2025,50K,4,Austin,Rhodes,Canon,IL,31,M,3,08:35:14
-2025,50K,5,Alicia,Kellogg,Polo,IL,43,F,2,08:58:23
-2025,50K,6,Kathryn,Froehlich,Northbrook,IL,63,F,3,09:00:38
-2025,50K,7,Jerry,Maushard,Peoria,IL,61,M,4,09:04:41
-2025,50K,8,Madeline,Maushard,Peoria,IL,21,F,4,09:04:41
-2025,50K,9,Jess,Mellican,Washington,IL,36,F,5,09:07:26
-2025,50K,10,Siamak,Mostoufi,Evanston,IL,51,M,5,09:10:11
-2025,50K,11,Jeff,Goodmanson,Village Of Lakewood,IL,62,M,6,09:53:12
-2025,50K,12,Jimmy,Jones,Chicago,IL,47,M,7,09:56:04
-2025,50K,13,John,Tudhope,St Louis,MO,28,M,8,10:06:04
-2025,50K,14,Garris,Radloff,East Peoria,IL,26,M,9,10:06:58
-2025,50K,15,Bryan,Himmel,Chicago,IL,25,M,10,10:06:59
-2025,50K,16,Blake,Sieben,Morton,IL,22,M,11,10:25:53
-2025,50K,17,David,Ericson,Spaulding,IL,65,M,12,10:53:50
-2025,50K,18,Trisha,Kurtz,Chicago,IL,38,F,6,11:40:08
-2025,50K,19,Michele,Perkins,Crestwood,IL,47,F,7,11:49:48
-2025,50K,20,Giang,Lam,Champaign,IL,52,F,8,12:28:38
-2025,50K,21,Dianne,Cherry,Arcola,IL,66,F,9,13:11:00
-2025,50K,22,Gladys,Spencer,Perrysville,IN,57,F,10,13:12:00
-2025,50K,23,Naomi,Copeland,Naperville,IL,45,F,11,13:24:42
-2025,50K,24,Carleen,Coulter,Frankfort,IL,58,F,12,13:24:47
-2025,50K,25,Jeff,Tavernor,Girard,IL,57,M,13,13:24:55
-2025,50K,26,Caroline,Tonozzi,Savoy,IL,48,F,13,14:19:59
 2025,Half Marathon,1,Brook,Stanbary,Putnam,IL,51,M,1,02:40:17
 2025,Half Marathon,2,Daniela,Harrison,Princeville,IL,43,F,1,02:47:16
 2025,Half Marathon,3,Bradley,Slott,West Peoria,IL,52,M,2,02:48:10

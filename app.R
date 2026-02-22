@@ -11,7 +11,7 @@ library(tidyr)
 ui <- dashboardPage(
   title = "Cry Me A River! Trail Runs",
   dashboardHeader(
-    title = tags$a("Cry Me A River!", titleWidth = "auto", href = "https://crymearivertrailruns.com/", style = "color: white;")
+    title = tags$a("Cry Me A River!", titleWidth = "auto", href = "https://www.beradracing.com/cmar", style = "color: white;")
   ),
   dashboardSidebar(
     sidebarMenu(
@@ -19,8 +19,8 @@ ui <- dashboardPage(
       menuItem("Course Records", tabName = "course_records", icon = icon("trophy")),
       menuItem("Mileage Totals", tabName = "mileage_totals", icon = icon("table")),
       menuItem("All Results", tabName = "all_results", icon = icon("table")),
-      # menuItem("Register @ RunRace", href = "https://www.runrace.net/cmar", icon = icon("clipboard"))
-      menuItem("Register @ RunRace", href = "https://www.runrace.net/findarace.php?id=25192IL", icon = icon("clipboard"))
+      menuItem("Register @ Ultrasignup", href = "https://ultrasignup.com/register.aspx?did=133689", icon = icon("clipboard"))
+      # menuItem("Register @ RunRace", href = "https://www.runrace.net/findarace.php?id=25192IL", icon = icon("clipboard"))
     )
   ),
   dashboardBody(
@@ -62,10 +62,17 @@ ui <- dashboardPage(
                 <li><b>Mileage Totals</b> for all finishers are given, along with their completed distance each year.  Type a runner's name into the search box to see their lifetime results. By default, the table is sorted by total mileage.</li>
                 <li><b>All Results</b> is a merged table of all events for all years. Type a runner's name into the search box to see their lifetime results. You can also search by any combination of other fields. Try '2015 50 mile' to pull up results for that year and event. By default, the table is sorted by year and event.</li>
                 <li><b>Register</b> for this year's race so that you don't miss out on the fun!
-                <li><b>Course Maps</b> below allow you to view Strava routes or download GPX files to navigate using your watch, phone, or other GPS device.
+                <li><b>Course Maps</b> below allow you to view routes or download GPX files to navigate using your watch, phone, or other GPS device.
               </ul><br>
               If you notice any errors, discrepancies, or have suggestions for improvements, please contact <a href='mailto:david.failing@gmail.com'>David Failing</a>.<br><br>
-              <b>Course Maps:</b><br>
+              <b>(Coming Soon) 2026 And Beyond Course Maps:</b><br>
+              <ul>
+                <li>Half Marathon</li>
+                <li>50K</li>
+                <li>50 Mile</li>
+                <li>100 Mile</li>
+              </ul><br>
+              <b>2015-2025 Course Maps:</b><br>
               <ul>
                 <li>Full Loop - <a href='https://www.strava.com/routes/3084308043342515312' target='_blank'>Strava</a> | <a href='GPX/CMAR-Full-Loop.gpx' download>GPX</a></li>
                 <li>Half Marathon - <a href='https://www.strava.com/routes/3084309444938383044' target='_blank'>Strava</a> | <a href='GPX/CMAR-Half-Marathon.gpx' download>GPX</a></li>
@@ -85,6 +92,7 @@ ui <- dashboardPage(
                 <li>2023 - <a href='https://www.runrace.net/findarace.php?id=23188IL&tab=a4'>RunRace</a></li>
                 <li>2024 - <a href='https://www.runrace.net/findarace.php?id=24194IL&tab=a4'>RunRace</a></li>
                 <li>2025 - <a href='https://www.runrace.net/findarace.php?id=25192IL&tab=a4'>RunRace</a></li>
+                <li>2026 - To Be Hosted at Ultrasignup</li>
               </ul>"))
           )
         )

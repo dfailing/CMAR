@@ -1,591 +1,592 @@
-Rank,First,Last,Gender,City,State,Finishes,Total Miles,2025,2024,2023,2022,2021,2019,2018,2017,2016,2015
-1,Jeffrey,Lenard,M,Johnsburg,IL,6,524,NA,NA,NA,62,100,100,100,62,100,NA
-2,Rachel,Burke,F,Chicago,IL,3,300,100,NA,100,100,NA,NA,NA,NA,NA,NA
-2,Scott,Slightom,M,El Paso,IL,3,300,NA,NA,NA,100,100,100,NA,NA,NA,NA
-3,Matt,Hajny,M,Washington,IL,7,281,100,NA,NA,NA,62,31,13,31,31,13
-4,Nathan,Pritzker,M,Morton,IL,5,279,62,NA,62,62,62,NA,31,NA,NA,NA
-5,David,Failing,M,Flagstaff,AZ,4,262,NA,NA,NA,31,100,NA,100,31,NA,NA
-6,Rob,Judd,M,Bloomington,IL,5,237,13,62,NA,31,100,NA,NA,31,NA,NA
-7,Paul,Wilkerson,M,Metamora,IL,3,212,NA,NA,NA,NA,NA,NA,62,100,NA,50
-8,Matt,Condron,M,Libertyville,IL,2,200,NA,100,NA,100,NA,NA,NA,NA,NA,NA
-8,Kathy,Errthum,F,La Crosse,WI,2,200,NA,NA,NA,NA,100,100,NA,NA,NA,NA
-8,Andy,Newman,M,Wheaton,IL,2,200,NA,100,NA,100,NA,NA,NA,NA,NA,NA
-8,Richard,Plezia,M,Morton Grove,IL,2,200,NA,NA,NA,NA,100,NA,100,NA,NA,NA
-8,James,Solomon,M,Villa Park,IL,2,200,NA,NA,NA,100,100,NA,NA,NA,NA,NA
-9,Keith,Aurand,M,Dixon,IL,8,195,13,13,31,13,NA,31,31,13,NA,50
-10,Travis,Swanson,M,Cambridge,IL,3,193,100,31,62,NA,NA,NA,NA,NA,NA,NA
-11,Jerry,Stadnik,M,Normal,IL,7,164,NA,NA,31,13,13,NA,13,13,31,50
-12,Racine,Lambert-Cwerenz,F,Glendale Heights,IL,6,163,13,13,13,NA,31,31,NA,62,NA,NA
-13,Eric,Bloomquist,M,Lake In The Hills,IL,2,162,NA,NA,62,NA,NA,NA,NA,NA,100,NA
-13,Michelle,Burton,F,Carrollton,TX,2,162,NA,NA,NA,NA,100,NA,62,NA,NA,NA
-13,David,Hanna,M,Marquette Heights,IL,2,162,NA,NA,NA,NA,NA,62,100,NA,NA,NA
-13,Chad,Hazelwood,M,Pekin,IL,2,162,NA,NA,62,NA,NA,NA,NA,NA,100,NA
-13,Dirk,Jaegle,M,Peoria,IL,2,162,NA,NA,NA,NA,100,62,NA,NA,NA,NA
-13,Jimmy,Jones,M,Chicago,IL,3,162,31,NA,NA,NA,100,NA,31,NA,NA,NA
-13,Morgan,Mader,F,Villa Park,IL,2,162,NA,NA,NA,100,62,NA,NA,NA,NA,NA
-13,Dave,Pettett,M,East Peoria,IL,2,162,100,62,NA,NA,NA,NA,NA,NA,NA,NA
-14,Jennifer,Doias,F,Eureka,MO,3,155,NA,NA,NA,NA,NA,31,62,62,NA,NA
-14,Tommy,Doias,M,Eureka,MO,3,155,NA,NA,NA,NA,NA,31,62,62,NA,NA
-15,William,McFeeters,M,Pekin,IL,2,150,NA,NA,NA,NA,NA,NA,NA,NA,100,50
-15,Jim,Stanley,M,Chillicothe,IL,4,150,13,62,13,NA,62,NA,NA,NA,NA,NA
-16,Caroline,Tonozzi,F,Savoy,IL,5,137,31,NA,13,31,31,31,NA,NA,NA,NA
-17,Tara,Mayner,F,Bloomington,IL,6,132,13,31,13,NA,31,31,13,NA,NA,NA
-17,Garris,Radloff,M,East Peoria,IL,6,132,31,NA,NA,NA,31,31,13,13,13,NA
-18,Tiffany,Dore,F,Oswego,IL,2,131,NA,NA,NA,NA,31,NA,NA,NA,100,NA
-18,Jeff,Goodmanson,M,Village Of Lakewood,IL,2,131,31,NA,NA,NA,100,NA,NA,NA,NA,NA
-18,Erin,Montgomery,F,Clinton,IL,2,131,NA,31,NA,100,NA,NA,NA,NA,NA,NA
-19,Therese,Brink,F,Peoria,IL,7,127,13,NA,NA,NA,13,31,13,13,31,13
-20,Alison,Ball,F,Champaign,IL,2,124,NA,NA,62,62,NA,NA,NA,NA,NA,NA
-20,Steve,Hammann,M,Muscatine,IA,4,124,NA,31,NA,NA,NA,31,31,31,NA,NA
-20,Mary,Hosbrough,F,Washington,IL,4,124,NA,NA,NA,NA,31,NA,31,31,31,NA
-20,Richard,Mann,M,Urbana,IL,2,124,62,NA,62,NA,NA,NA,NA,NA,NA,NA
-20,Jason,Midlock,M,Joliet,IL,2,124,62,NA,NA,62,NA,NA,NA,NA,NA,NA
-20,Tryg,Tow,M,Peoria,IL,2,124,NA,62,62,NA,NA,NA,NA,NA,NA,NA
-21,Mary,Leonard,F,Manhattan,IL,4,119,13,13,NA,NA,62,NA,NA,31,NA,NA
-21,Justin,Stewart,M,Springfield,IL,4,119,NA,NA,NA,62,31,NA,NA,13,NA,13
-22,Rachel,Beattie,M,Darien,IL,2,112,NA,NA,NA,NA,NA,NA,NA,62,NA,50
-22,Michael,Glennon,M,Schaumburg,IL,2,112,NA,NA,NA,62,NA,NA,NA,NA,NA,50
-22,Siamak,Mostoufi,M,Evanston,IL,3,112,31,NA,NA,NA,NA,NA,NA,NA,31,50
-23,Julia,Carrell,F,Peoria,IL,6,107,13,13,31,13,NA,NA,31,NA,6,NA
-24,Tanya,Giannotti,F,Normal,IL,4,106,NA,NA,NA,NA,NA,31,31,31,NA,13
-24,Terry,Koser,M,Edelstein,IL,3,106,NA,13,31,NA,NA,62,NA,NA,NA,NA
-24,Joey,Miller,M,Springfield,IL,3,106,NA,NA,NA,13,NA,31,62,NA,NA,NA
-25,Lupe,Martinez,M,Peoria,IL,8,104,NA,13,13,13,NA,13,13,13,13,13
-26,Anjanette,Arnold,F,Pine River,MN,1,100,NA,NA,NA,NA,100,NA,NA,NA,NA,NA
-26,Cameron,Balser,M,Elwood,IN,1,100,NA,NA,NA,NA,NA,100,NA,NA,NA,NA
-26,Andy,Bloom,M,Pekin,IL,1,100,NA,100,NA,NA,NA,NA,NA,NA,NA,NA
-26,Marta,Borkowska,F,Chicago,IL,1,100,NA,NA,NA,NA,100,NA,NA,NA,NA,NA
-26,Shawn,Brandon,M,Morton,IL,1,100,NA,NA,NA,NA,NA,NA,NA,100,NA,NA
-26,Lee,Dalgety,M,NA,IL,1,100,NA,NA,NA,NA,NA,100,NA,NA,NA,NA
-26,Lee,Dogery,M,NA,NA,1,100,NA,NA,NA,NA,NA,NA,NA,NA,100,NA
-26,Susan,Donnelly,F,Oak Ridge,TN,1,100,NA,NA,NA,NA,NA,NA,NA,100,NA,NA
-26,Matt,Dryden,M,Dunlap,IL,1,100,NA,NA,100,NA,NA,NA,NA,NA,NA,NA
-26,Karen,Erba,F,Winona Lake,IN,1,100,NA,NA,NA,NA,NA,NA,100,NA,NA,NA
-26,Jeffrey,Foes,M,Alton,MO,1,100,NA,NA,NA,NA,NA,NA,NA,NA,100,NA
-26,Angela,Freedman,F,McFarland,WI,1,100,NA,NA,NA,NA,100,NA,NA,NA,NA,NA
-26,Grace,Hawkins,F,Pekin,IL,1,100,NA,NA,NA,NA,NA,100,NA,NA,NA,NA
-26,Daniel,Hopping,M,Canton,IL,1,100,100,NA,NA,NA,NA,NA,NA,NA,NA,NA
-26,Christopher,Hurd,M,Whitefish,MT,1,100,100,NA,NA,NA,NA,NA,NA,NA,NA,NA
-26,Adam,Kissinger,M,Grayslake,IL,1,100,NA,NA,NA,NA,NA,100,NA,NA,NA,NA
-26,Diedra,Nass,F,Minneapolis,MN,1,100,NA,NA,NA,100,NA,NA,NA,NA,NA,NA
-26,Kyle,Nordquist,M,Brookfield,IL,1,100,NA,NA,NA,NA,100,NA,NA,NA,NA,NA
-26,Debra,Norman,F,Napoleon,MO,1,100,NA,NA,NA,100,NA,NA,NA,NA,NA,NA
-26,Amy,Reau,F,Metamora,IL,1,100,NA,100,NA,NA,NA,NA,NA,NA,NA,NA
-26,Mike,Smith,M,Santa,NM,1,100,NA,NA,NA,NA,NA,NA,NA,NA,100,NA
-26,William,Smith,M,Urbana,IL,1,100,NA,NA,NA,NA,NA,NA,100,NA,NA,NA
-26,John,Tiwet,M,Waukegan,IL,1,100,NA,NA,NA,NA,NA,NA,NA,100,NA,NA
-26,Rob,Ulm,M,Charleston,IL,1,100,NA,NA,NA,NA,NA,100,NA,NA,NA,NA
-26,Ben,Waller,M,Dunlap,IL,1,100,100,NA,NA,NA,NA,NA,NA,NA,NA,NA
-26,Bradley,Wheeler,M,East Peoria,IL,1,100,NA,NA,100,NA,NA,NA,NA,NA,NA,NA
-26,Daniel,Williams,M,Kankakee,IL,1,100,NA,NA,NA,100,NA,NA,NA,NA,NA,NA
-26,Brandon,Winkelmann,M,Edwardsville,IL,1,100,NA,NA,NA,NA,NA,NA,NA,100,NA,NA
-26,Tim,Yuska,M,Darien,IL,1,100,100,NA,NA,NA,NA,NA,NA,NA,NA,NA
-27,Bryan,Himmel,M,Chicago,IL,6,96,31,NA,NA,13,NA,13,13,13,13,NA
-28,Jim,Arnold,M,La Grange,IL,2,93,NA,NA,NA,NA,62,NA,NA,31,NA,NA
-28,Ausra,Butkeviciute,F,Palatine,IL,3,93,NA,31,NA,NA,NA,31,31,NA,NA,NA
-28,Carleen,Coulter,F,Frankfort,IL,3,93,31,NA,NA,31,NA,NA,31,NA,NA,NA
-28,Jennifer,Jacobsen-Wood,F,Princeville,IL,3,93,NA,NA,NA,NA,NA,NA,31,31,31,NA
-28,Karen,Johnson,F,Crystal Lake,IL,3,93,NA,NA,NA,NA,31,NA,31,31,NA,NA
-28,Andrae,Marak,M,Chicago,IL,3,93,NA,NA,31,NA,NA,NA,31,31,NA,NA
-28,Evan,McCrea,M,Tremont,IL,2,93,NA,NA,NA,NA,62,NA,NA,31,NA,NA
-28,Chuck,Meyer,M,Delavan,IL,3,93,NA,NA,NA,NA,NA,NA,31,31,31,NA
-28,Sean,Ryan,M,Sterling,IL,2,93,NA,NA,NA,NA,NA,NA,NA,62,31,NA
-28,Karyn,Weber,F,Glen Carbon,IL,2,93,NA,31,62,NA,NA,NA,NA,NA,NA,NA
-28,Rodney,Worden,M,Lake Villa,IL,2,93,NA,NA,NA,NA,NA,31,62,NA,NA,NA
-29,Brian,Drendel,M,Genoa,IL,4,88,NA,NA,13,NA,13,31,31,NA,NA,NA
-29,Mark,Francis,M,Crystal Lake,IL,4,88,NA,NA,NA,NA,NA,13,31,13,31,NA
-29,Ted,Golden,M,Pekin,IL,4,88,NA,31,NA,NA,31,NA,13,13,NA,NA
-29,Mike,Kelsey,M,Washington,IL,3,88,NA,NA,NA,13,NA,NA,NA,62,13,NA
-30,Michael,Crane,M,Ankeny,IA,2,81,NA,NA,NA,NA,NA,NA,NA,NA,31,50
-30,Becky,Gillen,F,Decatur,IL,2,81,NA,NA,NA,NA,NA,NA,NA,NA,31,50
-30,Thomas,Rademacher,M,Kankakee,IL,2,81,NA,NA,NA,NA,NA,NA,NA,NA,31,50
-30,Vince,Roberts,M,Evanston,IL,2,81,NA,NA,NA,NA,NA,NA,31,NA,NA,50
-30,Andrew,Schafer,M,Mackinaw,IL,2,81,NA,NA,NA,NA,NA,NA,NA,NA,31,50
-30,Brian,Smock,M,Round Lake Beach,IL,2,81,NA,NA,NA,NA,NA,NA,NA,31,NA,50
-30,Steve,Traman,M,Cleveland,IL,2,81,NA,NA,NA,NA,31,NA,NA,NA,NA,50
-31,Nancy,Sivertsen,F,Champaign,IL,6,78,13,13,13,NA,NA,13,NA,13,13,NA
-32,Susan,Smock,F,Round Lake Beach,IL,3,75,NA,NA,NA,NA,NA,NA,NA,31,31,13
-33,Tony,Cesario,M,New Lenox,IL,2,63,NA,NA,NA,NA,NA,NA,13,NA,NA,50
-33,Leeann,Leaks,F,Decatur,IL,2,63,NA,NA,NA,NA,NA,NA,NA,NA,13,50
-34,John,Alcantara,M,Chicago,IL,1,62,NA,62,NA,NA,NA,NA,NA,NA,NA,NA
-34,Shannon,Brandl,F,Montgomery,IL,1,62,NA,NA,NA,NA,NA,NA,NA,62,NA,NA
-34,Magdalena,Casper-Shipp,F,Urbana,IL,1,62,NA,NA,NA,NA,NA,NA,62,NA,NA,NA
-34,Naomi,Copeland,F,Naperville,IL,2,62,31,NA,NA,31,NA,NA,NA,NA,NA,NA
-34,Cat,Delheimer,F,Cornell,IL,1,62,NA,NA,62,NA,NA,NA,NA,NA,NA,NA
-34,Zach,Dicken,M,Springfield,IL,2,62,31,31,NA,NA,NA,NA,NA,NA,NA,NA
-34,Michael,Drazer,M,Porter,IN,1,62,NA,NA,NA,NA,62,NA,NA,NA,NA,NA
-34,Jeramy,Duffee,M,Moline,IL,2,62,NA,NA,NA,NA,31,NA,31,NA,NA,NA
-34,Pearce,Durst,M,Naperville,IL,1,62,NA,NA,NA,NA,62,NA,NA,NA,NA,NA
-34,Von,Fagan,M,Chicago,IL,2,62,NA,NA,NA,NA,NA,NA,31,NA,31,NA
-34,Jeffrey,Fleitz,M,Chicago,IL,1,62,NA,NA,NA,NA,62,NA,NA,NA,NA,NA
-34,Jordan,Garris,F,Cincinnati,OH,1,62,NA,NA,NA,NA,NA,NA,62,NA,NA,NA
-34,Brad,Gorski,M,Belvidere,IL,2,62,NA,NA,NA,NA,NA,NA,31,31,NA,NA
-34,Jake,Grossbauer,M,Dittmer,MO,2,62,NA,NA,31,NA,31,NA,NA,NA,NA,NA
-34,Renee,Guynn,F,Champaign,IL,1,62,NA,NA,NA,NA,NA,NA,NA,62,NA,NA
-34,Michael,Hammond,M,Canton,IL,2,62,NA,31,31,NA,NA,NA,NA,NA,NA,NA
-34,Rhonda,Hampton,F,Wake Forest,NC,1,62,NA,NA,NA,NA,NA,NA,NA,62,NA,NA
-34,Frank,Hardy,M,Marquette Heights,IL,2,62,NA,NA,31,NA,31,NA,NA,NA,NA,NA
-34,Sandra,Hehn,F,Goderich,ON,1,62,62,NA,NA,NA,NA,NA,NA,NA,NA,NA
-34,Andrew,Hocking,M,Springfield,IL,1,62,NA,NA,NA,62,NA,NA,NA,NA,NA,NA
-34,Mike,Hoefer,M,Rock Falls,IL,1,62,NA,NA,62,NA,NA,NA,NA,NA,NA,NA
-34,Lee,Hosbrough,M,Washington,IL,2,62,NA,NA,NA,NA,31,NA,31,NA,NA,NA
-34,Justin,Johnson,M,East Peoria,IL,1,62,62,NA,NA,NA,NA,NA,NA,NA,NA,NA
-34,Jeff,Joos,M,Washington,IL,1,62,NA,NA,62,NA,NA,NA,NA,NA,NA,NA
-34,Kent,Karloski,M,Carpentersville,IL,1,62,NA,NA,NA,NA,NA,NA,62,NA,NA,NA
-34,Mark,Kirkland,M,Urbana,IL,1,62,NA,NA,NA,62,NA,NA,NA,NA,NA,NA
-34,Randy,Knight,M,Fulton,IL,2,62,NA,NA,NA,NA,NA,NA,31,31,NA,NA
-34,Shalini,Kovach,F,Ballwin,MO,1,62,NA,NA,NA,NA,NA,NA,62,NA,NA,NA
-34,Arizona,Lagousakos,F,Chicago,IL,2,62,NA,NA,NA,31,NA,NA,31,NA,NA,NA
-34,John,Larson,M,Divernon,IL,1,62,NA,NA,62,NA,NA,NA,NA,NA,NA,NA
-34,Timothy,Leichtenberg,M,Pekin,IL,2,62,NA,NA,NA,NA,NA,NA,31,31,NA,NA
-34,Jean,Lenard,F,McHenry,IL,2,62,NA,NA,NA,NA,NA,NA,31,31,NA,NA
-34,Adrianne,Lieber,F,Huntley,IL,1,62,NA,NA,NA,NA,62,NA,NA,NA,NA,NA
-34,Thomas,Lieber,M,Huntley,IL,1,62,NA,NA,NA,NA,62,NA,NA,NA,NA,NA
-34,Holly,Lindroth,F,Chicago,IL,1,62,NA,NA,NA,NA,NA,NA,62,NA,NA,NA
-34,Alan,Lopez,M,North Aurora,IL,1,62,62,NA,NA,NA,NA,NA,NA,NA,NA,NA
-34,Wladyslaw,Maciej,M,Franklin Park,IL,1,62,NA,NA,NA,NA,62,NA,NA,NA,NA,NA
-34,Lily,Medina,F,Oglesby,IL,1,62,NA,NA,62,NA,NA,NA,NA,NA,NA,NA
-34,Naomi,Morimoto,F,Chicago,IL,1,62,NA,62,NA,NA,NA,NA,NA,NA,NA,NA
-34,Jacob,Muth,M,Chicago,IL,1,62,NA,62,NA,NA,NA,NA,NA,NA,NA,NA
-34,Matthew,Newton,M,Chicago,IL,1,62,NA,NA,62,NA,NA,NA,NA,NA,NA,NA
-34,Madalyn,O'Shaugnessy,F,Pekin,IL,1,62,NA,NA,NA,NA,NA,NA,NA,62,NA,NA
-34,SarahJeanne,Olson,F,Canton,IL,2,62,NA,NA,NA,NA,NA,31,NA,NA,31,NA
-34,Brian,Parker,M,Sun Prairie,WI,1,62,NA,62,NA,NA,NA,NA,NA,NA,NA,NA
-34,Shawn,Peterson,F,Fort Wayne,IN,2,62,NA,NA,NA,NA,NA,NA,NA,31,31,NA
-34,Sarka,Petrickova,F,Urbana,IL,1,62,NA,NA,NA,NA,NA,NA,62,NA,NA,NA
-34,Dayton,Rabe,M,Fairbury,IL,1,62,NA,NA,62,NA,NA,NA,NA,NA,NA,NA
-34,Jay,Randle,M,Crystal Lake,IL,1,62,62,NA,NA,NA,NA,NA,NA,NA,NA,NA
-34,Rachel,Reyes,F,Joliet,IL,1,62,NA,NA,NA,62,NA,NA,NA,NA,NA,NA
-34,Sophie,Russell,F,Morton,IL,2,62,NA,31,NA,NA,31,NA,NA,NA,NA,NA
-34,David,Secord,M,Chicago,IL,2,62,NA,NA,31,NA,31,NA,NA,NA,NA,NA
-34,Amanda,Smith,F,Chicago,IL,1,62,NA,NA,NA,NA,NA,NA,62,NA,NA,NA
-34,Andrew,Steelman,M,Champaign,IL,1,62,62,NA,NA,NA,NA,NA,NA,NA,NA,NA
-34,Greg,Sturdy,M,Roscoe,IL,1,62,NA,NA,NA,62,NA,NA,NA,NA,NA,NA
-34,Latoya,Swartz,F,Evergreen Park,IL,1,62,NA,NA,NA,NA,62,NA,NA,NA,NA,NA
-34,Nathan,Turner,M,Clemons,NC,1,62,62,NA,NA,NA,NA,NA,NA,NA,NA,NA
-34,Heather,Vree,F,Chicago,IL,1,62,NA,NA,NA,NA,NA,NA,62,NA,NA,NA
-34,Brenda,Worrell,F,Warsaw,IN,1,62,NA,NA,62,NA,NA,NA,NA,NA,NA,NA
-34,James,Wright,M,Machesney Park,IL,1,62,NA,NA,NA,NA,NA,NA,62,NA,NA,NA
-35,Daniela,Harrison,F,Princeville,IL,3,57,13,NA,31,NA,13,NA,NA,NA,NA,NA
-35,Jesse,Mendoza,M,Round Lake Beach,IL,3,57,13,NA,NA,NA,13,NA,31,NA,NA,NA
-35,Ryan,Stadnik,M,Normal,IL,3,57,NA,NA,31,13,13,NA,NA,NA,NA,NA
-35,Charity,Stanley,F,Chillicothe,IL,3,57,13,31,13,NA,NA,NA,NA,NA,NA,NA
-35,Marlin,Weekley,M,Metamora,IL,3,57,NA,13,31,13,NA,NA,NA,NA,NA,NA
-36,Christy,Dillard,F,Morton,IL,4,52,NA,NA,NA,NA,13,NA,13,13,13,NA
-36,Troy,Pequette,M,Washington,IL,4,52,13,13,NA,13,NA,NA,NA,NA,NA,13
-36,Katy,Reed,F,Streator,IL,4,52,NA,NA,NA,NA,13,NA,13,NA,13,13
-36,Roland,Savoie,M,Peoria,IL,4,52,NA,NA,NA,NA,13,13,13,13,NA,NA
-36,Brook,Stanbary,M,Putnam,IL,4,52,13,NA,13,13,NA,NA,NA,NA,NA,13
-36,Tana,Utley,F,Washington,IL,4,52,NA,NA,NA,NA,NA,13,13,13,13,NA
-37,Juli,Aistars,F,Lake Zurich,IL,1,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,50
-37,Heath,Brandon,M,Normal,IL,1,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,50
-37,Amy,Briggs,F,Chicago,IL,1,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,50
-37,David,Butler,M,Bettendorf,IA,1,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,50
-37,Jonathon,Crowley,M,Bloomington,IL,1,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,50
-37,Daniel,Dillon,M,Colona,IL,1,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,50
-37,James,Faford,M,Bradley,IL,1,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,50
-37,Trevor,Hallam,M,Milan,IL,1,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,50
-37,Sabina,Hlinenska,F,Peoria,IL,1,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,50
-37,Meghan,Kennihan,F,La Grange,IL,1,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,50
-37,Eddie,Lloyd,M,Bloomington,IL,1,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,50
-37,Dawny,Mace,F,Sterling,IL,1,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,50
-37,Eric,Skocaj,M,Pekin,IL,1,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,50
-37,Joshua,Sun,M,Davenport,IA,1,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,50
-37,Nicole,Swanson,F,Chicago,IL,1,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,50
-37,Bill,Thom,M,Chicago,IL,1,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,50
-37,Jason,Willits,M,Bettendorf,IA,1,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,50
-37,Tom,Wilson,M,Williamsfield,IL,1,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,50
-38,Mitchell,Hurst,M,Delavan,IL,4,45,NA,NA,NA,NA,NA,13,13,13,6,NA
-39,Julie,Bane,F,Woodstock,IL,2,44,NA,NA,NA,NA,NA,13,31,NA,NA,NA
-39,Chad,Barnes,M,Bartonville,IL,2,44,NA,13,NA,NA,31,NA,NA,NA,NA,NA
-39,Vicki,Brassil,F,Homer Glen,IL,2,44,NA,NA,NA,NA,NA,NA,13,31,NA,NA
-39,Brian,Doerfler,M,Brimfield,IL,2,44,NA,NA,NA,NA,31,NA,13,NA,NA,NA
-39,Roberto,Enriquez,M,Chicago,IL,2,44,NA,NA,NA,NA,31,13,NA,NA,NA,NA
-39,Jenny,Grow,F,Morton,IL,2,44,NA,NA,NA,NA,NA,NA,NA,13,31,NA
-39,Christa,Hanna,F,Marquette Heights,IL,2,44,NA,NA,NA,NA,NA,31,13,NA,NA,NA
-39,John,Havenga,M,West Peoria,IL,2,44,NA,31,13,NA,NA,NA,NA,NA,NA,NA
-39,Giang,Lam,F,Champaign,IL,2,44,31,NA,13,NA,NA,NA,NA,NA,NA,NA
-39,Kevin,Mathewson,M,Peoria,IL,2,44,NA,NA,NA,NA,31,13,NA,NA,NA,NA
-39,Jessica,Maveus,F,Rockford,IL,2,44,NA,NA,13,NA,NA,NA,31,NA,NA,NA
-39,Galinda,Miller,F,Lyndon,IL,2,44,NA,NA,NA,NA,NA,NA,NA,31,NA,13
-39,Vincent,Moore,M,Springfield,IL,2,44,NA,NA,NA,NA,31,13,NA,NA,NA,NA
-39,Mike,Siltman,M,Middletown,IL,2,44,NA,NA,NA,NA,NA,NA,31,13,NA,NA
-39,Brian,Snyder,M,Morton,IL,2,44,NA,NA,13,NA,NA,NA,31,NA,NA,NA
-39,Brenda,Van Horn,F,Sterling,IL,2,44,13,31,NA,NA,NA,NA,NA,NA,NA,NA
-40,Tina,Bajic,F,Pekin,IL,3,39,NA,NA,NA,NA,NA,13,13,13,NA,NA
-40,Kevin,Brucker,M,East Peoria,IL,3,39,NA,NA,13,NA,13,NA,NA,13,NA,NA
-40,Max,Chapman,M,East Peoria,IL,3,39,NA,NA,NA,NA,NA,NA,NA,13,13,13
-40,Tammy,Colver,F,Garden Prairie,IL,3,39,NA,NA,13,NA,13,13,NA,NA,NA,NA
-40,Ben,Evans,M,Peoria,IL,3,39,NA,13,NA,13,13,NA,NA,NA,NA,NA
-40,Sue,Francis,F,Crystal Lake,IL,3,39,NA,NA,NA,NA,NA,13,13,13,NA,NA
-40,Brent,Hewitt,M,Peoria,IL,3,39,NA,NA,NA,NA,NA,NA,NA,13,13,13
-40,Karianne,Kusner,F,Winnebago,IL,3,39,13,NA,13,NA,13,NA,NA,NA,NA,NA
-40,Smitha,Rhodes,F,Chatham,IL,3,39,13,13,NA,13,NA,NA,NA,NA,NA,NA
-40,Erich,Smith,M,Peoria,IL,3,39,NA,NA,13,NA,13,NA,NA,NA,NA,13
-40,Kelly,Stark,F,Peoria,IL,3,39,NA,NA,NA,NA,NA,13,13,13,NA,NA
-40,Scott,Thompson,M,Washington,IL,3,39,NA,NA,NA,13,13,13,NA,NA,NA,NA
-40,Maurice,Wantiez,M,East Peoria,IL,3,39,NA,NA,NA,NA,NA,13,13,13,NA,NA
-40,Stephen,Wrought,M,Chicago,IL,3,39,NA,NA,NA,NA,NA,NA,13,13,13,NA
-41,Robyn,Konen,F,Dunlap,IL,3,32,NA,NA,NA,NA,NA,NA,13,13,6,NA
-41,Jaime,McBride,F,Ankeny,IA,3,32,NA,NA,NA,NA,NA,NA,NA,13,6,13
-42,Richard,Albanese,M,Antioch,IL,1,31,NA,NA,NA,NA,NA,NA,31,NA,NA,NA
-42,Anthony,Avellino,M,Peoria,IL,1,31,NA,NA,NA,NA,NA,NA,NA,NA,31,NA
-42,Todd,Baker,M,East Peoria,IL,1,31,NA,NA,NA,31,NA,NA,NA,NA,NA,NA
-42,Elissa,Ballas,F,Downers Grove,IL,1,31,NA,NA,NA,NA,NA,NA,NA,NA,31,NA
-42,Jill,Bell,F,Salem,WI,1,31,NA,NA,NA,NA,NA,NA,NA,NA,31,NA
-42,Chris,Beveroth,M,Port Byron,IL,1,31,NA,NA,31,NA,NA,NA,NA,NA,NA,NA
-42,Lyle,Block,M,East Peoria,IL,1,31,NA,NA,NA,NA,31,NA,NA,NA,NA,NA
-42,Trish,Borboa,F,Springfield,IL,1,31,NA,NA,NA,NA,NA,31,NA,NA,NA,NA
-42,Christine,Borgerding,F,McHenry,IL,1,31,NA,NA,NA,NA,NA,NA,NA,NA,31,NA
-42,Jim,Briscoe,M,DeKalb,IL,1,31,NA,NA,NA,NA,NA,NA,31,NA,NA,NA
-42,Rob,Brown,M,Brookfield,IL,1,31,NA,NA,NA,NA,31,NA,NA,NA,NA,NA
-42,Todd,Brown,M,Skokie,IL,1,31,NA,NA,NA,NA,NA,NA,NA,NA,31,NA
-42,Scott,Buchan,M,Northbrook,IL,1,31,NA,31,NA,NA,NA,NA,NA,NA,NA,NA
-42,Corby,Burkett,M,Sterling,IL,1,31,NA,NA,31,NA,NA,NA,NA,NA,NA,NA
-42,John,Buzansky,M,Jamison,PA,1,31,NA,NA,NA,NA,NA,NA,NA,31,NA,NA
-42,Dennis,Cantrell,M,Coatesville,IN,1,31,NA,NA,NA,NA,31,NA,NA,NA,NA,NA
-42,Siyan,Cao,M,Chesterfield,IL,1,31,NA,NA,31,NA,NA,NA,NA,NA,NA,NA
-42,Tracy,Chaney,F,Peoria,IL,1,31,NA,NA,NA,NA,31,NA,NA,NA,NA,NA
-42,Dianne,Cherry,F,Arcola,IL,1,31,31,NA,NA,NA,NA,NA,NA,NA,NA,NA
-42,Emily,Coltrin,F,Peoria,IL,1,31,NA,NA,NA,NA,NA,NA,31,NA,NA,NA
-42,Cody,Comstock,M,Pekin,IL,1,31,NA,NA,NA,NA,31,NA,NA,NA,NA,NA
-42,Nicole,Correnti,F,Rockford,IL,1,31,NA,NA,NA,NA,NA,NA,31,NA,NA,NA
-42,Matt,Davis,M,Galesburg,IL,1,31,NA,NA,NA,31,NA,NA,NA,NA,NA,NA
-42,Jennifer,DeSalvo,F,Chicago,IL,1,31,NA,NA,NA,NA,NA,NA,NA,NA,31,NA
-42,Oscar,Delgado,M,Monee,IL,1,31,NA,NA,NA,NA,NA,31,NA,NA,NA,NA
-42,Cathy,Derry,F,Canton,IL,1,31,NA,NA,31,NA,NA,NA,NA,NA,NA,NA
-42,Chris,Dierker,M,Peoria,IL,1,31,NA,NA,NA,NA,NA,NA,NA,NA,31,NA
-42,Mallory,Donini,F,Metamora,IL,1,31,31,NA,NA,NA,NA,NA,NA,NA,NA,NA
-42,Michael,Donini,M,Metamora,IL,1,31,31,NA,NA,NA,NA,NA,NA,NA,NA,NA
-42,Rachel,Dressler,F,Roscoe,IL,1,31,NA,NA,NA,NA,NA,NA,31,NA,NA,NA
-42,Bobby,Duby,M,Millstadt,IL,1,31,NA,NA,NA,NA,31,NA,NA,NA,NA,NA
-42,Shad,Edwards,M,Decatur,IL,1,31,NA,NA,NA,NA,NA,NA,NA,NA,31,NA
-42,David,Ericson,M,Spaulding,IL,1,31,31,NA,NA,NA,NA,NA,NA,NA,NA,NA
-42,Apolonio,Esquivel,M,Plainfield,IL,1,31,NA,NA,NA,NA,NA,NA,31,NA,NA,NA
-42,Bill,Fairfield,M,Hawthorn Woods,IL,1,31,NA,NA,NA,NA,NA,NA,NA,NA,31,NA
-42,Michael,Farrington,M,Lindenhurst,IL,1,31,NA,NA,NA,NA,NA,NA,31,NA,NA,NA
-42,Rich,Fela,M,Bloomington,IL,1,31,NA,NA,NA,NA,31,NA,NA,NA,NA,NA
-42,Emily,Floess,F,Raleigh,NC,1,31,NA,NA,NA,NA,31,NA,NA,NA,NA,NA
-42,Steve,Fredrickson,M,Genoa,IL,1,31,NA,NA,NA,NA,NA,NA,31,NA,NA,NA
-42,Kathryn,Froehlich,F,Northbrook,IL,1,31,31,NA,NA,NA,NA,NA,NA,NA,NA,NA
-42,Kevin,Gann,M,Bloomington,IL,1,31,NA,NA,NA,NA,NA,NA,31,NA,NA,NA
-42,Paul,Garcia,M,Evanston,IL,1,31,NA,NA,NA,NA,NA,NA,31,NA,NA,NA
-42,Meghan,Garvin,F,Cary,IL,1,31,NA,NA,NA,NA,31,NA,NA,NA,NA,NA
-42,Gonzalo,Gomez,M,Belvidere,IL,1,31,NA,NA,NA,NA,NA,NA,NA,31,NA,NA
-42,Meredith,Goode,F,Plainfield,IL,1,31,NA,NA,NA,NA,NA,31,NA,NA,NA,NA
-42,Ian,Gorley,M,Loveland,OH,1,31,NA,NA,NA,NA,31,NA,NA,NA,NA,NA
-42,Kelli,Gorski,F,Belvidere,IL,1,31,NA,NA,NA,NA,NA,NA,31,NA,NA,NA
-42,Joe,Gow,M,Huntley,IL,1,31,NA,NA,NA,NA,31,NA,NA,NA,NA,NA
-42,Pat,Graves,F,Roscoe,IL,1,31,NA,NA,NA,NA,NA,NA,31,NA,NA,NA
-42,Travis,Graves,M,Peoria,IL,1,31,NA,NA,NA,NA,31,NA,NA,NA,NA,NA
-42,Riley,Green,M,Lock Haven,PA,1,31,NA,NA,NA,NA,31,NA,NA,NA,NA,NA
-42,Larry,Hall,M,Chicago,IL,1,31,NA,NA,NA,31,NA,NA,NA,NA,NA,NA
-42,Anthony,Hardin,M,Polo,IL,1,31,NA,NA,NA,NA,NA,NA,31,NA,NA,NA
-42,Rachel,Head,F,El Paso,IL,1,31,NA,NA,NA,NA,NA,NA,NA,NA,31,NA
-42,Angel,Heaver,F,Woodstock,IL,1,31,NA,NA,NA,NA,31,NA,NA,NA,NA,NA
-42,Josh,Hedrick,M,Heyworth,IL,1,31,NA,NA,NA,NA,31,NA,NA,NA,NA,NA
-42,Kate,Heid,F,Peoria,IL,1,31,NA,NA,NA,NA,NA,NA,NA,31,NA,NA
-42,Maritza,Hernandez,F,Chicago,IL,1,31,NA,31,NA,NA,NA,NA,NA,NA,NA,NA
-42,Tonie,Hockenbury,F,Jamison,PA,1,31,NA,NA,NA,NA,NA,NA,NA,31,NA,NA
-42,Frank,Ingalls,M,Wichita Falls,TX,1,31,NA,NA,NA,NA,NA,31,NA,NA,NA,NA
-42,Michael,Johnson,M,Elburn,IL,1,31,NA,NA,NA,NA,NA,NA,NA,NA,31,NA
-42,Allison,Kallo,F,Chicago,IL,1,31,NA,NA,NA,NA,NA,NA,NA,31,NA,NA
-42,Joseph,Kallo,M,Chicago,IL,1,31,NA,NA,NA,NA,NA,NA,NA,31,NA,NA
-42,Ronnie,Katz,M,Indianapolis,IN,1,31,NA,NA,NA,NA,31,NA,NA,NA,NA,NA
-42,Alicia,Kellogg,F,Polo,IL,1,31,31,NA,NA,NA,NA,NA,NA,NA,NA,NA
-42,Ryan,Kelly,M,St. Charles,MO,1,31,NA,NA,NA,NA,NA,31,NA,NA,NA,NA
-42,Matthias,Kemmeren,M,Dixon,IL,1,31,NA,31,NA,NA,NA,NA,NA,NA,NA,NA
-42,Kevin,Kerian,M,Edmonton,AB,1,31,NA,NA,NA,NA,NA,31,NA,NA,NA,NA
-42,Jordan,Kiefer,M,NA,NA,1,31,NA,NA,NA,NA,NA,NA,NA,31,NA,NA
-42,Christian,Kilby,M,Mackinaw,IL,1,31,NA,NA,NA,NA,31,NA,NA,NA,NA,NA
-42,Alex,Kuhn,M,Urbana,IL,1,31,NA,NA,NA,NA,NA,NA,NA,31,NA,NA
-42,Trisha,Kurtz,F,Chicago,IL,1,31,31,NA,NA,NA,NA,NA,NA,NA,NA,NA
-42,Becky,Leahy,F,Janesville,WI,1,31,NA,NA,NA,NA,NA,NA,31,NA,NA,NA
-42,Kate,Lipovsky,F,St. Louis,MO,1,31,NA,NA,NA,NA,NA,NA,31,NA,NA,NA
-42,Linda,Lopez,F,Chicago,IL,1,31,NA,NA,NA,NA,NA,NA,31,NA,NA,NA
-42,Nick,Marienthal,M,Roscoe,IL,1,31,NA,NA,NA,NA,NA,NA,31,NA,NA,NA
-42,Jerry,Maushard,M,Peoria,IL,1,31,31,NA,NA,NA,NA,NA,NA,NA,NA,NA
-42,Madeline,Maushard,F,Peoria,IL,1,31,31,NA,NA,NA,NA,NA,NA,NA,NA,NA
-42,Trina,McCarty,F,Bloomington,IL,1,31,NA,NA,NA,NA,NA,NA,NA,NA,31,NA
-42,Taryne,McCrea,F,Tremont,IL,1,31,NA,NA,NA,NA,NA,31,NA,NA,NA,NA
-42,Robert,McCrory,M,Dixon,IL,1,31,NA,NA,NA,NA,31,NA,NA,NA,NA,NA
-42,Aron,McDonald,M,Peoria,IL,1,31,NA,NA,NA,31,NA,NA,NA,NA,NA,NA
-42,Todd,McMillion,M,Dixon,IL,1,31,NA,NA,NA,NA,NA,NA,NA,31,NA,NA
-42,Jess,Mellican,F,Washington,IL,1,31,31,NA,NA,NA,NA,NA,NA,NA,NA,NA
-42,Mark,Mitchell,M,Chicago,IL,1,31,NA,NA,NA,NA,NA,31,NA,NA,NA,NA
-42,Oscar,Molina,M,Chicago,IL,1,31,NA,NA,NA,NA,31,NA,NA,NA,NA,NA
-42,Angella,Moorehouse,F,Warsaw,IL,1,31,NA,NA,NA,NA,NA,31,NA,NA,NA,NA
-42,Patrick,Morris,M,Grayslake,IL,1,31,NA,NA,NA,NA,NA,NA,NA,NA,31,NA
-42,Neal,Murphy,M,Normal,IL,1,31,NA,NA,NA,NA,31,NA,NA,NA,NA,NA
-42,Neil,Nicholson,M,Aurora,IL,1,31,NA,NA,NA,NA,31,NA,NA,NA,NA,NA
-42,Yvonne,Oldaker,F,Homewood,IL,1,31,NA,NA,NA,NA,NA,NA,NA,31,NA,NA
-42,TracyJo,Pasieka,F,Saint Louis,MO,1,31,NA,NA,NA,NA,NA,NA,NA,NA,31,NA
-42,Brandi,Payne,F,Peoria,IL,1,31,NA,NA,NA,NA,31,NA,NA,NA,NA,NA
-42,Michele,Perkins,F,Crestwood,IL,1,31,31,NA,NA,NA,NA,NA,NA,NA,NA,NA
-42,Kirsten,Pieper,F,Blackstone,IL,1,31,NA,NA,NA,NA,NA,NA,NA,NA,31,NA
-42,Christian,Pukala,M,NA,NA,1,31,NA,NA,NA,NA,NA,NA,NA,NA,31,NA
-42,Clark,Purnell,M,Moline,IL,1,31,NA,NA,NA,31,NA,NA,NA,NA,NA,NA
-42,Bren,Raschke,M,Moline,IL,1,31,NA,NA,NA,31,NA,NA,NA,NA,NA,NA
-42,Michael,Reece,M,Bloomington,IL,1,31,NA,NA,NA,NA,NA,NA,NA,NA,31,NA
-42,Jeff,Reynolds,M,Tremont,IL,1,31,NA,NA,NA,NA,31,NA,NA,NA,NA,NA
-42,Austin,Rhodes,M,Canon,IL,1,31,31,NA,NA,NA,NA,NA,NA,NA,NA,NA
-42,Dawn,Shay,F,Pontiac,IL,1,31,NA,31,NA,NA,NA,NA,NA,NA,NA,NA
-42,Paul,Shimondle,M,South Beloit,IL,1,31,NA,NA,NA,NA,NA,NA,NA,31,NA,NA
-42,Blake,Sieben,M,Morton,IL,1,31,31,NA,NA,NA,NA,NA,NA,NA,NA,NA
-42,Chris,Silva,M,NA,NA,1,31,NA,NA,NA,NA,NA,NA,NA,31,NA,NA
-42,Andrea,Simeone,F,Athens,IL,1,31,NA,NA,NA,NA,NA,NA,NA,31,NA,NA
-42,Todd,Simeone,M,Normal,IL,1,31,NA,NA,NA,NA,NA,NA,NA,31,NA,NA
-42,Gary,Skowronek,M,Palos Park,IL,1,31,NA,NA,NA,NA,NA,NA,31,NA,NA,NA
-42,Maggie,Smock,F,Round Lake Beach,IL,1,31,NA,NA,NA,NA,NA,NA,NA,31,NA,NA
-42,Adrian,Snyder,M,Noblesville,IN,1,31,NA,NA,NA,NA,NA,NA,31,NA,NA,NA
-42,Darren,Sorgenfrei,M,Portage,MI,1,31,NA,NA,NA,NA,NA,NA,NA,NA,31,NA
-42,Gladys,Spencer,F,Perrysville,IN,1,31,31,NA,NA,NA,NA,NA,NA,NA,NA,NA
-42,Jim,Street,M,Blackstone,IL,1,31,NA,NA,NA,NA,NA,NA,NA,NA,31,NA
-42,Brock,Stuessi,M,Chicago,IL,1,31,NA,NA,NA,NA,NA,NA,31,NA,NA,NA
-42,Amy,Szumny,F,Elburn,IL,1,31,NA,NA,NA,NA,NA,NA,NA,NA,31,NA
-42,Dewaynne,Tackett,M,Milroy,IN,1,31,NA,NA,NA,NA,NA,NA,31,NA,NA,NA
-42,Jeff,Tavernor,M,Girard,IL,1,31,31,NA,NA,NA,NA,NA,NA,NA,NA,NA
-42,Jake,Taylor,M,Bettendorf,IA,1,31,NA,NA,NA,NA,NA,NA,31,NA,NA,NA
-42,Jim,Taylor,M,Glen Carbon,IL,1,31,NA,NA,31,NA,NA,NA,NA,NA,NA,NA
-42,Gregory,Thompson,M,St Charles,IL,1,31,NA,NA,NA,NA,NA,NA,31,NA,NA,NA
-42,Jenny,Thorsen,F,NA,NA,1,31,NA,NA,NA,NA,NA,NA,NA,NA,31,NA
-42,Candace,Tresnak,F,Roanoke,IL,1,31,NA,NA,NA,31,NA,NA,NA,NA,NA,NA
-42,John,Tudhope,M,St Louis,MO,1,31,31,NA,NA,NA,NA,NA,NA,NA,NA,NA
-42,Martha,Walker,F,Algonquin,IL,1,31,NA,NA,NA,NA,NA,NA,31,NA,NA,NA
-42,Lisa,Wenderoth,F,Chicago,IL,1,31,NA,NA,NA,NA,NA,NA,31,NA,NA,NA
-42,BJ,Wiedman,M,Morton,IL,1,31,NA,NA,NA,NA,NA,NA,31,NA,NA,NA
-42,Kurt,Wysock,M,Chicago,IL,1,31,NA,NA,NA,NA,NA,NA,31,NA,NA,NA
-43,James,Booth,M,Peoria,IL,2,26,NA,NA,13,NA,NA,NA,NA,13,NA,NA
-43,Vivian,Briscoe,F,DeKalb,IL,2,26,NA,NA,NA,NA,NA,NA,13,13,NA,NA
-43,Connie,Canterbury,F,East Peoria,IL,2,26,NA,NA,NA,NA,NA,13,13,NA,NA,NA
-43,Ben,Cantrell,M,Chillicothe,IL,2,26,NA,13,NA,NA,NA,13,NA,NA,NA,NA
-43,Debi,Fanning,F,East Peoria,IL,2,26,NA,NA,NA,NA,NA,NA,13,13,NA,NA
-43,Norman,Heiser,M,Princeville,IL,2,26,NA,NA,NA,13,13,NA,NA,NA,NA,NA
-43,Hannah,Johnson,F,Morton,IL,2,26,NA,NA,NA,NA,13,NA,13,NA,NA,NA
-43,Marc,Maxwell,M,Sterling,IL,2,26,13,NA,NA,NA,NA,NA,NA,13,NA,NA
-43,Mike,McGraw,M,Washington,IL,2,26,NA,NA,NA,NA,NA,NA,NA,13,13,NA
-43,Valerie,Moore,F,Springfield,IL,2,26,NA,NA,NA,13,NA,13,NA,NA,NA,NA
-43,Lindsay,Oriold,F,Normal,IL,2,26,NA,NA,NA,NA,NA,NA,13,13,NA,NA
-43,Suzanne,Rogers,F,Bloomington,IL,2,26,NA,NA,NA,NA,NA,NA,NA,NA,13,13
-43,Robin,Sampliner,F,Deerfield,IL,2,26,NA,NA,NA,13,13,NA,NA,NA,NA,NA
-43,Laura,Schoenbeck,F,Washington,IL,2,26,NA,NA,NA,NA,NA,NA,NA,NA,13,13
-43,Bradley,Slott,M,West Peoria,IL,2,26,13,13,NA,NA,NA,NA,NA,NA,NA,NA
-43,Scott,Sokolowski,M,Washington,IL,2,26,NA,NA,NA,NA,NA,13,13,NA,NA,NA
-43,Mary,Stanbary,F,Putnam,IL,2,26,13,NA,NA,13,NA,NA,NA,NA,NA,NA
-43,Juliann,Stedwill,F,Dunlap,IL,2,26,NA,NA,NA,NA,NA,13,NA,NA,13,NA
-43,Maria,Stedwill,F,Dunlap,IL,2,26,NA,NA,NA,NA,NA,13,NA,13,NA,NA
-43,Tim,Teel,M,Elmwood,IL,2,26,NA,NA,NA,NA,NA,NA,13,NA,NA,13
-43,James,Thompson,M,East Peoria,IL,2,26,NA,NA,NA,NA,NA,NA,13,13,NA,NA
-43,Jon,Valuck,M,Springfield,IL,2,26,NA,13,13,NA,NA,NA,NA,NA,NA,NA
-43,Seth,Van Heukelom,M,Washington,IL,2,26,NA,NA,NA,NA,NA,NA,NA,13,13,NA
-43,Hondo,Vasquez,M,Normal,IL,2,26,NA,NA,NA,NA,NA,NA,NA,NA,13,13
-43,Evan,Zdunek,M,Peoria,IL,2,26,NA,NA,NA,NA,NA,NA,NA,13,NA,13
-44,Clarice,Chick,F,Pekin,IL,2,19,NA,NA,NA,NA,NA,NA,13,NA,6,NA
-44,Amber,Francis,F,Crystal Lake,IL,2,19,NA,NA,NA,NA,NA,NA,13,NA,6,NA
-44,Christy,Habel,F,Pekin,IL,2,19,NA,NA,NA,NA,NA,NA,13,NA,6,NA
-45,Amber,Little,F,Hanna City,IL,2,18,NA,NA,NA,NA,NA,NA,NA,13,NA,5
-46,Peter,Ahart,M,Lincoln,IL,1,13,NA,NA,NA,13,NA,NA,NA,NA,NA,NA
-46,Ila,Allen,F,NA,NA,1,13,NA,NA,NA,NA,NA,NA,NA,13,NA,NA
-46,Tiffany,Anderson,F,Coal Valley,IL,1,13,NA,NA,NA,13,NA,NA,NA,NA,NA,NA
-46,Marysue,Baker,F,NA,IL,1,13,NA,NA,NA,NA,NA,13,NA,NA,NA,NA
-46,Katrina,Baltes,F,Yorkville,IL,1,13,NA,NA,13,NA,NA,NA,NA,NA,NA,NA
-46,Rich,Beal,M,Bloomington,IL,1,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,13
-46,Heather,Benjamin,F,Westmont,IL,1,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,13
-46,Nick,Bergerhouse,M,NA,IL,1,13,NA,NA,NA,NA,NA,13,NA,NA,NA,NA
-46,Mary,Bergren,F,Kewanee,IL,1,13,NA,NA,NA,NA,NA,NA,NA,NA,13,NA
-46,Adam,Bernardi,M,Chillicothe,IL,1,13,NA,NA,NA,NA,NA,NA,13,NA,NA,NA
-46,Alex,Bernardi,M,Dunlap,IL,1,13,13,NA,NA,NA,NA,NA,NA,NA,NA,NA
-46,Dan,Blascyk,M,NA,NA,1,13,NA,NA,NA,NA,NA,NA,NA,13,NA,NA
-46,Karey,Blascyk,F,NA,NA,1,13,NA,NA,NA,NA,NA,NA,NA,13,NA,NA
-46,Kristy,Boggs,F,Table Grove,IL,1,13,13,NA,NA,NA,NA,NA,NA,NA,NA,NA
-46,Shannon,Bollinger,M,Davis Junction,IL,1,13,NA,NA,13,NA,NA,NA,NA,NA,NA,NA
-46,Mark,Bowman,M,Joliet,IL,1,13,NA,NA,NA,NA,NA,NA,13,NA,NA,NA
-46,Chris,Braun,M,Madison,WI,1,13,NA,13,NA,NA,NA,NA,NA,NA,NA,NA
-46,Rich,Breaux,M,Dahinda,IL,1,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,13
-46,Jonathon,Brooks,M,Granite City,IL,1,13,NA,NA,13,NA,NA,NA,NA,NA,NA,NA
-46,Wayne,Bryan,M,Kewanee,IL,1,13,NA,NA,NA,NA,NA,NA,NA,NA,13,NA
-46,Gwen,Burrows,F,Decatur,IL,1,13,NA,NA,13,NA,NA,NA,NA,NA,NA,NA
-46,Sherry,Cammack,F,Joliet,IL,1,13,NA,NA,NA,NA,NA,13,NA,NA,NA,NA
-46,Jane,Chapman,F,East Peoria,IL,1,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,13
-46,Liam,Clague,M,Naperville,IL,1,13,NA,NA,NA,NA,13,NA,NA,NA,NA,NA
-46,Pete,Cleary,M,NA,IL,1,13,NA,NA,NA,NA,NA,13,NA,NA,NA,NA
-46,Tony,Colvin,M,NA,IL,1,13,NA,NA,NA,NA,NA,13,NA,NA,NA,NA
-46,Andrea,Copeland,F,Peoria,IL,1,13,NA,NA,NA,NA,13,NA,NA,NA,NA,NA
-46,Sebastien,Coquoz,M,Dunlap,IL,1,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,13
-46,Shayne,Croke,M,Lisle,IL,1,13,13,NA,NA,NA,NA,NA,NA,NA,NA,NA
-46,Connie,Crowl,F,Galesburg,IL,1,13,NA,NA,NA,NA,NA,NA,13,NA,NA,NA
-46,Greg,DeKeyser,M,Eureka,IL,1,13,NA,NA,NA,NA,NA,NA,13,NA,NA,NA
-46,Marc,Dean,M,Pekin,IL,1,13,NA,13,NA,NA,NA,NA,NA,NA,NA,NA
-46,Jaime,Delgado,M,Chicago,IL,1,13,NA,NA,NA,NA,NA,13,NA,NA,NA,NA
-46,Lawrence,Dolan,M,Morton,IL,1,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,13
-46,Alyssa,Durst,F,Naperville,IL,1,13,NA,NA,NA,NA,13,NA,NA,NA,NA,NA
-46,Liz,Engstrom,F,Sterling,IL,1,13,NA,NA,NA,13,NA,NA,NA,NA,NA,NA
-46,Alicia,Erickson,F,Lombard,IL,1,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,13
-46,Francisco,Espinoza,M,Oak Lawn,IL,1,13,13,NA,NA,NA,NA,NA,NA,NA,NA,NA
-46,Bret,Fahnstrom,M,Chicago,IL,1,13,NA,NA,NA,NA,NA,NA,NA,13,NA,NA
-46,Karen,Flaherty,F,Peoria,IL,1,13,NA,NA,NA,NA,NA,NA,NA,NA,13,NA
-46,Igor,Francis-Buller,M,Peoria Heights,IL,1,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,13
-46,Angela,Freeman,F,Minooka,IL,1,13,NA,13,NA,NA,NA,NA,NA,NA,NA,NA
-46,Rebecca,Frianks,F,NA,NA,1,13,NA,NA,NA,NA,NA,NA,NA,13,NA,NA
-46,Brittany,Fritch,F,Orion,IL,1,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,13
-46,Angela,Funk,F,Armington,IL,1,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,13
-46,Grant,Garner,M,Dunlap,IL,1,13,NA,NA,NA,NA,NA,NA,NA,13,NA,NA
-46,Matt,Gaw,M,Peoria Heights,IL,1,13,NA,NA,NA,NA,NA,NA,NA,13,NA,NA
-46,Laura,Gioannini,F,Dunlap,IL,1,13,NA,NA,NA,NA,NA,NA,NA,13,NA,NA
-46,Angie,Goode,F,Decatur,IL,1,13,NA,NA,13,NA,NA,NA,NA,NA,NA,NA
-46,Justin,Gore,M,Mapleton,IL,1,13,NA,NA,NA,NA,NA,NA,13,NA,NA,NA
-46,Michael,Grady,M,Ann Arbor,MI,1,13,NA,NA,NA,13,NA,NA,NA,NA,NA,NA
-46,Brady,Grant,M,Denver,CO,1,13,NA,NA,13,NA,NA,NA,NA,NA,NA,NA
-46,Maggie,Grant,F,Denver,CO,1,13,NA,NA,13,NA,NA,NA,NA,NA,NA,NA
-46,Sarah,Grant,F,Denver,CO,1,13,NA,NA,13,NA,NA,NA,NA,NA,NA,NA
-46,Jared,Grzanich,M,Canton,IL,1,13,NA,NA,NA,13,NA,NA,NA,NA,NA,NA
-46,Christine,Gustafson,F,Kewanee,IL,1,13,NA,NA,NA,NA,NA,NA,NA,NA,13,NA
-46,Paul,Haas,M,Bloomington,IL,1,13,NA,NA,NA,NA,NA,NA,NA,NA,13,NA
-46,June,Haeme,F,Kempton,IL,1,13,NA,NA,NA,NA,NA,NA,NA,13,NA,NA
-46,Troy,Hanger,M,Lincoln,IL,1,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,13
-46,Krystal,Hardy,F,Rockford,IL,1,13,NA,NA,13,NA,NA,NA,NA,NA,NA,NA
-46,Briannah,Harrison,F,Washington,IL,1,13,NA,NA,13,NA,NA,NA,NA,NA,NA,NA
-46,Norm,Heiser,M,Princeville,IL,1,13,NA,NA,13,NA,NA,NA,NA,NA,NA,NA
-46,Jennifer,Heller,F,Dixon,IL,1,13,NA,NA,NA,13,NA,NA,NA,NA,NA,NA
-46,Jeremey,Helmer,M,Bloomington,IL,1,13,NA,NA,NA,NA,NA,NA,NA,NA,13,NA
-46,Rigoberto,Hernandez,M,Roselle,IL,1,13,NA,NA,NA,NA,NA,13,NA,NA,NA,NA
-46,Rob,Hilsabeck,M,NA,IL,1,13,NA,NA,NA,NA,NA,13,NA,NA,NA,NA
-46,Daria,Hodor,F,Crown Point,IN,1,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,13
-46,Nathan,Hodor,M,Crown Point,IN,1,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,13
-46,William,Hoffman,M,Springfield,IL,1,13,NA,NA,NA,NA,13,NA,NA,NA,NA,NA
-46,Jason,Hurst,M,Peoria,IL,1,13,NA,NA,NA,NA,NA,NA,NA,NA,13,NA
-46,Denise,Ismari,F,Decatur,IL,1,13,NA,NA,13,NA,NA,NA,NA,NA,NA,NA
-46,Amy,Iversen,F,Chicago,IL,1,13,NA,NA,NA,NA,NA,NA,NA,13,NA,NA
-46,Michelle,Jachim,F,Downers Grove,IL,1,13,NA,13,NA,NA,NA,NA,NA,NA,NA,NA
-46,Jim,Jackson,M,Pekin,IL,1,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,13
-46,Dean,Jefferson,M,NA,IL,1,13,13,NA,NA,NA,NA,NA,NA,NA,NA,NA
-46,Devin,Jefferson,M,Clinton,IL,1,13,NA,13,NA,NA,NA,NA,NA,NA,NA,NA
-46,Brad,Johnson,M,Morton,IL,1,13,NA,NA,NA,NA,NA,NA,13,NA,NA,NA
-46,Ryan,Johnson,M,NA,NA,1,13,NA,NA,NA,NA,NA,NA,NA,13,NA,NA
-46,Westin,Joos,M,Peoria,IL,1,13,13,NA,NA,NA,NA,NA,NA,NA,NA,NA
-46,Colleen,Kahl,F,East Peoria,IL,1,13,NA,NA,NA,NA,NA,NA,NA,13,NA,NA
-46,Paul,Kelley,M,Chillicothe,IL,1,13,NA,NA,NA,NA,NA,NA,NA,13,NA,NA
-46,Christina,Kienitz,F,Washington,IL,1,13,NA,NA,NA,NA,NA,NA,NA,13,NA,NA
-46,Amy,Knight,F,NA,NA,1,13,NA,NA,NA,NA,NA,NA,NA,13,NA,NA
-46,Barb,Knight,F,NA,NA,1,13,NA,NA,NA,NA,NA,NA,NA,13,NA,NA
-46,Randi,Kuhn,F,Springfield,IL,1,13,NA,NA,13,NA,NA,NA,NA,NA,NA,NA
-46,Elaine,Lagoda,F,East Peoria,IL,1,13,NA,NA,NA,NA,13,NA,NA,NA,NA,NA
-46,Ashley,Lammi,F,Rockford,IL,1,13,13,NA,NA,NA,NA,NA,NA,NA,NA,NA
-46,Laymond,Leaks,M,Decatur,IL,1,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,13
-46,Amy,Lee,F,NA,IL,1,13,NA,NA,NA,NA,NA,13,NA,NA,NA,NA
-46,Daniel,Lidawer,M,Highland Park,IL,1,13,NA,NA,NA,NA,NA,NA,NA,13,NA,NA
-46,Josh,Lidawer,M,Peoria,IL,1,13,NA,NA,NA,NA,NA,NA,NA,13,NA,NA
-46,Cheryl,Lindberg,F,Caledonia,IL,1,13,NA,NA,NA,NA,13,NA,NA,NA,NA,NA
-46,Mallory,Lindstrom,F,Lacon,IL,1,13,NA,NA,NA,NA,NA,NA,13,NA,NA,NA
-46,Marcus,Lockhart,M,NA,NA,1,13,NA,NA,NA,NA,NA,NA,NA,13,NA,NA
-46,Jessica,Lomax,F,Woodridge,IL,1,13,NA,NA,NA,NA,NA,13,NA,NA,NA,NA
-46,Danny,Machak,M,Joliet,IL,1,13,NA,13,NA,NA,NA,NA,NA,NA,NA,NA
-46,Eva,Magnusen,F,NA,IL,1,13,NA,NA,NA,NA,NA,13,NA,NA,NA,NA
-46,John,Mahaney,M,East Peoria,IL,1,13,13,NA,NA,NA,NA,NA,NA,NA,NA,NA
-46,Sandra,Marak,F,Chicago,IL,1,13,NA,NA,13,NA,NA,NA,NA,NA,NA,NA
-46,Kurt,McAdams,M,Lockport,IL,1,13,NA,NA,NA,NA,NA,NA,NA,13,NA,NA
-46,Bob,McCrory,M,Dixon,IL,1,13,NA,NA,13,NA,NA,NA,NA,NA,NA,NA
-46,Latoya,McGuire,F,NA,IL,1,13,13,NA,NA,NA,NA,NA,NA,NA,NA,NA
-46,Alex,McKenzie,M,Peoria,IL,1,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,13
-46,Yvette,McKenzie,F,Peoria,IL,1,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,13
-46,Cassey,Mckinny,F,Davenport,IA,1,13,NA,NA,13,NA,NA,NA,NA,NA,NA,NA
-46,Dan,Meinhart,M,Downers Grove,IL,1,13,NA,13,NA,NA,NA,NA,NA,NA,NA,NA
-46,Daniel,Meinhart,M,Downers Grove,IL,1,13,NA,NA,13,NA,NA,NA,NA,NA,NA,NA
-46,Lisa,Meyer-McMillion,F,NA,NA,1,13,NA,NA,NA,NA,NA,NA,NA,13,NA,NA
-46,Eric,Michaelis,M,St. Charles,IL,1,13,NA,NA,NA,NA,13,NA,NA,NA,NA,NA
-46,Jake,Miller,M,NA,IL,1,13,NA,NA,NA,NA,NA,NA,13,NA,NA,NA
-46,John,North,M,Saint Joseph,IL,1,13,NA,NA,NA,NA,NA,NA,13,NA,NA,NA
-46,Valerie,Olson,F,Bettendorf,IA,1,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,13
-46,Benjamin,Page,M,Washington,IL,1,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,13
-46,Allyson,Parks,F,Edelstein,IL,1,13,NA,NA,NA,NA,NA,NA,NA,13,NA,NA
-46,Stephanie,Parks,F,Chesterfield,MI,1,13,NA,NA,NA,NA,13,NA,NA,NA,NA,NA
-46,Nick,Peeler,M,NA,IL,1,13,NA,NA,NA,NA,NA,13,NA,NA,NA,NA
-46,Toby,Peplow,F,East Peoria,IL,1,13,NA,NA,NA,NA,NA,NA,NA,NA,13,NA
-46,Jason,Pequette,M,Tinley Park,IL,1,13,NA,NA,NA,13,NA,NA,NA,NA,NA,NA
-46,Jill,Perry,F,Chicago,IL,1,13,NA,NA,13,NA,NA,NA,NA,NA,NA,NA
-46,Travis,Pierce-Ryan,M,Chicago,IL,1,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,13
-46,Rachael,Pracht,F,Davenport,IA,1,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,13
-46,John,Pray,M,NA,NA,1,13,NA,NA,NA,NA,NA,NA,NA,13,NA,NA
-46,John,Radloff,M,Morton,IL,1,13,NA,NA,NA,NA,13,NA,NA,NA,NA,NA
-46,Christopher,Reed,M,Streator,IL,1,13,NA,NA,NA,NA,13,NA,NA,NA,NA,NA
-46,Cian,Reed,M,Streator,IL,1,13,NA,NA,13,NA,NA,NA,NA,NA,NA,NA
-46,Sara,Reed,F,Streator,IL,1,13,NA,NA,NA,NA,13,NA,NA,NA,NA,NA
-46,Cody,Renshaw,M,Washington,IL,1,13,NA,NA,13,NA,NA,NA,NA,NA,NA,NA
-46,Russ,Reynolds,M,Carlinville,IL,1,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,13
-46,Jamie,Rich,F,Davenport,IA,1,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,13
-46,Marianne,Robertson,F,Decatur,IL,1,13,NA,NA,13,NA,NA,NA,NA,NA,NA,NA
-46,Matthew,Robinson,M,Peoria,IL,1,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,13
-46,Nana,Rodriguez,F,Chicago,IL,1,13,NA,NA,NA,NA,NA,13,NA,NA,NA,NA
-46,Adam,Roll,M,Davenport,IA,1,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,13
-46,Brian,Rosh,M,Dunlap,IL,1,13,NA,NA,NA,NA,NA,NA,NA,13,NA,NA
-46,Lisa,Roskamp,F,Dunlap,IL,1,13,NA,NA,NA,NA,13,NA,NA,NA,NA,NA
-46,Patty,Ruback,F,Dekalb,IL,1,13,NA,NA,13,NA,NA,NA,NA,NA,NA,NA
-46,Saige,Ruback,F,Dekalb,IL,1,13,NA,NA,13,NA,NA,NA,NA,NA,NA,NA
-46,Theresa,Schultz,F,East Peoria,IL,1,13,NA,NA,NA,NA,NA,NA,NA,13,NA,NA
-46,Cory,Shoopman,M,Metamora,IL,1,13,NA,NA,13,NA,NA,NA,NA,NA,NA,NA
-46,Israel,Siltman,M,Middletown,IL,1,13,NA,NA,NA,NA,NA,NA,NA,13,NA,NA
-46,Tonya,Siltman,F,Middletown,IL,1,13,NA,NA,NA,NA,NA,NA,NA,13,NA,NA
-46,Aaron,Smith,M,NA,NA,1,13,NA,NA,NA,NA,NA,NA,NA,13,NA,NA
-46,Teresa,Smith,F,NA,NA,1,13,NA,NA,NA,NA,NA,NA,NA,NA,13,NA
-46,Kate,Socha,F,Edwards,IL,1,13,NA,NA,NA,NA,13,NA,NA,NA,NA,NA
-46,Diane,Stambaugh,F,Sciota,NA,1,13,NA,NA,NA,NA,NA,NA,13,NA,NA,NA
-46,Maria,Stedwell,F,NA,NA,1,13,NA,NA,NA,NA,NA,NA,NA,NA,13,NA
-46,John Paul,Stedwill,M,Illinois,IL,1,13,NA,NA,NA,NA,NA,NA,NA,13,NA,NA
-46,Lisa,Stisser,F,Galva,IL,1,13,NA,NA,NA,NA,NA,NA,13,NA,NA,NA
-46,Gerald,Stock,M,Morrison,IL,1,13,NA,NA,13,NA,NA,NA,NA,NA,NA,NA
-46,John,Stodgel,M,Washington,IL,1,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,13
-46,Cole,Stoner,M,Pekin,IL,1,13,NA,NA,NA,NA,13,NA,NA,NA,NA,NA
-46,Dan,Stumpenhorst,M,Franklin Grove,IL,1,13,NA,NA,13,NA,NA,NA,NA,NA,NA,NA
-46,Tim,Swanson,M,Peoria,IL,1,13,NA,NA,NA,NA,NA,NA,13,NA,NA,NA
-46,Tracy,Swartz,F,NA,NA,1,13,NA,NA,NA,NA,NA,NA,NA,NA,13,NA
-46,Danny,Sweborg,M,Milan,IL,1,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,13
-46,Bobbie,Sweet,F,Washington,IL,1,13,NA,NA,NA,NA,NA,NA,13,NA,NA,NA
-46,Donald,Sweet,M,Washington,IL,1,13,NA,NA,NA,NA,NA,NA,13,NA,NA,NA
-46,Richard,Tapping,M,Peoria,IL,1,13,NA,NA,NA,NA,NA,NA,13,NA,NA,NA
-46,Kimberly,Taylor,F,Nashville,IL,1,13,NA,NA,NA,NA,NA,NA,NA,13,NA,NA
-46,Kandice,Tjebkes,F,Muscatine,IA,1,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,13
-46,Brian,Tomkinson,M,Lincoln,IL,1,13,NA,13,NA,NA,NA,NA,NA,NA,NA,NA
-46,Allyn,Toth,F,Chillicothe,IL,1,13,NA,13,NA,NA,NA,NA,NA,NA,NA,NA
-46,Amanda,Turner,F,NA,IL,1,13,NA,NA,NA,NA,NA,13,NA,NA,NA,NA
-46,Laura,Turner,F,NA,IL,1,13,NA,NA,NA,NA,NA,13,NA,NA,NA,NA
-46,Tim,Van Hoof,M,Downs,IL,1,13,NA,NA,NA,13,NA,NA,NA,NA,NA,NA
-46,Troy,Walcott,M,Peoria,IL,1,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,13
-46,Melody,Wilkinson,F,Argenta,IL,1,13,NA,NA,13,NA,NA,NA,NA,NA,NA,NA
-46,Stan,Winterroth,M,Bloomington,IL,1,13,13,NA,NA,NA,NA,NA,NA,NA,NA,NA
-46,Bryce,Young,M,Dixon,IL,1,13,13,NA,NA,NA,NA,NA,NA,NA,NA,NA
-46,Kenneth,Zdunek,M,Schaumburg,IL,1,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,13
-46,Matthew,Zopel,M,Dunlap,IL,1,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,13
-47,Jenny,Jackson,F,North Pekin,IL,1,6,NA,NA,NA,NA,NA,NA,NA,NA,6,NA
-47,Linda,Mourning,F,NA,NA,1,6,NA,NA,NA,NA,NA,NA,NA,NA,6,NA
-47,Jessica,Seidel,F,NA,NA,1,6,NA,NA,NA,NA,NA,NA,NA,NA,6,NA
-48,Justin,Bahaj,M,Kansas City,MO,1,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
-48,Lindsey,Bahaj,F,Kansas City,MO,1,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
-48,Katey,Berg,F,Evanston,IL,1,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
-48,Jason,Broe,M,East Peoria,IL,1,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
-48,Phyllis,Cali-Boyd,F,NA,NA,1,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
-48,Tyler,Catour,M,Bettendorf,IA,1,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
-48,Michelle,Charvat,F,Moline,IL,1,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
-48,Katerina,Claiborne,F,Downers Grove,IL,1,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
-48,Zoe,Claiborne,F,Downers Grove,IL,1,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
-48,Amy,Durbin,F,Peoria,IL,1,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
-48,James,Kline,M,Bloomington,IL,1,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
-48,John,LaPayne,M,Edelstein,IL,1,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
-48,Jayne,Lourash,F,Peoria,IL,1,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
-48,Ashlee,McCarthy,F,Peoria,IL,1,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
-48,Isaiah,Olateru,M,Champaign,IL,1,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
-48,Samantha,Pacha,F,Davenport,IA,1,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
-48,Brittany,Piepenbrink,F,Bloomington,IL,1,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
-48,Chelsea,Piepenbrink,F,Normal,IL,1,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
-48,Marcus,Rubley,M,Davenport,IA,1,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
-48,Amanda,Smallberger,F,NA,NA,1,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
-48,Adam,Sterusky,M,Peoria,IL,1,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
-48,Erika,Sterusky,F,Chicago,IL,1,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
-48,Simon,Svirnovskiy,M,Chicago,IL,1,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
-48,Katie,Thompson,F,East Peoria,IL,1,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
-48,Mike,Tomlin,M,Sparland,IL,1,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
-48,Lori,Vietti,F,Chillicothe,IL,1,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
-48,Sarah,Wales,F,Bloomington,IL,1,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
-48,Sabrina,Weislak,F,Bloomington,IL,1,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
-48,Julie,Wood,F,Bloomington,IL,1,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
-48,Eileen,Zopel,F,Dunlap,IL,1,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
-48,Cathy,Zwink,F,Dunlap,IL,1,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+Rank,First,Last,Gender,City,State,Finishes,Total Miles,2026,2025,2024,2023,2022,2021,2019,2018,2017,2016,2015
+1,Jeffrey,Lenard,M,Johnsburg,IL,6,524,NA,NA,NA,NA,62,100,100,100,62,100,NA
+2,Rachel,Burke,F,Chicago,IL,3,300,NA,100,NA,100,100,NA,NA,NA,NA,NA,NA
+2,Scott,Slightom,M,El Paso,IL,3,300,NA,NA,NA,NA,100,100,100,NA,NA,NA,NA
+3,Matt,Hajny,M,Washington,IL,7,281,NA,100,NA,NA,NA,62,31,13,31,31,13
+4,Nathan,Pritzker,M,Morton,IL,5,279,NA,62,NA,62,62,62,NA,31,NA,NA,NA
+5,David,Failing,M,Flagstaff,AZ,4,262,NA,NA,NA,NA,31,100,NA,100,31,NA,NA
+6,Rob,Judd,M,Bloomington,IL,5,237,NA,13,62,NA,31,100,NA,NA,31,NA,NA
+7,Paul,Wilkerson,M,Metamora,IL,3,212,NA,NA,NA,NA,NA,NA,NA,62,100,NA,50
+8,Matt,Condron,M,Libertyville,IL,2,200,NA,NA,100,NA,100,NA,NA,NA,NA,NA,NA
+8,Kathy,Errthum,F,La Crosse,WI,2,200,NA,NA,NA,NA,NA,100,100,NA,NA,NA,NA
+8,Andy,Newman,M,Wheaton,IL,2,200,NA,NA,100,NA,100,NA,NA,NA,NA,NA,NA
+8,Richard,Plezia,M,Morton Grove,IL,2,200,NA,NA,NA,NA,NA,100,NA,100,NA,NA,NA
+8,James,Solomon,M,Villa Park,IL,2,200,NA,NA,NA,NA,100,100,NA,NA,NA,NA,NA
+9,Keith,Aurand,M,Dixon,IL,8,195,NA,13,13,31,13,NA,31,31,13,NA,50
+10,Travis,Swanson,M,Cambridge,IL,3,193,NA,100,31,62,NA,NA,NA,NA,NA,NA,NA
+11,Jerry,Stadnik,M,Normal,IL,7,164,NA,NA,NA,31,13,13,NA,13,13,31,50
+12,Racine,Lambert-Cwerenz,F,Glendale Heights,IL,6,163,NA,13,13,13,NA,31,31,NA,62,NA,NA
+13,Eric,Bloomquist,M,Lake In The Hills,IL,2,162,NA,NA,NA,62,NA,NA,NA,NA,NA,100,NA
+13,Michelle,Burton,F,Carrollton,TX,2,162,NA,NA,NA,NA,NA,100,NA,62,NA,NA,NA
+13,David,Hanna,M,Marquette Heights,IL,2,162,NA,NA,NA,NA,NA,NA,62,100,NA,NA,NA
+13,Chad,Hazelwood,M,Pekin,IL,2,162,NA,NA,NA,62,NA,NA,NA,NA,NA,100,NA
+13,Dirk,Jaegle,M,Peoria,IL,2,162,NA,NA,NA,NA,NA,100,62,NA,NA,NA,NA
+13,Jimmy,Jones,M,Chicago,IL,3,162,31,NA,NA,NA,NA,100,NA,31,NA,NA,NA
+13,Morgan,Mader,F,Villa Park,IL,2,162,NA,NA,NA,NA,100,62,NA,NA,NA,NA,NA
+13,Dave,Pettett,M,East Peoria,IL,2,162,NA,100,62,NA,NA,NA,NA,NA,NA,NA,NA
+14,Jennifer,Doias,F,Eureka,MO,3,155,NA,NA,NA,NA,NA,NA,31,62,62,NA,NA
+14,Tommy,Doias,M,Eureka,MO,3,155,NA,NA,NA,NA,NA,NA,31,62,62,NA,NA
+14,Steve,Hammann,M,Muscatine,IA,5,155,31,NA,31,NA,NA,NA,31,31,31,NA,NA
+15,William,McFeeters,M,Pekin,IL,2,150,NA,NA,NA,NA,NA,NA,NA,NA,NA,100,50
+15,Jim,Stanley,M,Chillicothe,IL,4,150,NA,13,62,13,NA,62,NA,NA,NA,NA,NA
+16,Caroline,Tonozzi,F,Savoy,IL,5,137,31,NA,NA,13,31,31,31,NA,NA,NA,NA
+17,Tara,Mayner,F,Bloomington,IL,6,132,NA,13,31,13,NA,31,31,13,NA,NA,NA
+17,Garris,Radloff,M,East Peoria,IL,6,132,31,NA,NA,NA,NA,31,31,13,13,13,NA
+18,Tiffany,Dore,F,Oswego,IL,2,131,NA,NA,NA,NA,NA,31,NA,NA,NA,100,NA
+18,Jeff,Goodmanson,M,Village of Lakewood,IL,2,131,31,NA,NA,NA,NA,100,NA,NA,NA,NA,NA
+18,Erin,Montgomery,F,Clinton,IL,2,131,NA,NA,31,NA,100,NA,NA,NA,NA,NA,NA
+19,Therese,Brink,F,Peoria,IL,7,127,NA,13,NA,NA,NA,13,31,13,13,31,13
+20,Alison,Ball,F,Champaign,IL,2,124,NA,NA,NA,62,62,NA,NA,NA,NA,NA,NA
+20,Mary,Hosbrough,F,Washington,IL,4,124,NA,NA,NA,NA,NA,31,NA,31,31,31,NA
+20,Richard,Mann,M,Urbana,IL,2,124,NA,62,NA,62,NA,NA,NA,NA,NA,NA,NA
+20,Jason,Midlock,M,Joliet,IL,2,124,NA,62,NA,NA,62,NA,NA,NA,NA,NA,NA
+20,Tryg,Tow,M,Peoria,IL,2,124,NA,NA,62,62,NA,NA,NA,NA,NA,NA,NA
+21,Mary,Leonard,F,Manhattan,IL,4,119,NA,13,13,NA,NA,62,NA,NA,31,NA,NA
+21,Justin,Stewart,M,Springfield,IL,4,119,NA,NA,NA,NA,62,31,NA,NA,13,NA,13
+22,Rachel,Beattie,M,Darien,IL,2,112,NA,NA,NA,NA,NA,NA,NA,NA,62,NA,50
+22,Michael,Glennon,M,Schaumburg,IL,2,112,NA,NA,NA,NA,62,NA,NA,NA,NA,NA,50
+22,Siamak,Mostoufi,M,Evanston,IL,3,112,31,NA,NA,NA,NA,NA,NA,NA,NA,31,50
+23,Julia,Carrell,F,Peoria,IL,6,107,NA,13,13,31,13,NA,NA,31,NA,6,NA
+24,Tanya,Giannotti,F,Normal,IL,4,106,NA,NA,NA,NA,NA,NA,31,31,31,NA,13
+24,Terry,Koser,M,Edelstein,IL,3,106,NA,NA,13,31,NA,NA,62,NA,NA,NA,NA
+24,Joey,Miller,M,Springfield,IL,3,106,NA,NA,NA,NA,13,NA,31,62,NA,NA,NA
+25,Lupe,Martinez,M,Peoria,IL,8,104,NA,NA,13,13,13,NA,13,13,13,13,13
+26,Anjanette,Arnold,F,Pine River,MN,1,100,NA,NA,NA,NA,NA,100,NA,NA,NA,NA,NA
+26,Cameron,Balser,M,Elwood,IN,1,100,NA,NA,NA,NA,NA,NA,100,NA,NA,NA,NA
+26,Andy,Bloom,M,Pekin,IL,1,100,NA,NA,100,NA,NA,NA,NA,NA,NA,NA,NA
+26,Marta,Borkowska,F,Chicago,IL,1,100,NA,NA,NA,NA,NA,100,NA,NA,NA,NA,NA
+26,Shawn,Brandon,M,Morton,IL,1,100,NA,NA,NA,NA,NA,NA,NA,NA,100,NA,NA
+26,Lee,Dalgety,M,NA,IL,1,100,NA,NA,NA,NA,NA,NA,100,NA,NA,NA,NA
+26,Lee,Dogery,M,NA,NA,1,100,NA,NA,NA,NA,NA,NA,NA,NA,NA,100,NA
+26,Susan,Donnelly,F,Oak Ridge,TN,1,100,NA,NA,NA,NA,NA,NA,NA,NA,100,NA,NA
+26,Matt,Dryden,M,Dunlap,IL,1,100,NA,NA,NA,100,NA,NA,NA,NA,NA,NA,NA
+26,Karen,Erba,F,Winona Lake,IN,1,100,NA,NA,NA,NA,NA,NA,NA,100,NA,NA,NA
+26,Jeffrey,Foes,M,Alton,MO,1,100,NA,NA,NA,NA,NA,NA,NA,NA,NA,100,NA
+26,Angela,Freedman,F,McFarland,WI,1,100,NA,NA,NA,NA,NA,100,NA,NA,NA,NA,NA
+26,Grace,Hawkins,F,Pekin,IL,1,100,NA,NA,NA,NA,NA,NA,100,NA,NA,NA,NA
+26,Daniel,Hopping,M,Canton,IL,1,100,NA,100,NA,NA,NA,NA,NA,NA,NA,NA,NA
+26,Christopher,Hurd,M,Whitefish,MT,1,100,NA,100,NA,NA,NA,NA,NA,NA,NA,NA,NA
+26,Adam,Kissinger,M,Grayslake,IL,1,100,NA,NA,NA,NA,NA,NA,100,NA,NA,NA,NA
+26,Diedra,Nass,F,Minneapolis,MN,1,100,NA,NA,NA,NA,100,NA,NA,NA,NA,NA,NA
+26,Kyle,Nordquist,M,Brookfield,IL,1,100,NA,NA,NA,NA,NA,100,NA,NA,NA,NA,NA
+26,Debra,Norman,F,Napoleon,MO,1,100,NA,NA,NA,NA,100,NA,NA,NA,NA,NA,NA
+26,Amy,Reau,F,Metamora,IL,1,100,NA,NA,100,NA,NA,NA,NA,NA,NA,NA,NA
+26,Mike,Smith,M,Santa,NM,1,100,NA,NA,NA,NA,NA,NA,NA,NA,NA,100,NA
+26,William,Smith,M,Urbana,IL,1,100,NA,NA,NA,NA,NA,NA,NA,100,NA,NA,NA
+26,John,Tiwet,M,Waukegan,IL,1,100,NA,NA,NA,NA,NA,NA,NA,NA,100,NA,NA
+26,Rob,Ulm,M,Charleston,IL,1,100,NA,NA,NA,NA,NA,NA,100,NA,NA,NA,NA
+26,Ben,Waller,M,Dunlap,IL,1,100,NA,100,NA,NA,NA,NA,NA,NA,NA,NA,NA
+26,Bradley,Wheeler,M,East Peoria,IL,1,100,NA,NA,NA,100,NA,NA,NA,NA,NA,NA,NA
+26,Daniel,Williams,M,Kankakee,IL,1,100,NA,NA,NA,NA,100,NA,NA,NA,NA,NA,NA
+26,Brandon,Winkelmann,M,Edwardsville,IL,1,100,NA,NA,NA,NA,NA,NA,NA,NA,100,NA,NA
+26,Tim,Yuska,M,Darien,IL,1,100,NA,100,NA,NA,NA,NA,NA,NA,NA,NA,NA
+27,Bryan,Himmel,M,Chicago,IL,6,96,31,NA,NA,NA,13,NA,13,13,13,13,NA
+28,Jim,Arnold,M,La Grange,IL,2,93,NA,NA,NA,NA,NA,62,NA,NA,31,NA,NA
+28,Ausra,Butkeviciute,F,Palatine,IL,3,93,NA,NA,31,NA,NA,NA,31,31,NA,NA,NA
+28,Carleen,Coulter,F,Frankfort,IL,3,93,31,NA,NA,NA,31,NA,NA,31,NA,NA,NA
+28,Jennifer,Jacobsen-Wood,F,Princeville,IL,3,93,NA,NA,NA,NA,NA,NA,NA,31,31,31,NA
+28,Karen,Johnson,F,Crystal Lake,IL,3,93,NA,NA,NA,NA,NA,31,NA,31,31,NA,NA
+28,Andrae,Marak,M,Chicago,IL,3,93,NA,NA,NA,31,NA,NA,NA,31,31,NA,NA
+28,Evan,McCrea,M,Tremont,IL,2,93,NA,NA,NA,NA,NA,62,NA,NA,31,NA,NA
+28,Chuck,Meyer,M,Delavan,IL,3,93,NA,NA,NA,NA,NA,NA,NA,31,31,31,NA
+28,Sean,Ryan,M,Sterling,IL,2,93,NA,NA,NA,NA,NA,NA,NA,NA,62,31,NA
+28,Karyn,Weber,F,Glen Carbon,IL,2,93,NA,NA,31,62,NA,NA,NA,NA,NA,NA,NA
+28,Rodney,Worden,M,Lake Villa,IL,2,93,NA,NA,NA,NA,NA,NA,31,62,NA,NA,NA
+29,Brian,Drendel,M,Genoa,IL,4,88,NA,NA,NA,13,NA,13,31,31,NA,NA,NA
+29,Mark,Francis,M,Crystal Lake,IL,4,88,NA,NA,NA,NA,NA,NA,13,31,13,31,NA
+29,Ted,Golden,M,Pekin,IL,4,88,NA,NA,31,NA,NA,31,NA,13,13,NA,NA
+29,Mike,Kelsey,M,Washington,IL,3,88,NA,NA,NA,NA,13,NA,NA,NA,62,13,NA
+30,Michael,Crane,M,Ankeny,IA,2,81,NA,NA,NA,NA,NA,NA,NA,NA,NA,31,50
+30,Becky,Gillen,F,Decatur,IL,2,81,NA,NA,NA,NA,NA,NA,NA,NA,NA,31,50
+30,Thomas,Rademacher,M,Kankakee,IL,2,81,NA,NA,NA,NA,NA,NA,NA,NA,NA,31,50
+30,Vince,Roberts,M,Evanston,IL,2,81,NA,NA,NA,NA,NA,NA,NA,31,NA,NA,50
+30,Andrew,Schafer,M,Mackinaw,IL,2,81,NA,NA,NA,NA,NA,NA,NA,NA,NA,31,50
+30,Brian,Smock,M,Round Lake Beach,IL,2,81,NA,NA,NA,NA,NA,NA,NA,NA,31,NA,50
+30,Steve,Traman,M,Cleveland,IL,2,81,NA,NA,NA,NA,NA,31,NA,NA,NA,NA,50
+31,Nancy,Sivertsen,F,Champaign,IL,6,78,NA,13,13,13,NA,NA,13,NA,13,13,NA
+32,Susan,Smock,F,Round Lake Beach,IL,3,75,NA,NA,NA,NA,NA,NA,NA,NA,31,31,13
+33,Tony,Cesario,M,New Lenox,IL,2,63,NA,NA,NA,NA,NA,NA,NA,13,NA,NA,50
+33,Leeann,Leaks,F,Decatur,IL,2,63,NA,NA,NA,NA,NA,NA,NA,NA,NA,13,50
+34,John,Alcantara,M,Chicago,IL,1,62,NA,NA,62,NA,NA,NA,NA,NA,NA,NA,NA
+34,Shannon,Brandl,F,Montgomery,IL,1,62,NA,NA,NA,NA,NA,NA,NA,NA,62,NA,NA
+34,Magdalena,Casper-Shipp,F,Urbana,IL,1,62,NA,NA,NA,NA,NA,NA,NA,62,NA,NA,NA
+34,Naomi,Copeland,F,Naperville,IL,2,62,31,NA,NA,NA,31,NA,NA,NA,NA,NA,NA
+34,Cat,Delheimer,F,Cornell,IL,1,62,NA,NA,NA,62,NA,NA,NA,NA,NA,NA,NA
+34,Michael,Drazer,M,Porter,IN,1,62,NA,NA,NA,NA,NA,62,NA,NA,NA,NA,NA
+34,Jeramy,Duffee,M,Moline,IL,2,62,NA,NA,NA,NA,NA,31,NA,31,NA,NA,NA
+34,Pearce,Durst,M,Naperville,IL,1,62,NA,NA,NA,NA,NA,62,NA,NA,NA,NA,NA
+34,Von,Fagan,M,Chicago,IL,2,62,NA,NA,NA,NA,NA,NA,NA,31,NA,31,NA
+34,Jeffrey,Fleitz,M,Chicago,IL,1,62,NA,NA,NA,NA,NA,62,NA,NA,NA,NA,NA
+34,Jordan,Garris,F,Cincinnati,OH,1,62,NA,NA,NA,NA,NA,NA,NA,62,NA,NA,NA
+34,Brad,Gorski,M,Belvidere,IL,2,62,NA,NA,NA,NA,NA,NA,NA,31,31,NA,NA
+34,Jake,Grossbauer,M,Dittmer,MO,2,62,NA,NA,NA,31,NA,31,NA,NA,NA,NA,NA
+34,Renee,Guynn,F,Champaign,IL,1,62,NA,NA,NA,NA,NA,NA,NA,NA,62,NA,NA
+34,Michael,Hammond,M,Canton,IL,2,62,NA,NA,31,31,NA,NA,NA,NA,NA,NA,NA
+34,Rhonda,Hampton,F,Wake Forest,NC,1,62,NA,NA,NA,NA,NA,NA,NA,NA,62,NA,NA
+34,Frank,Hardy,M,Marquette Heights,IL,2,62,NA,NA,NA,31,NA,31,NA,NA,NA,NA,NA
+34,Sandra,Hehn,F,Goderich,ON,1,62,NA,62,NA,NA,NA,NA,NA,NA,NA,NA,NA
+34,Andrew,Hocking,M,Springfield,IL,1,62,NA,NA,NA,NA,62,NA,NA,NA,NA,NA,NA
+34,Mike,Hoefer,M,Rock Falls,IL,1,62,NA,NA,NA,62,NA,NA,NA,NA,NA,NA,NA
+34,Lee,Hosbrough,M,Washington,IL,2,62,NA,NA,NA,NA,NA,31,NA,31,NA,NA,NA
+34,Justin,Johnson,M,East Peoria,IL,1,62,NA,62,NA,NA,NA,NA,NA,NA,NA,NA,NA
+34,Jeff,Joos,M,Washington,IL,1,62,NA,NA,NA,62,NA,NA,NA,NA,NA,NA,NA
+34,Kent,Karloski,M,Carpentersville,IL,1,62,NA,NA,NA,NA,NA,NA,NA,62,NA,NA,NA
+34,Mark,Kirkland,M,Urbana,IL,1,62,NA,NA,NA,NA,62,NA,NA,NA,NA,NA,NA
+34,Randy,Knight,M,Fulton,IL,2,62,NA,NA,NA,NA,NA,NA,NA,31,31,NA,NA
+34,Shalini,Kovach,F,Ballwin,MO,1,62,NA,NA,NA,NA,NA,NA,NA,62,NA,NA,NA
+34,Arizona,Lagousakos,F,Chicago,IL,2,62,NA,NA,NA,NA,31,NA,NA,31,NA,NA,NA
+34,John,Larson,M,Divernon,IL,1,62,NA,NA,NA,62,NA,NA,NA,NA,NA,NA,NA
+34,Timothy,Leichtenberg,M,Pekin,IL,2,62,NA,NA,NA,NA,NA,NA,NA,31,31,NA,NA
+34,Jean,Lenard,F,McHenry,IL,2,62,NA,NA,NA,NA,NA,NA,NA,31,31,NA,NA
+34,Adrianne,Lieber,F,Huntley,IL,1,62,NA,NA,NA,NA,NA,62,NA,NA,NA,NA,NA
+34,Thomas,Lieber,M,Huntley,IL,1,62,NA,NA,NA,NA,NA,62,NA,NA,NA,NA,NA
+34,Holly,Lindroth,F,Chicago,IL,1,62,NA,NA,NA,NA,NA,NA,NA,62,NA,NA,NA
+34,Alan,Lopez,M,North Aurora,IL,1,62,NA,62,NA,NA,NA,NA,NA,NA,NA,NA,NA
+34,Wladyslaw,Maciej,M,Franklin Park,IL,1,62,NA,NA,NA,NA,NA,62,NA,NA,NA,NA,NA
+34,Lily,Medina,F,Oglesby,IL,1,62,NA,NA,NA,62,NA,NA,NA,NA,NA,NA,NA
+34,Naomi,Morimoto,F,Chicago,IL,1,62,NA,NA,62,NA,NA,NA,NA,NA,NA,NA,NA
+34,Jacob,Muth,M,Chicago,IL,1,62,NA,NA,62,NA,NA,NA,NA,NA,NA,NA,NA
+34,Matthew,Newton,M,Chicago,IL,1,62,NA,NA,NA,62,NA,NA,NA,NA,NA,NA,NA
+34,Madalyn,O'Shaugnessy,F,Pekin,IL,1,62,NA,NA,NA,NA,NA,NA,NA,NA,62,NA,NA
+34,SarahJeanne,Olson,F,Canton,IL,2,62,NA,NA,NA,NA,NA,NA,31,NA,NA,31,NA
+34,Brian,Parker,M,Sun Prairie,WI,1,62,NA,NA,62,NA,NA,NA,NA,NA,NA,NA,NA
+34,Shawn,Peterson,F,Fort Wayne,IN,2,62,NA,NA,NA,NA,NA,NA,NA,NA,31,31,NA
+34,Sarka,Petrickova,F,Urbana,IL,1,62,NA,NA,NA,NA,NA,NA,NA,62,NA,NA,NA
+34,Dayton,Rabe,M,Fairbury,IL,1,62,NA,NA,NA,62,NA,NA,NA,NA,NA,NA,NA
+34,Jay,Randle,M,Crystal Lake,IL,1,62,NA,62,NA,NA,NA,NA,NA,NA,NA,NA,NA
+34,Rachel,Reyes,F,Joliet,IL,1,62,NA,NA,NA,NA,62,NA,NA,NA,NA,NA,NA
+34,Sophie,Russell,F,Morton,IL,2,62,NA,NA,31,NA,NA,31,NA,NA,NA,NA,NA
+34,David,Secord,M,Chicago,IL,2,62,NA,NA,NA,31,NA,31,NA,NA,NA,NA,NA
+34,Amanda,Smith,F,Chicago,IL,1,62,NA,NA,NA,NA,NA,NA,NA,62,NA,NA,NA
+34,Andrew,Steelman,M,Champaign,IL,1,62,NA,62,NA,NA,NA,NA,NA,NA,NA,NA,NA
+34,Greg,Sturdy,M,Roscoe,IL,1,62,NA,NA,NA,NA,62,NA,NA,NA,NA,NA,NA
+34,Latoya,Swartz,F,Evergreen Park,IL,1,62,NA,NA,NA,NA,NA,62,NA,NA,NA,NA,NA
+34,Nathan,Turner,M,Clemons,NC,1,62,NA,62,NA,NA,NA,NA,NA,NA,NA,NA,NA
+34,Heather,Vree,F,Chicago,IL,1,62,NA,NA,NA,NA,NA,NA,NA,62,NA,NA,NA
+34,Brenda,Worrell,F,Warsaw,IN,1,62,NA,NA,NA,62,NA,NA,NA,NA,NA,NA,NA
+34,James,Wright,M,Machesney Park,IL,1,62,NA,NA,NA,NA,NA,NA,NA,62,NA,NA,NA
+35,Daniela,Harrison,F,Princeville,IL,3,57,NA,13,NA,31,NA,13,NA,NA,NA,NA,NA
+35,Jesse,Mendoza,M,Round Lake Beach,IL,3,57,NA,13,NA,NA,NA,13,NA,31,NA,NA,NA
+35,Ryan,Stadnik,M,Normal,IL,3,57,NA,NA,NA,31,13,13,NA,NA,NA,NA,NA
+35,Charity,Stanley,F,Chillicothe,IL,3,57,NA,13,31,13,NA,NA,NA,NA,NA,NA,NA
+35,Marlin,Weekley,M,Metamora,IL,3,57,NA,NA,13,31,13,NA,NA,NA,NA,NA,NA
+36,Christy,Dillard,F,Morton,IL,4,52,NA,NA,NA,NA,NA,13,NA,13,13,13,NA
+36,Troy,Pequette,M,Washington,IL,4,52,NA,13,13,NA,13,NA,NA,NA,NA,NA,13
+36,Katy,Reed,F,Streator,IL,4,52,NA,NA,NA,NA,NA,13,NA,13,NA,13,13
+36,Roland,Savoie,M,Peoria,IL,4,52,NA,NA,NA,NA,NA,13,13,13,13,NA,NA
+36,Brook,Stanbary,M,Putnam,IL,4,52,NA,13,NA,13,13,NA,NA,NA,NA,NA,13
+36,Tana,Utley,F,Washington,IL,4,52,NA,NA,NA,NA,NA,NA,13,13,13,13,NA
+37,Juli,Aistars,F,Lake Zurich,IL,1,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,50
+37,Heath,Brandon,M,Normal,IL,1,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,50
+37,Amy,Briggs,F,Chicago,IL,1,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,50
+37,David,Butler,M,Bettendorf,IA,1,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,50
+37,Jonathon,Crowley,M,Bloomington,IL,1,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,50
+37,Daniel,Dillon,M,Colona,IL,1,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,50
+37,James,Faford,M,Bradley,IL,1,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,50
+37,Trevor,Hallam,M,Milan,IL,1,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,50
+37,Sabina,Hlinenska,F,Peoria,IL,1,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,50
+37,Meghan,Kennihan,F,La Grange,IL,1,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,50
+37,Eddie,Lloyd,M,Bloomington,IL,1,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,50
+37,Dawny,Mace,F,Sterling,IL,1,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,50
+37,Eric,Skocaj,M,Pekin,IL,1,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,50
+37,Joshua,Sun,M,Davenport,IA,1,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,50
+37,Nicole,Swanson,F,Chicago,IL,1,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,50
+37,Bill,Thom,M,Chicago,IL,1,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,50
+37,Jason,Willits,M,Bettendorf,IA,1,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,50
+37,Tom,Wilson,M,Williamsfield,IL,1,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,50
+38,Mitchell,Hurst,M,Delavan,IL,4,45,NA,NA,NA,NA,NA,NA,13,13,13,6,NA
+39,Julie,Bane,F,Woodstock,IL,2,44,NA,NA,NA,NA,NA,NA,13,31,NA,NA,NA
+39,Chad,Barnes,M,Bartonville,IL,2,44,NA,NA,13,NA,NA,31,NA,NA,NA,NA,NA
+39,Vicki,Brassil,F,Homer Glen,IL,2,44,NA,NA,NA,NA,NA,NA,NA,13,31,NA,NA
+39,Brian,Doerfler,M,Brimfield,IL,2,44,NA,NA,NA,NA,NA,31,NA,13,NA,NA,NA
+39,Roberto,Enriquez,M,Chicago,IL,2,44,NA,NA,NA,NA,NA,31,13,NA,NA,NA,NA
+39,Jenny,Grow,F,Morton,IL,2,44,NA,NA,NA,NA,NA,NA,NA,NA,13,31,NA
+39,Christa,Hanna,F,Marquette Heights,IL,2,44,NA,NA,NA,NA,NA,NA,31,13,NA,NA,NA
+39,John,Havenga,M,West Peoria,IL,2,44,NA,NA,31,13,NA,NA,NA,NA,NA,NA,NA
+39,Giang,Lam,F,Champaign,IL,2,44,31,NA,NA,13,NA,NA,NA,NA,NA,NA,NA
+39,Kevin,Mathewson,M,Peoria,IL,2,44,NA,NA,NA,NA,NA,31,13,NA,NA,NA,NA
+39,Jessica,Maveus,F,Rockford,IL,2,44,NA,NA,NA,13,NA,NA,NA,31,NA,NA,NA
+39,Galinda,Miller,F,Lyndon,IL,2,44,NA,NA,NA,NA,NA,NA,NA,NA,31,NA,13
+39,Vincent,Moore,M,Springfield,IL,2,44,NA,NA,NA,NA,NA,31,13,NA,NA,NA,NA
+39,Mike,Siltman,M,Middletown,IL,2,44,NA,NA,NA,NA,NA,NA,NA,31,13,NA,NA
+39,Brian,Snyder,M,Morton,IL,2,44,NA,NA,NA,13,NA,NA,NA,31,NA,NA,NA
+39,Brenda,Van Horn,F,Sterling,IL,2,44,NA,13,31,NA,NA,NA,NA,NA,NA,NA,NA
+40,Tina,Bajic,F,Pekin,IL,3,39,NA,NA,NA,NA,NA,NA,13,13,13,NA,NA
+40,Kevin,Brucker,M,East Peoria,IL,3,39,NA,NA,NA,13,NA,13,NA,NA,13,NA,NA
+40,Max,Chapman,M,East Peoria,IL,3,39,NA,NA,NA,NA,NA,NA,NA,NA,13,13,13
+40,Tammy,Colver,F,Garden Prairie,IL,3,39,NA,NA,NA,13,NA,13,13,NA,NA,NA,NA
+40,Ben,Evans,M,Peoria,IL,3,39,NA,NA,13,NA,13,13,NA,NA,NA,NA,NA
+40,Sue,Francis,F,Crystal Lake,IL,3,39,NA,NA,NA,NA,NA,NA,13,13,13,NA,NA
+40,Brent,Hewitt,M,Peoria,IL,3,39,NA,NA,NA,NA,NA,NA,NA,NA,13,13,13
+40,Karianne,Kusner,F,Winnebago,IL,3,39,NA,13,NA,13,NA,13,NA,NA,NA,NA,NA
+40,Smitha,Rhodes,F,Chatham,IL,3,39,NA,13,13,NA,13,NA,NA,NA,NA,NA,NA
+40,Erich,Smith,M,Peoria,IL,3,39,NA,NA,NA,13,NA,13,NA,NA,NA,NA,13
+40,Kelly,Stark,F,Peoria,IL,3,39,NA,NA,NA,NA,NA,NA,13,13,13,NA,NA
+40,Scott,Thompson,M,Washington,IL,3,39,NA,NA,NA,NA,13,13,13,NA,NA,NA,NA
+40,Maurice,Wantiez,M,East Peoria,IL,3,39,NA,NA,NA,NA,NA,NA,13,13,13,NA,NA
+40,Stephen,Wrought,M,Chicago,IL,3,39,NA,NA,NA,NA,NA,NA,NA,13,13,13,NA
+41,Robyn,Konen,F,Dunlap,IL,3,32,NA,NA,NA,NA,NA,NA,NA,13,13,6,NA
+41,Jaime,McBride,F,Ankeny,IA,3,32,NA,NA,NA,NA,NA,NA,NA,NA,13,6,13
+42,Richard,Albanese,M,Antioch,IL,1,31,NA,NA,NA,NA,NA,NA,NA,31,NA,NA,NA
+42,Anthony,Avellino,M,Peoria,IL,1,31,NA,NA,NA,NA,NA,NA,NA,NA,NA,31,NA
+42,Todd,Baker,M,East Peoria,IL,1,31,NA,NA,NA,NA,31,NA,NA,NA,NA,NA,NA
+42,Elissa,Ballas,F,Downers Grove,IL,1,31,NA,NA,NA,NA,NA,NA,NA,NA,NA,31,NA
+42,Jill,Bell,F,Salem,WI,1,31,NA,NA,NA,NA,NA,NA,NA,NA,NA,31,NA
+42,Chris,Beveroth,M,Port Byron,IL,1,31,NA,NA,NA,31,NA,NA,NA,NA,NA,NA,NA
+42,Lyle,Block,M,East Peoria,IL,1,31,NA,NA,NA,NA,NA,31,NA,NA,NA,NA,NA
+42,Trish,Borboa,F,Springfield,IL,1,31,NA,NA,NA,NA,NA,NA,31,NA,NA,NA,NA
+42,Christine,Borgerding,F,McHenry,IL,1,31,NA,NA,NA,NA,NA,NA,NA,NA,NA,31,NA
+42,Jim,Briscoe,M,DeKalb,IL,1,31,NA,NA,NA,NA,NA,NA,NA,31,NA,NA,NA
+42,Rob,Brown,M,Brookfield,IL,1,31,NA,NA,NA,NA,NA,31,NA,NA,NA,NA,NA
+42,Todd,Brown,M,Skokie,IL,1,31,NA,NA,NA,NA,NA,NA,NA,NA,NA,31,NA
+42,Scott,Buchan,M,Northbrook,IL,1,31,NA,NA,31,NA,NA,NA,NA,NA,NA,NA,NA
+42,Corby,Burkett,M,Sterling,IL,1,31,NA,NA,NA,31,NA,NA,NA,NA,NA,NA,NA
+42,John,Buzansky,M,Jamison,PA,1,31,NA,NA,NA,NA,NA,NA,NA,NA,31,NA,NA
+42,Dennis,Cantrell,M,Coatesville,IN,1,31,NA,NA,NA,NA,NA,31,NA,NA,NA,NA,NA
+42,Siyan,Cao,M,Chesterfield,IL,1,31,NA,NA,NA,31,NA,NA,NA,NA,NA,NA,NA
+42,Tracy,Chaney,F,Peoria,IL,1,31,NA,NA,NA,NA,NA,31,NA,NA,NA,NA,NA
+42,Dianne,Cherry,F,Arcola,IL,1,31,31,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+42,Emily,Coltrin,F,Peoria,IL,1,31,NA,NA,NA,NA,NA,NA,NA,31,NA,NA,NA
+42,Cody,Comstock,M,Pekin,IL,1,31,NA,NA,NA,NA,NA,31,NA,NA,NA,NA,NA
+42,Nicole,Correnti,F,Rockford,IL,1,31,NA,NA,NA,NA,NA,NA,NA,31,NA,NA,NA
+42,Matt,Davis,M,Galesburg,IL,1,31,NA,NA,NA,NA,31,NA,NA,NA,NA,NA,NA
+42,Jennifer,DeSalvo,F,Chicago,IL,1,31,NA,NA,NA,NA,NA,NA,NA,NA,NA,31,NA
+42,Oscar,Delgado,M,Monee,IL,1,31,NA,NA,NA,NA,NA,NA,31,NA,NA,NA,NA
+42,Cathy,Derry,F,Canton,IL,1,31,NA,NA,NA,31,NA,NA,NA,NA,NA,NA,NA
+42,Zach,Dicken,M,Springfield,IL,1,31,NA,NA,31,NA,NA,NA,NA,NA,NA,NA,NA
+42,Zachery,Dicken,M,Springfield,IL,1,31,31,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+42,Chris,Dierker,M,Peoria,IL,1,31,NA,NA,NA,NA,NA,NA,NA,NA,NA,31,NA
+42,Mallory,Donini,F,Metamora,IL,1,31,31,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+42,Michael,Donini,M,Metamora,IL,1,31,31,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+42,Rachel,Dressler,F,Roscoe,IL,1,31,NA,NA,NA,NA,NA,NA,NA,31,NA,NA,NA
+42,Bobby,Duby,M,Millstadt,IL,1,31,NA,NA,NA,NA,NA,31,NA,NA,NA,NA,NA
+42,Shad,Edwards,M,Decatur,IL,1,31,NA,NA,NA,NA,NA,NA,NA,NA,NA,31,NA
+42,David,Ericson,M,Spaulding,IL,1,31,31,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+42,Apolonio,Esquivel,M,Plainfield,IL,1,31,NA,NA,NA,NA,NA,NA,NA,31,NA,NA,NA
+42,Bill,Fairfield,M,Hawthorn Woods,IL,1,31,NA,NA,NA,NA,NA,NA,NA,NA,NA,31,NA
+42,Michael,Farrington,M,Lindenhurst,IL,1,31,NA,NA,NA,NA,NA,NA,NA,31,NA,NA,NA
+42,Rich,Fela,M,Bloomington,IL,1,31,NA,NA,NA,NA,NA,31,NA,NA,NA,NA,NA
+42,Emily,Floess,F,Raleigh,NC,1,31,NA,NA,NA,NA,NA,31,NA,NA,NA,NA,NA
+42,Steve,Fredrickson,M,Genoa,IL,1,31,NA,NA,NA,NA,NA,NA,NA,31,NA,NA,NA
+42,Kathryn,Froehlich,F,Northbrook,IL,1,31,31,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+42,Kevin,Gann,M,Bloomington,IL,1,31,NA,NA,NA,NA,NA,NA,NA,31,NA,NA,NA
+42,Paul,Garcia,M,Evanston,IL,1,31,NA,NA,NA,NA,NA,NA,NA,31,NA,NA,NA
+42,Meghan,Garvin,F,Cary,IL,1,31,NA,NA,NA,NA,NA,31,NA,NA,NA,NA,NA
+42,Gonzalo,Gomez,M,Belvidere,IL,1,31,NA,NA,NA,NA,NA,NA,NA,NA,31,NA,NA
+42,Meredith,Goode,F,Plainfield,IL,1,31,NA,NA,NA,NA,NA,NA,31,NA,NA,NA,NA
+42,Ian,Gorley,M,Loveland,OH,1,31,NA,NA,NA,NA,NA,31,NA,NA,NA,NA,NA
+42,Kelli,Gorski,F,Belvidere,IL,1,31,NA,NA,NA,NA,NA,NA,NA,31,NA,NA,NA
+42,Joe,Gow,M,Huntley,IL,1,31,NA,NA,NA,NA,NA,31,NA,NA,NA,NA,NA
+42,Pat,Graves,F,Roscoe,IL,1,31,NA,NA,NA,NA,NA,NA,NA,31,NA,NA,NA
+42,Travis,Graves,M,Peoria,IL,1,31,NA,NA,NA,NA,NA,31,NA,NA,NA,NA,NA
+42,Riley,Green,M,Lock Haven,PA,1,31,NA,NA,NA,NA,NA,31,NA,NA,NA,NA,NA
+42,Larry,Hall,M,Chicago,IL,1,31,NA,NA,NA,NA,31,NA,NA,NA,NA,NA,NA
+42,Anthony,Hardin,M,Polo,IL,1,31,NA,NA,NA,NA,NA,NA,NA,31,NA,NA,NA
+42,Rachel,Head,F,El Paso,IL,1,31,NA,NA,NA,NA,NA,NA,NA,NA,NA,31,NA
+42,Angel,Heaver,F,Woodstock,IL,1,31,NA,NA,NA,NA,NA,31,NA,NA,NA,NA,NA
+42,Josh,Hedrick,M,Heyworth,IL,1,31,NA,NA,NA,NA,NA,31,NA,NA,NA,NA,NA
+42,Kate,Heid,F,Peoria,IL,1,31,NA,NA,NA,NA,NA,NA,NA,NA,31,NA,NA
+42,Maritza,Hernandez,F,Chicago,IL,1,31,NA,NA,31,NA,NA,NA,NA,NA,NA,NA,NA
+42,Tonie,Hockenbury,F,Jamison,PA,1,31,NA,NA,NA,NA,NA,NA,NA,NA,31,NA,NA
+42,Frank,Ingalls,M,Wichita Falls,TX,1,31,NA,NA,NA,NA,NA,NA,31,NA,NA,NA,NA
+42,Michael,Johnson,M,Elburn,IL,1,31,NA,NA,NA,NA,NA,NA,NA,NA,NA,31,NA
+42,Allison,Kallo,F,Chicago,IL,1,31,NA,NA,NA,NA,NA,NA,NA,NA,31,NA,NA
+42,Joseph,Kallo,M,Chicago,IL,1,31,NA,NA,NA,NA,NA,NA,NA,NA,31,NA,NA
+42,Ronnie,Katz,M,Indianapolis,IN,1,31,NA,NA,NA,NA,NA,31,NA,NA,NA,NA,NA
+42,Alicia,Kellogg,F,Polo,IL,1,31,31,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+42,Ryan,Kelly,M,St. Charles,MO,1,31,NA,NA,NA,NA,NA,NA,31,NA,NA,NA,NA
+42,Matthias,Kemmeren,M,Dixon,IL,1,31,NA,NA,31,NA,NA,NA,NA,NA,NA,NA,NA
+42,Kevin,Kerian,M,Edmonton,AB,1,31,NA,NA,NA,NA,NA,NA,31,NA,NA,NA,NA
+42,Jordan,Kiefer,M,NA,NA,1,31,NA,NA,NA,NA,NA,NA,NA,NA,31,NA,NA
+42,Christian,Kilby,M,Mackinaw,IL,1,31,NA,NA,NA,NA,NA,31,NA,NA,NA,NA,NA
+42,Alex,Kuhn,M,Urbana,IL,1,31,NA,NA,NA,NA,NA,NA,NA,NA,31,NA,NA
+42,Trisha,Kurtz,F,Chicago,IL,1,31,31,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+42,Becky,Leahy,F,Janesville,WI,1,31,NA,NA,NA,NA,NA,NA,NA,31,NA,NA,NA
+42,Kate,Lipovsky,F,St. Louis,MO,1,31,NA,NA,NA,NA,NA,NA,NA,31,NA,NA,NA
+42,Linda,Lopez,F,Chicago,IL,1,31,NA,NA,NA,NA,NA,NA,NA,31,NA,NA,NA
+42,Nick,Marienthal,M,Roscoe,IL,1,31,NA,NA,NA,NA,NA,NA,NA,31,NA,NA,NA
+42,Jerome,Maushard,M,Peoria,IL,1,31,31,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+42,Madeline,Maushard,F,Peoria,IL,1,31,31,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+42,Trina,McCarty,F,Bloomington,IL,1,31,NA,NA,NA,NA,NA,NA,NA,NA,NA,31,NA
+42,Taryne,McCrea,F,Tremont,IL,1,31,NA,NA,NA,NA,NA,NA,31,NA,NA,NA,NA
+42,Robert,McCrory,M,Dixon,IL,1,31,NA,NA,NA,NA,NA,31,NA,NA,NA,NA,NA
+42,Aron,McDonald,M,Peoria,IL,1,31,NA,NA,NA,NA,31,NA,NA,NA,NA,NA,NA
+42,Todd,McMillion,M,Dixon,IL,1,31,NA,NA,NA,NA,NA,NA,NA,NA,31,NA,NA
+42,Jess,Mellican,F,Washington,IL,1,31,31,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+42,Mark,Mitchell,M,Chicago,IL,1,31,NA,NA,NA,NA,NA,NA,31,NA,NA,NA,NA
+42,Oscar,Molina,M,Chicago,IL,1,31,NA,NA,NA,NA,NA,31,NA,NA,NA,NA,NA
+42,Angella,Moorehouse,F,Warsaw,IL,1,31,NA,NA,NA,NA,NA,NA,31,NA,NA,NA,NA
+42,Patrick,Morris,M,Grayslake,IL,1,31,NA,NA,NA,NA,NA,NA,NA,NA,NA,31,NA
+42,Neal,Murphy,M,Normal,IL,1,31,NA,NA,NA,NA,NA,31,NA,NA,NA,NA,NA
+42,Neil,Nicholson,M,Aurora,IL,1,31,NA,NA,NA,NA,NA,31,NA,NA,NA,NA,NA
+42,Yvonne,Oldaker,F,Homewood,IL,1,31,NA,NA,NA,NA,NA,NA,NA,NA,31,NA,NA
+42,TracyJo,Pasieka,F,Saint Louis,MO,1,31,NA,NA,NA,NA,NA,NA,NA,NA,NA,31,NA
+42,Brandi,Payne,F,Peoria,IL,1,31,NA,NA,NA,NA,NA,31,NA,NA,NA,NA,NA
+42,Michele,Perkins,F,Crestwood,IL,1,31,31,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+42,Kirsten,Pieper,F,Blackstone,IL,1,31,NA,NA,NA,NA,NA,NA,NA,NA,NA,31,NA
+42,Christian,Pukala,M,NA,NA,1,31,NA,NA,NA,NA,NA,NA,NA,NA,NA,31,NA
+42,Clark,Purnell,M,Moline,IL,1,31,NA,NA,NA,NA,31,NA,NA,NA,NA,NA,NA
+42,Bren,Raschke,M,Moline,IL,1,31,NA,NA,NA,NA,31,NA,NA,NA,NA,NA,NA
+42,Michael,Reece,M,Bloomington,IL,1,31,NA,NA,NA,NA,NA,NA,NA,NA,NA,31,NA
+42,Jeff,Reynolds,M,Tremont,IL,1,31,NA,NA,NA,NA,NA,31,NA,NA,NA,NA,NA
+42,Austin,Rhodes,M,Canon,IL,1,31,31,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+42,Dawn,Shay,F,Pontiac,IL,1,31,NA,NA,31,NA,NA,NA,NA,NA,NA,NA,NA
+42,Paul,Shimondle,M,South Beloit,IL,1,31,NA,NA,NA,NA,NA,NA,NA,NA,31,NA,NA
+42,Blake,Sieben,M,Morton,IL,1,31,31,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+42,Chris,Silva,M,NA,NA,1,31,NA,NA,NA,NA,NA,NA,NA,NA,31,NA,NA
+42,Andrea,Simeone,F,Athens,IL,1,31,NA,NA,NA,NA,NA,NA,NA,NA,31,NA,NA
+42,Todd,Simeone,M,Normal,IL,1,31,NA,NA,NA,NA,NA,NA,NA,NA,31,NA,NA
+42,Gary,Skowronek,M,Palos Park,IL,1,31,NA,NA,NA,NA,NA,NA,NA,31,NA,NA,NA
+42,Maggie,Smock,F,Round Lake Beach,IL,1,31,NA,NA,NA,NA,NA,NA,NA,NA,31,NA,NA
+42,Adrian,Snyder,M,Noblesville,IN,1,31,NA,NA,NA,NA,NA,NA,NA,31,NA,NA,NA
+42,Darren,Sorgenfrei,M,Portage,MI,1,31,NA,NA,NA,NA,NA,NA,NA,NA,NA,31,NA
+42,Gladys,Spencer,F,Perrysville,IN,1,31,31,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+42,Jim,Street,M,Blackstone,IL,1,31,NA,NA,NA,NA,NA,NA,NA,NA,NA,31,NA
+42,Brock,Stuessi,M,Chicago,IL,1,31,NA,NA,NA,NA,NA,NA,NA,31,NA,NA,NA
+42,Amy,Szumny,F,Elburn,IL,1,31,NA,NA,NA,NA,NA,NA,NA,NA,NA,31,NA
+42,Dewaynne,Tackett,M,Milroy,IN,1,31,NA,NA,NA,NA,NA,NA,NA,31,NA,NA,NA
+42,Jeff,Tavernor,M,Girard,IL,1,31,31,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+42,Jake,Taylor,M,Bettendorf,IA,1,31,NA,NA,NA,NA,NA,NA,NA,31,NA,NA,NA
+42,Jim,Taylor,M,Glen Carbon,IL,1,31,NA,NA,NA,31,NA,NA,NA,NA,NA,NA,NA
+42,Gregory,Thompson,M,St Charles,IL,1,31,NA,NA,NA,NA,NA,NA,NA,31,NA,NA,NA
+42,Jenny,Thorsen,F,NA,NA,1,31,NA,NA,NA,NA,NA,NA,NA,NA,NA,31,NA
+42,Candace,Tresnak,F,Roanoke,IL,1,31,NA,NA,NA,NA,31,NA,NA,NA,NA,NA,NA
+42,John,Tudhope,M,St louis,MO,1,31,31,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+42,Martha,Walker,F,Algonquin,IL,1,31,NA,NA,NA,NA,NA,NA,NA,31,NA,NA,NA
+42,Lisa,Wenderoth,F,Chicago,IL,1,31,NA,NA,NA,NA,NA,NA,NA,31,NA,NA,NA
+42,BJ,Wiedman,M,Morton,IL,1,31,NA,NA,NA,NA,NA,NA,NA,31,NA,NA,NA
+42,Kurt,Wysock,M,Chicago,IL,1,31,NA,NA,NA,NA,NA,NA,NA,31,NA,NA,NA
+43,James,Booth,M,Peoria,IL,2,26,NA,NA,NA,13,NA,NA,NA,NA,13,NA,NA
+43,Vivian,Briscoe,F,DeKalb,IL,2,26,NA,NA,NA,NA,NA,NA,NA,13,13,NA,NA
+43,Connie,Canterbury,F,East Peoria,IL,2,26,NA,NA,NA,NA,NA,NA,13,13,NA,NA,NA
+43,Ben,Cantrell,M,Chillicothe,IL,2,26,NA,NA,13,NA,NA,NA,13,NA,NA,NA,NA
+43,Debi,Fanning,F,East Peoria,IL,2,26,NA,NA,NA,NA,NA,NA,NA,13,13,NA,NA
+43,Norman,Heiser,M,Princeville,IL,2,26,NA,NA,NA,NA,13,13,NA,NA,NA,NA,NA
+43,Hannah,Johnson,F,Morton,IL,2,26,NA,NA,NA,NA,NA,13,NA,13,NA,NA,NA
+43,Marc,Maxwell,M,Sterling,IL,2,26,NA,13,NA,NA,NA,NA,NA,NA,13,NA,NA
+43,Mike,McGraw,M,Washington,IL,2,26,NA,NA,NA,NA,NA,NA,NA,NA,13,13,NA
+43,Valerie,Moore,F,Springfield,IL,2,26,NA,NA,NA,NA,13,NA,13,NA,NA,NA,NA
+43,Lindsay,Oriold,F,Normal,IL,2,26,NA,NA,NA,NA,NA,NA,NA,13,13,NA,NA
+43,Suzanne,Rogers,F,Bloomington,IL,2,26,NA,NA,NA,NA,NA,NA,NA,NA,NA,13,13
+43,Robin,Sampliner,F,Deerfield,IL,2,26,NA,NA,NA,NA,13,13,NA,NA,NA,NA,NA
+43,Laura,Schoenbeck,F,Washington,IL,2,26,NA,NA,NA,NA,NA,NA,NA,NA,NA,13,13
+43,Bradley,Slott,M,West Peoria,IL,2,26,NA,13,13,NA,NA,NA,NA,NA,NA,NA,NA
+43,Scott,Sokolowski,M,Washington,IL,2,26,NA,NA,NA,NA,NA,NA,13,13,NA,NA,NA
+43,Mary,Stanbary,F,Putnam,IL,2,26,NA,13,NA,NA,13,NA,NA,NA,NA,NA,NA
+43,Juliann,Stedwill,F,Dunlap,IL,2,26,NA,NA,NA,NA,NA,NA,13,NA,NA,13,NA
+43,Maria,Stedwill,F,Dunlap,IL,2,26,NA,NA,NA,NA,NA,NA,13,NA,13,NA,NA
+43,Tim,Teel,M,Elmwood,IL,2,26,NA,NA,NA,NA,NA,NA,NA,13,NA,NA,13
+43,James,Thompson,M,East Peoria,IL,2,26,NA,NA,NA,NA,NA,NA,NA,13,13,NA,NA
+43,Jon,Valuck,M,Springfield,IL,2,26,NA,NA,13,13,NA,NA,NA,NA,NA,NA,NA
+43,Seth,Van Heukelom,M,Washington,IL,2,26,NA,NA,NA,NA,NA,NA,NA,NA,13,13,NA
+43,Hondo,Vasquez,M,Normal,IL,2,26,NA,NA,NA,NA,NA,NA,NA,NA,NA,13,13
+43,Evan,Zdunek,M,Peoria,IL,2,26,NA,NA,NA,NA,NA,NA,NA,NA,13,NA,13
+44,Clarice,Chick,F,Pekin,IL,2,19,NA,NA,NA,NA,NA,NA,NA,13,NA,6,NA
+44,Amber,Francis,F,Crystal Lake,IL,2,19,NA,NA,NA,NA,NA,NA,NA,13,NA,6,NA
+44,Christy,Habel,F,Pekin,IL,2,19,NA,NA,NA,NA,NA,NA,NA,13,NA,6,NA
+45,Amber,Little,F,Hanna City,IL,2,18,NA,NA,NA,NA,NA,NA,NA,NA,13,NA,5
+46,Peter,Ahart,M,Lincoln,IL,1,13,NA,NA,NA,NA,13,NA,NA,NA,NA,NA,NA
+46,Ila,Allen,F,NA,NA,1,13,NA,NA,NA,NA,NA,NA,NA,NA,13,NA,NA
+46,Tiffany,Anderson,F,Coal Valley,IL,1,13,NA,NA,NA,NA,13,NA,NA,NA,NA,NA,NA
+46,Marysue,Baker,F,NA,IL,1,13,NA,NA,NA,NA,NA,NA,13,NA,NA,NA,NA
+46,Katrina,Baltes,F,Yorkville,IL,1,13,NA,NA,NA,13,NA,NA,NA,NA,NA,NA,NA
+46,Rich,Beal,M,Bloomington,IL,1,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,13
+46,Heather,Benjamin,F,Westmont,IL,1,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,13
+46,Nick,Bergerhouse,M,NA,IL,1,13,NA,NA,NA,NA,NA,NA,13,NA,NA,NA,NA
+46,Mary,Bergren,F,Kewanee,IL,1,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,13,NA
+46,Adam,Bernardi,M,Chillicothe,IL,1,13,NA,NA,NA,NA,NA,NA,NA,13,NA,NA,NA
+46,Alex,Bernardi,M,Dunlap,IL,1,13,NA,13,NA,NA,NA,NA,NA,NA,NA,NA,NA
+46,Dan,Blascyk,M,NA,NA,1,13,NA,NA,NA,NA,NA,NA,NA,NA,13,NA,NA
+46,Karey,Blascyk,F,NA,NA,1,13,NA,NA,NA,NA,NA,NA,NA,NA,13,NA,NA
+46,Kristy,Boggs,F,Table Grove,IL,1,13,NA,13,NA,NA,NA,NA,NA,NA,NA,NA,NA
+46,Shannon,Bollinger,M,Davis Junction,IL,1,13,NA,NA,NA,13,NA,NA,NA,NA,NA,NA,NA
+46,Mark,Bowman,M,Joliet,IL,1,13,NA,NA,NA,NA,NA,NA,NA,13,NA,NA,NA
+46,Chris,Braun,M,Madison,WI,1,13,NA,NA,13,NA,NA,NA,NA,NA,NA,NA,NA
+46,Rich,Breaux,M,Dahinda,IL,1,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,13
+46,Jonathon,Brooks,M,Granite City,IL,1,13,NA,NA,NA,13,NA,NA,NA,NA,NA,NA,NA
+46,Wayne,Bryan,M,Kewanee,IL,1,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,13,NA
+46,Gwen,Burrows,F,Decatur,IL,1,13,NA,NA,NA,13,NA,NA,NA,NA,NA,NA,NA
+46,Sherry,Cammack,F,Joliet,IL,1,13,NA,NA,NA,NA,NA,NA,13,NA,NA,NA,NA
+46,Jane,Chapman,F,East Peoria,IL,1,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,13
+46,Liam,Clague,M,Naperville,IL,1,13,NA,NA,NA,NA,NA,13,NA,NA,NA,NA,NA
+46,Pete,Cleary,M,NA,IL,1,13,NA,NA,NA,NA,NA,NA,13,NA,NA,NA,NA
+46,Tony,Colvin,M,NA,IL,1,13,NA,NA,NA,NA,NA,NA,13,NA,NA,NA,NA
+46,Andrea,Copeland,F,Peoria,IL,1,13,NA,NA,NA,NA,NA,13,NA,NA,NA,NA,NA
+46,Sebastien,Coquoz,M,Dunlap,IL,1,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,13
+46,Shayne,Croke,M,Lisle,IL,1,13,NA,13,NA,NA,NA,NA,NA,NA,NA,NA,NA
+46,Connie,Crowl,F,Galesburg,IL,1,13,NA,NA,NA,NA,NA,NA,NA,13,NA,NA,NA
+46,Greg,DeKeyser,M,Eureka,IL,1,13,NA,NA,NA,NA,NA,NA,NA,13,NA,NA,NA
+46,Marc,Dean,M,Pekin,IL,1,13,NA,NA,13,NA,NA,NA,NA,NA,NA,NA,NA
+46,Jaime,Delgado,M,Chicago,IL,1,13,NA,NA,NA,NA,NA,NA,13,NA,NA,NA,NA
+46,Lawrence,Dolan,M,Morton,IL,1,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,13
+46,Alyssa,Durst,F,Naperville,IL,1,13,NA,NA,NA,NA,NA,13,NA,NA,NA,NA,NA
+46,Liz,Engstrom,F,Sterling,IL,1,13,NA,NA,NA,NA,13,NA,NA,NA,NA,NA,NA
+46,Alicia,Erickson,F,Lombard,IL,1,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,13
+46,Francisco,Espinoza,M,Oak Lawn,IL,1,13,NA,13,NA,NA,NA,NA,NA,NA,NA,NA,NA
+46,Bret,Fahnstrom,M,Chicago,IL,1,13,NA,NA,NA,NA,NA,NA,NA,NA,13,NA,NA
+46,Karen,Flaherty,F,Peoria,IL,1,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,13,NA
+46,Igor,Francis-Buller,M,Peoria Heights,IL,1,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,13
+46,Angela,Freeman,F,Minooka,IL,1,13,NA,NA,13,NA,NA,NA,NA,NA,NA,NA,NA
+46,Rebecca,Frianks,F,NA,NA,1,13,NA,NA,NA,NA,NA,NA,NA,NA,13,NA,NA
+46,Brittany,Fritch,F,Orion,IL,1,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,13
+46,Angela,Funk,F,Armington,IL,1,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,13
+46,Grant,Garner,M,Dunlap,IL,1,13,NA,NA,NA,NA,NA,NA,NA,NA,13,NA,NA
+46,Matt,Gaw,M,Peoria Heights,IL,1,13,NA,NA,NA,NA,NA,NA,NA,NA,13,NA,NA
+46,Laura,Gioannini,F,Dunlap,IL,1,13,NA,NA,NA,NA,NA,NA,NA,NA,13,NA,NA
+46,Angie,Goode,F,Decatur,IL,1,13,NA,NA,NA,13,NA,NA,NA,NA,NA,NA,NA
+46,Justin,Gore,M,Mapleton,IL,1,13,NA,NA,NA,NA,NA,NA,NA,13,NA,NA,NA
+46,Michael,Grady,M,Ann Arbor,MI,1,13,NA,NA,NA,NA,13,NA,NA,NA,NA,NA,NA
+46,Brady,Grant,M,Denver,CO,1,13,NA,NA,NA,13,NA,NA,NA,NA,NA,NA,NA
+46,Maggie,Grant,F,Denver,CO,1,13,NA,NA,NA,13,NA,NA,NA,NA,NA,NA,NA
+46,Sarah,Grant,F,Denver,CO,1,13,NA,NA,NA,13,NA,NA,NA,NA,NA,NA,NA
+46,Jared,Grzanich,M,Canton,IL,1,13,NA,NA,NA,NA,13,NA,NA,NA,NA,NA,NA
+46,Christine,Gustafson,F,Kewanee,IL,1,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,13,NA
+46,Paul,Haas,M,Bloomington,IL,1,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,13,NA
+46,June,Haeme,F,Kempton,IL,1,13,NA,NA,NA,NA,NA,NA,NA,NA,13,NA,NA
+46,Troy,Hanger,M,Lincoln,IL,1,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,13
+46,Krystal,Hardy,F,Rockford,IL,1,13,NA,NA,NA,13,NA,NA,NA,NA,NA,NA,NA
+46,Briannah,Harrison,F,Washington,IL,1,13,NA,NA,NA,13,NA,NA,NA,NA,NA,NA,NA
+46,Norm,Heiser,M,Princeville,IL,1,13,NA,NA,NA,13,NA,NA,NA,NA,NA,NA,NA
+46,Jennifer,Heller,F,Dixon,IL,1,13,NA,NA,NA,NA,13,NA,NA,NA,NA,NA,NA
+46,Jeremey,Helmer,M,Bloomington,IL,1,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,13,NA
+46,Rigoberto,Hernandez,M,Roselle,IL,1,13,NA,NA,NA,NA,NA,NA,13,NA,NA,NA,NA
+46,Rob,Hilsabeck,M,NA,IL,1,13,NA,NA,NA,NA,NA,NA,13,NA,NA,NA,NA
+46,Daria,Hodor,F,Crown Point,IN,1,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,13
+46,Nathan,Hodor,M,Crown Point,IN,1,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,13
+46,William,Hoffman,M,Springfield,IL,1,13,NA,NA,NA,NA,NA,13,NA,NA,NA,NA,NA
+46,Jason,Hurst,M,Peoria,IL,1,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,13,NA
+46,Denise,Ismari,F,Decatur,IL,1,13,NA,NA,NA,13,NA,NA,NA,NA,NA,NA,NA
+46,Amy,Iversen,F,Chicago,IL,1,13,NA,NA,NA,NA,NA,NA,NA,NA,13,NA,NA
+46,Michelle,Jachim,F,Downers Grove,IL,1,13,NA,NA,13,NA,NA,NA,NA,NA,NA,NA,NA
+46,Jim,Jackson,M,Pekin,IL,1,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,13
+46,Dean,Jefferson,M,NA,IL,1,13,NA,13,NA,NA,NA,NA,NA,NA,NA,NA,NA
+46,Devin,Jefferson,M,Clinton,IL,1,13,NA,NA,13,NA,NA,NA,NA,NA,NA,NA,NA
+46,Brad,Johnson,M,Morton,IL,1,13,NA,NA,NA,NA,NA,NA,NA,13,NA,NA,NA
+46,Ryan,Johnson,M,NA,NA,1,13,NA,NA,NA,NA,NA,NA,NA,NA,13,NA,NA
+46,Westin,Joos,M,Peoria,IL,1,13,NA,13,NA,NA,NA,NA,NA,NA,NA,NA,NA
+46,Colleen,Kahl,F,East Peoria,IL,1,13,NA,NA,NA,NA,NA,NA,NA,NA,13,NA,NA
+46,Paul,Kelley,M,Chillicothe,IL,1,13,NA,NA,NA,NA,NA,NA,NA,NA,13,NA,NA
+46,Christina,Kienitz,F,Washington,IL,1,13,NA,NA,NA,NA,NA,NA,NA,NA,13,NA,NA
+46,Amy,Knight,F,NA,NA,1,13,NA,NA,NA,NA,NA,NA,NA,NA,13,NA,NA
+46,Barb,Knight,F,NA,NA,1,13,NA,NA,NA,NA,NA,NA,NA,NA,13,NA,NA
+46,Randi,Kuhn,F,Springfield,IL,1,13,NA,NA,NA,13,NA,NA,NA,NA,NA,NA,NA
+46,Elaine,Lagoda,F,East Peoria,IL,1,13,NA,NA,NA,NA,NA,13,NA,NA,NA,NA,NA
+46,Ashley,Lammi,F,Rockford,IL,1,13,NA,13,NA,NA,NA,NA,NA,NA,NA,NA,NA
+46,Laymond,Leaks,M,Decatur,IL,1,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,13
+46,Amy,Lee,F,NA,IL,1,13,NA,NA,NA,NA,NA,NA,13,NA,NA,NA,NA
+46,Daniel,Lidawer,M,Highland Park,IL,1,13,NA,NA,NA,NA,NA,NA,NA,NA,13,NA,NA
+46,Josh,Lidawer,M,Peoria,IL,1,13,NA,NA,NA,NA,NA,NA,NA,NA,13,NA,NA
+46,Cheryl,Lindberg,F,Caledonia,IL,1,13,NA,NA,NA,NA,NA,13,NA,NA,NA,NA,NA
+46,Mallory,Lindstrom,F,Lacon,IL,1,13,NA,NA,NA,NA,NA,NA,NA,13,NA,NA,NA
+46,Marcus,Lockhart,M,NA,NA,1,13,NA,NA,NA,NA,NA,NA,NA,NA,13,NA,NA
+46,Jessica,Lomax,F,Woodridge,IL,1,13,NA,NA,NA,NA,NA,NA,13,NA,NA,NA,NA
+46,Danny,Machak,M,Joliet,IL,1,13,NA,NA,13,NA,NA,NA,NA,NA,NA,NA,NA
+46,Eva,Magnusen,F,NA,IL,1,13,NA,NA,NA,NA,NA,NA,13,NA,NA,NA,NA
+46,John,Mahaney,M,East Peoria,IL,1,13,NA,13,NA,NA,NA,NA,NA,NA,NA,NA,NA
+46,Sandra,Marak,F,Chicago,IL,1,13,NA,NA,NA,13,NA,NA,NA,NA,NA,NA,NA
+46,Kurt,McAdams,M,Lockport,IL,1,13,NA,NA,NA,NA,NA,NA,NA,NA,13,NA,NA
+46,Bob,McCrory,M,Dixon,IL,1,13,NA,NA,NA,13,NA,NA,NA,NA,NA,NA,NA
+46,Latoya,McGuire,F,NA,IL,1,13,NA,13,NA,NA,NA,NA,NA,NA,NA,NA,NA
+46,Alex,McKenzie,M,Peoria,IL,1,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,13
+46,Yvette,McKenzie,F,Peoria,IL,1,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,13
+46,Cassey,Mckinny,F,Davenport,IA,1,13,NA,NA,NA,13,NA,NA,NA,NA,NA,NA,NA
+46,Dan,Meinhart,M,Downers Grove,IL,1,13,NA,NA,13,NA,NA,NA,NA,NA,NA,NA,NA
+46,Daniel,Meinhart,M,Downers Grove,IL,1,13,NA,NA,NA,13,NA,NA,NA,NA,NA,NA,NA
+46,Lisa,Meyer-McMillion,F,NA,NA,1,13,NA,NA,NA,NA,NA,NA,NA,NA,13,NA,NA
+46,Eric,Michaelis,M,St. Charles,IL,1,13,NA,NA,NA,NA,NA,13,NA,NA,NA,NA,NA
+46,Jake,Miller,M,NA,IL,1,13,NA,NA,NA,NA,NA,NA,NA,13,NA,NA,NA
+46,John,North,M,Saint Joseph,IL,1,13,NA,NA,NA,NA,NA,NA,NA,13,NA,NA,NA
+46,Valerie,Olson,F,Bettendorf,IA,1,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,13
+46,Benjamin,Page,M,Washington,IL,1,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,13
+46,Allyson,Parks,F,Edelstein,IL,1,13,NA,NA,NA,NA,NA,NA,NA,NA,13,NA,NA
+46,Stephanie,Parks,F,Chesterfield,MI,1,13,NA,NA,NA,NA,NA,13,NA,NA,NA,NA,NA
+46,Nick,Peeler,M,NA,IL,1,13,NA,NA,NA,NA,NA,NA,13,NA,NA,NA,NA
+46,Toby,Peplow,F,East Peoria,IL,1,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,13,NA
+46,Jason,Pequette,M,Tinley Park,IL,1,13,NA,NA,NA,NA,13,NA,NA,NA,NA,NA,NA
+46,Jill,Perry,F,Chicago,IL,1,13,NA,NA,NA,13,NA,NA,NA,NA,NA,NA,NA
+46,Travis,Pierce-Ryan,M,Chicago,IL,1,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,13
+46,Rachael,Pracht,F,Davenport,IA,1,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,13
+46,John,Pray,M,NA,NA,1,13,NA,NA,NA,NA,NA,NA,NA,NA,13,NA,NA
+46,John,Radloff,M,Morton,IL,1,13,NA,NA,NA,NA,NA,13,NA,NA,NA,NA,NA
+46,Christopher,Reed,M,Streator,IL,1,13,NA,NA,NA,NA,NA,13,NA,NA,NA,NA,NA
+46,Cian,Reed,M,Streator,IL,1,13,NA,NA,NA,13,NA,NA,NA,NA,NA,NA,NA
+46,Sara,Reed,F,Streator,IL,1,13,NA,NA,NA,NA,NA,13,NA,NA,NA,NA,NA
+46,Cody,Renshaw,M,Washington,IL,1,13,NA,NA,NA,13,NA,NA,NA,NA,NA,NA,NA
+46,Russ,Reynolds,M,Carlinville,IL,1,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,13
+46,Jamie,Rich,F,Davenport,IA,1,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,13
+46,Marianne,Robertson,F,Decatur,IL,1,13,NA,NA,NA,13,NA,NA,NA,NA,NA,NA,NA
+46,Matthew,Robinson,M,Peoria,IL,1,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,13
+46,Nana,Rodriguez,F,Chicago,IL,1,13,NA,NA,NA,NA,NA,NA,13,NA,NA,NA,NA
+46,Adam,Roll,M,Davenport,IA,1,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,13
+46,Brian,Rosh,M,Dunlap,IL,1,13,NA,NA,NA,NA,NA,NA,NA,NA,13,NA,NA
+46,Lisa,Roskamp,F,Dunlap,IL,1,13,NA,NA,NA,NA,NA,13,NA,NA,NA,NA,NA
+46,Patty,Ruback,F,Dekalb,IL,1,13,NA,NA,NA,13,NA,NA,NA,NA,NA,NA,NA
+46,Saige,Ruback,F,Dekalb,IL,1,13,NA,NA,NA,13,NA,NA,NA,NA,NA,NA,NA
+46,Theresa,Schultz,F,East Peoria,IL,1,13,NA,NA,NA,NA,NA,NA,NA,NA,13,NA,NA
+46,Cory,Shoopman,M,Metamora,IL,1,13,NA,NA,NA,13,NA,NA,NA,NA,NA,NA,NA
+46,Israel,Siltman,M,Middletown,IL,1,13,NA,NA,NA,NA,NA,NA,NA,NA,13,NA,NA
+46,Tonya,Siltman,F,Middletown,IL,1,13,NA,NA,NA,NA,NA,NA,NA,NA,13,NA,NA
+46,Aaron,Smith,M,NA,NA,1,13,NA,NA,NA,NA,NA,NA,NA,NA,13,NA,NA
+46,Teresa,Smith,F,NA,NA,1,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,13,NA
+46,Kate,Socha,F,Edwards,IL,1,13,NA,NA,NA,NA,NA,13,NA,NA,NA,NA,NA
+46,Diane,Stambaugh,F,Sciota,NA,1,13,NA,NA,NA,NA,NA,NA,NA,13,NA,NA,NA
+46,Maria,Stedwell,F,NA,NA,1,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,13,NA
+46,John Paul,Stedwill,M,Illinois,IL,1,13,NA,NA,NA,NA,NA,NA,NA,NA,13,NA,NA
+46,Lisa,Stisser,F,Galva,IL,1,13,NA,NA,NA,NA,NA,NA,NA,13,NA,NA,NA
+46,Gerald,Stock,M,Morrison,IL,1,13,NA,NA,NA,13,NA,NA,NA,NA,NA,NA,NA
+46,John,Stodgel,M,Washington,IL,1,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,13
+46,Cole,Stoner,M,Pekin,IL,1,13,NA,NA,NA,NA,NA,13,NA,NA,NA,NA,NA
+46,Dan,Stumpenhorst,M,Franklin Grove,IL,1,13,NA,NA,NA,13,NA,NA,NA,NA,NA,NA,NA
+46,Tim,Swanson,M,Peoria,IL,1,13,NA,NA,NA,NA,NA,NA,NA,13,NA,NA,NA
+46,Tracy,Swartz,F,NA,NA,1,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,13,NA
+46,Danny,Sweborg,M,Milan,IL,1,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,13
+46,Bobbie,Sweet,F,Washington,IL,1,13,NA,NA,NA,NA,NA,NA,NA,13,NA,NA,NA
+46,Donald,Sweet,M,Washington,IL,1,13,NA,NA,NA,NA,NA,NA,NA,13,NA,NA,NA
+46,Richard,Tapping,M,Peoria,IL,1,13,NA,NA,NA,NA,NA,NA,NA,13,NA,NA,NA
+46,Kimberly,Taylor,F,Nashville,IL,1,13,NA,NA,NA,NA,NA,NA,NA,NA,13,NA,NA
+46,Kandice,Tjebkes,F,Muscatine,IA,1,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,13
+46,Brian,Tomkinson,M,Lincoln,IL,1,13,NA,NA,13,NA,NA,NA,NA,NA,NA,NA,NA
+46,Allyn,Toth,F,Chillicothe,IL,1,13,NA,NA,13,NA,NA,NA,NA,NA,NA,NA,NA
+46,Amanda,Turner,F,NA,IL,1,13,NA,NA,NA,NA,NA,NA,13,NA,NA,NA,NA
+46,Laura,Turner,F,NA,IL,1,13,NA,NA,NA,NA,NA,NA,13,NA,NA,NA,NA
+46,Tim,Van Hoof,M,Downs,IL,1,13,NA,NA,NA,NA,13,NA,NA,NA,NA,NA,NA
+46,Troy,Walcott,M,Peoria,IL,1,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,13
+46,Melody,Wilkinson,F,Argenta,IL,1,13,NA,NA,NA,13,NA,NA,NA,NA,NA,NA,NA
+46,Stan,Winterroth,M,Bloomington,IL,1,13,NA,13,NA,NA,NA,NA,NA,NA,NA,NA,NA
+46,Bryce,Young,M,Dixon,IL,1,13,NA,13,NA,NA,NA,NA,NA,NA,NA,NA,NA
+46,Kenneth,Zdunek,M,Schaumburg,IL,1,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,13
+46,Matthew,Zopel,M,Dunlap,IL,1,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,13
+47,Jenny,Jackson,F,North Pekin,IL,1,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,NA
+47,Linda,Mourning,F,NA,NA,1,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,NA
+47,Jessica,Seidel,F,NA,NA,1,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,NA
+48,Justin,Bahaj,M,Kansas City,MO,1,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+48,Lindsey,Bahaj,F,Kansas City,MO,1,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+48,Katey,Berg,F,Evanston,IL,1,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+48,Jason,Broe,M,East Peoria,IL,1,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+48,Phyllis,Cali-Boyd,F,NA,NA,1,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+48,Tyler,Catour,M,Bettendorf,IA,1,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+48,Michelle,Charvat,F,Moline,IL,1,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+48,Katerina,Claiborne,F,Downers Grove,IL,1,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+48,Zoe,Claiborne,F,Downers Grove,IL,1,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+48,Amy,Durbin,F,Peoria,IL,1,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+48,James,Kline,M,Bloomington,IL,1,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+48,John,LaPayne,M,Edelstein,IL,1,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+48,Jayne,Lourash,F,Peoria,IL,1,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+48,Ashlee,McCarthy,F,Peoria,IL,1,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+48,Isaiah,Olateru,M,Champaign,IL,1,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+48,Samantha,Pacha,F,Davenport,IA,1,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+48,Brittany,Piepenbrink,F,Bloomington,IL,1,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+48,Chelsea,Piepenbrink,F,Normal,IL,1,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+48,Marcus,Rubley,M,Davenport,IA,1,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+48,Amanda,Smallberger,F,NA,NA,1,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+48,Adam,Sterusky,M,Peoria,IL,1,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+48,Erika,Sterusky,F,Chicago,IL,1,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+48,Simon,Svirnovskiy,M,Chicago,IL,1,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+48,Katie,Thompson,F,East Peoria,IL,1,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+48,Mike,Tomlin,M,Sparland,IL,1,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+48,Lori,Vietti,F,Chillicothe,IL,1,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+48,Sarah,Wales,F,Bloomington,IL,1,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+48,Sabrina,Weislak,F,Bloomington,IL,1,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+48,Julie,Wood,F,Bloomington,IL,1,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+48,Eileen,Zopel,F,Dunlap,IL,1,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+48,Cathy,Zwink,F,Dunlap,IL,1,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
